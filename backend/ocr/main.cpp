@@ -6,6 +6,7 @@
 #include<memory>
 #include<stdexcept>
 #include<cstdio>
+#include <Windows.h>
 
 std::string exec(const char* cmd) {
 	std::array<char, 128> buffer;
@@ -29,14 +30,10 @@ std::string exec(const char* cmd) {
 
 std::string ocr(std::string filename) {
 	std::string tesseract = "tesseract ";
-	tesseract.append(filename).append(" temp");
+	tesseract.append(filename).append(" stdout");
 	std::string out = exec(tesseract.c_str());
-	std::ifstream ifs("temp.txt");
-	std::string content((std::istreambuf_iterator<char>(ifs)),
-		(std::istreambuf_iterator<char>()));
 	//std::cout << "out " << out << std::endl;
-	//std::cout << "content " << content << std::endl;
-	return content;
+	return out;
 }
 
 std::string run(std::string filename) {
@@ -58,7 +55,7 @@ std::string run(std::string filename) {
 }
 
 int main(int argc, char *argv[]) {
-	
+
 	if (argc == 1) {
 		return -1;
 	}
