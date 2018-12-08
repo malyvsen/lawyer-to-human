@@ -8,26 +8,29 @@
 
        <div class="example-btn">
          <file-upload
-            class="btn btn-primary"
+            class="btn btn-primary v-btn white--text info v-btn--floating v-btn--outline"
             post-action="//localhost:10080/"
             :multiple="true"
             :drop="true"
             :drop-directory="true"
             v-model="files"
-            ref="upload">
-           <i class="fa fa-plus"></i>
-           Select files
+            ref="upload"
+            v-show="!$refs.upload || !$refs.upload.active">
+           <v-icon right dark>list</v-icon>
          </file-upload>
-         <button type="button" class="btn btn-success" v-if="!$refs.upload || !$refs.upload.active" @click.prevent="$refs.upload.active = true">
-           <i class="fa fa-arrow-up" aria-hidden="true"></i>
+         <v-progress-circular
+           :size="50"
+           color="primary"
+           indeterminate
+           v-show="$refs.upload && $refs.upload.active"
+          >
+         </v-progress-circular>
+         <v-btn color="blue-grey" type="button" class="btn btn-success white--text"
+           @click.prevent="$refs.upload.active = true">
            Start Upload
-         </button>
-         <button type="button" class="btn btn-danger"  v-else @click.prevent="$refs.upload.active = false">
-           <i class="fa fa-stop" aria-hidden="true"></i>
-           Stop Upload
-         </button>
+           <v-icon right dark>cloud_upload</v-icon>
+         </v-btn>
        </div>
-
     </v-content>
   </v-app>
 </template>
