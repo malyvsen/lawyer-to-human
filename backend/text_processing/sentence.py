@@ -1,4 +1,5 @@
 from word import Words
+from lemma_count import LemmaCount
 
 
 class Sentence:
@@ -13,3 +14,14 @@ class Sentence:
         if len(words) == 0:
             return None
         return cls(words)
+
+
+    def lemma_count(self):
+        result = LemmaCount()
+        for word in self.words:
+            result.register_word(word)
+        return result
+
+
+    def __str__(self):
+        return ' '.join(str(word) for word in self.words) + '.'
