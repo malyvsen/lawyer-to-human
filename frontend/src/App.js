@@ -9,12 +9,12 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Kill urself!
 	    <form>
-	    <input id="fileinput" type="file" />
+	      <input id="fileinput" type="file" />
 	    </form>
 	    <Upload />
+          <p>
+            Kill urself!
           </p>
           <a
             className="App-link"

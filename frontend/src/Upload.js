@@ -1,24 +1,28 @@
 import React, { Component } from 'react';
 
 class Upload extends React.Component {
-	construct() {
-		this.state = {uploaded: true};
+	constructor(props) {
+		super(props);
+		this.state = {uploaded: false};
+		this.handleClick = this.handleClick.bind(this);
 	}
 	render() {
 		if (this.uploaded)
 			return <p>Uploaded!</p>;
 		else
-			return <button>Upload</button>;
+			return <button onClick={this.handleClick}>Upload</button>;
 	}
 	upload(file) {
-		fetch('localhost:5000', {
+		fetch('//localhost:5000/', {
 			method: 'POST',
+			//mode: 'no-cors',
 			headers: {
-				"Content-Type": ""
+				"Content-Type": "text",
+				"Access-Control-Allow-Origin": "*"
 			},
 			body: file
 		}).then(
-			response => response.json()
+			response => console.log(response)
 		).then(
 			success => {
 				this.setState((state, props) => {
@@ -30,7 +34,7 @@ class Upload extends React.Component {
 			error => console.log(error)
 		);
 	};
-	onClick() {
+	handleClick() {
 		const input = document.getElementById('fileinput');
 		this.upload(input.files[0]);
 	};
