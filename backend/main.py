@@ -34,4 +34,15 @@ def index():
             random_hash = binascii.hexlify(os.urandom(16)).decode('utf-8')
             save_filename = f"{filename}.{random_hash}.{extension}"
         uploaded_file.save(os.path.join(app.config['UPLOAD_FOLDER'], save_filename))
+
+        ### USE FILE FOR OCR
+
+        # if not plain_text:
+        #   plain_text OCR(UPLOAD_FOLDER + '/' + save_filename)
+
+        ### USE FILE FOR AI
+
+        # summary = AI(plain_text)
+        # return summary
+
         return save_filename
