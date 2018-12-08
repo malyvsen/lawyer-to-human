@@ -1,5 +1,13 @@
 import string
 from spacy.lang.pl import STOP_WORDS as stop_words
+try:
+    import morfeusz2
+    morph = morfeusz2.Morfeusz()
+except ImportError:
+    print('Warning: Morfeusz couldn\'t be imported')
+    morph = None
+
+letters = string.ascii_letters + 'ąćęłńóśźż'
 
 
 class Word:
@@ -17,10 +25,15 @@ class Word:
 
 
     def lemma(self):
-        result = self.text.strip(string.punctuation)
-        if len(result.strip(string.digits)) == 0:
-            result = '#NUMERIC'
-        return result
+        if self.text.find(string.digits) > -1:
+            return '#NUMERIC'
+        main_text = ''.join(char for char in self.text if char in letters)
+        if morph is None:
+            return main_text
+        morph_analysis = morph.analyse(main_text)
+        if len(morph_analysis) == 0:
+        	return main_text
+        return morph_analysis[0][2][1]
 
 
     def is_stop(self):
