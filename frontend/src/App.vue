@@ -14,9 +14,16 @@
             :drop="true"
             :drop-directory="true"
             v-model="files"
-            ref="upload">
+            ref="upload"
+            v-if="!$refs.upload || !$refs.upload.active">
            <v-icon right dark>list</v-icon>
          </file-upload>
+         <v-progress-circular
+           :size="50"
+           color="primary"
+           indeterminate
+           v-else>
+         </v-progress-circular>
          <v-btn color="blue-grey" type="button" class="btn btn-success white--text"
            :loading="loading3"
            :disabled="loading3"
