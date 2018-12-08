@@ -36,7 +36,7 @@ class Document:
 
 
     def summary(self):
-        if len(self.underlined_sentences == 0):
+        if len(self.underlined_sentences) == 0:
             return None
         return Document(self.underlined_sentences)
 
