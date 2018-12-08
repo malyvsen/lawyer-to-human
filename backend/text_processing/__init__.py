@@ -1,4 +1,4 @@
 from document import Document
 
 
-__all__ = ['document', 'sentences']
+__all__ = ['document', 'sentence', 'word', 'lemma_count']
