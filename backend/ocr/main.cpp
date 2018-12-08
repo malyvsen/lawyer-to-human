@@ -29,7 +29,7 @@ std::string exec(const char* cmd) {
 
 std::string ocr(std::string filename) {
 	std::string tesseract = "tesseract ";
-	tesseract.append(filename).append(" stdout");
+	tesseract.append(filename).append(" stdout -l pol");
 	std::string out = exec(tesseract.c_str());
 	//std::cout << "out " << out << std::endl;
 	return out;
