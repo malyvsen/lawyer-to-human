@@ -6,7 +6,6 @@
 #include<memory>
 #include<stdexcept>
 #include<cstdio>
-#include <Windows.h>
 
 std::string exec(const char* cmd) {
 	std::array<char, 128> buffer;
