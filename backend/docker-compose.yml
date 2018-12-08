@@ -1,0 +1,17 @@
+version: '3.5'
+
+services:
+  web:
+    image: l2h
+    container_name: l2h
+    build:
+        context: ./
+    ports:
+      - "10080:8000"
+    networks:
+      - l2h
+
+networks:
+    l2h:
+        name: l2h
+        driver: bridge
