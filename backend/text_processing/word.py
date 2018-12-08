@@ -4,6 +4,7 @@ try:
     import morfeusz2
     morph = morfeusz2.Morfeusz()
 except ImportError:
+    print('Warning: Morfeusz couldn\'t be imported')
     morph = None
 
 letters = string.ascii_letters + 'ąćęłńóśźż'
