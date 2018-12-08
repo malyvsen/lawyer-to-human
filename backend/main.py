@@ -1,7 +1,8 @@
 import binascii
 import random
+import textract
 import os
-from flask import Flask, flash, request, redirect, url_for
+from flask import Flask, flash, request, redirect, url_for, jsonify
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 
@@ -39,14 +40,13 @@ def index():
             save_filename = f"{filename}.{random_hash}.{extension}"
         uploaded_file.save(os.path.join(app.config['UPLOAD_FOLDER'], save_filename))
 
-        ### USE FILE FOR OCR
-
-        # if not plain_text:
-        #   plain_text OCR(UPLOAD_FOLDER + '/' + save_filename)
+        text = textract.process(UPLOAD_FOLDER + '/' + save_filename, language="pol")
 
         ### USE FILE FOR AI
 
-        # summary = AI(plain_text)
-        # return summary
+        # summary = AI(text)
 
-        return save_filename
+        return jsonify({
+            'text': text.decode('utf-8')
+            # 'summary': summary
+        })
