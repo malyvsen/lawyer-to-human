@@ -8,12 +8,16 @@ class Document:
         self.sentences = sentences
         self.lemma_count = self.lemma_count()
         self.underlined_sentences = self.underlined_sentences()
+        self.summary = self.summary()
+        self.text = self.text()
 
 
     @classmethod
     def from_text(cls, text):
         sentences = [Sentence.from_text(sentence_text) for sentence_text in text.split('.')]
         sentences = [sentence for sentence in sentences if sentence is not None]
+        if len(sentences) == 0:
+            return None
         return cls(sentences)
 
 
@@ -25,10 +29,25 @@ class Document:
     def underlined_sentences(self, num_underlines=None):
         if num_underlines is None:
             num_underlines = len(self.sentences) // 4
+
         score = lambda sentence: self.lemma_count.dot(sentence.lemma_count)
-        result = sorted(self.sentences, key=score, reverse=True)[:num_underlines]
+        sorted_sentences = sorted(self.sentences, key=score, reverse=True)
+
+        order = lambda sentence: self.sentences.index(sentence)
+        result = sorted(sorted_sentences[:num_underlines], key=order)
         return result
 
 
+    def summary(self):
+        if len(self.underlined_sentences) == 0:
+            return None
+        return Document(self.underlined_sentences)
+
+
+    def text(self):
+        return ' '.join(sentence.text for sentence in self.sentences)
+
+
     def __str__(self):
-        return ' '.join(str(sentence) for sentence in self.sentences)
+        return f'''Document with {len(self.sentences)} sentences, {len(self.lemma_count.count)} unique words:
+        {self.text}'''
