@@ -1,5 +1,5 @@
-from word import Words
-from lemma_count import LemmaCount
+from text_processing.word import Words
+from text_processing.lemma_count import LemmaCount
 
 
 class Sentence:

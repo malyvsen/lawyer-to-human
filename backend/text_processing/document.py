@@ -1,5 +1,5 @@
-from sentence import Sentence
-from lemma_count import LemmaCount
+from text_processing.sentence import Sentence
+from text_processing.lemma_count import LemmaCount
 from functools import reduce
 
 
