@@ -5,7 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "*"
-spacy = ">=2.0.0"
+flask-cors = "*"
+spacy = "*"
 
 [dev-packages]
 
