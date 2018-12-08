@@ -8,6 +8,7 @@
    ],
    "metadata":
    [
-      {"type": "document-type", "document-type-name": "Umowa o prace"}
+      {"type": "document-type", "document-type-name": "Umowa o prace"},
+      {"type": "summary", "text": "Summary text."}
    ]
 }
