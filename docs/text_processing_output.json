@@ -1,0 +1,13 @@
+{
+   "text": "The document contents.",
+   "selections":
+   [
+      {"type": "underline", "position": [16, 32]},
+      {"type": "definition", "position": [16, 32], "description": "Definition of term."},
+      {"type": "entity-info", "position": [16, 32], "description": {???}}
+   ],
+   "metadata":
+   [
+      {"type": "document-type", "document-type-name": "Umowa o prace"}
+   ]
+}
