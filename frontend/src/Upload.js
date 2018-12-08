@@ -15,9 +15,9 @@ class Upload extends React.Component {
 	upload(file) {
 		fetch('//localhost:5000/', {
 			method: 'POST',
-			//mode: 'no-cors',
+			mode: 'cors',
 			headers: {
-				"Content-Type": "text",
+				"Content-Type": file.type,
 				"Access-Control-Allow-Origin": "*"
 			},
 			body: file
@@ -33,6 +33,8 @@ class Upload extends React.Component {
 		).catch(
 			error => console.log(error)
 		);
+		console.log(file);
+		console.log(file.type);
 	};
 	handleClick() {
 		const input = document.getElementById('fileinput');
