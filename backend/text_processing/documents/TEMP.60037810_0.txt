@@ -1,0 +1,44 @@
+﻿Zlecenie przewozowea
+Odb Zleceniodawcy:      
+[firma; siedziba, adres; Nr we właściwym rejestrze oraz nazwa rejestru, 
+CEIDG, REGON, NIP, telefon, fax]
+Dla Przewoźnika:      
+[firma; siedziba, adres; Nr we właściwym rejestrze oraz nazwa rejestru, 
+CEIDG, REGON, NIP, telefon, fax]
+Rodzaj towaru:      
+W przypadku gdy jest towarem niebezpiecznym w myśl ustawy z 19.8.2011 r. o przewozie towarów niebezpiecznych (Dz.U. Nr 227, poz. 1367 ze zm.)c i Konwencji ADRd, należy podać: 
+Nr UN       klasa      /grupa pakowania      /waga      /ilość opakowań      /rodzaj opakowań      
+Dokumenty do przesyłki od eksportera:      .
+
+
+	Eksporter 				    	Importer 
+
+     	             				     
+   	[firma, telefon i osoba kontaktowa]	            [firma, telefon i osoba kontaktowa]
+
+Termin i miejsce załadunkue		          Miejsce wyładunku
+
+     	             					     
+[dokładny adres]	       			   	[dokładny adres]
+
+Stawka za transportf, g:      
+
+W przypadku importu spoza UE Zleceniodawca oświadcza, że towar jest zwolniony/opodatkowany** stawką podatku VAT 0%/8%/23%**
+
+Sposób zapłaty: 				Termin zapłaty: 
+
+     	             				     
+
+Uwagi dodatkowe, w tym dodatkowego ubezpieczenia (cargo, OCP, inne) jeśli występujeg:
+1. Przewoźnik zobowiązuje się do dostarczenia towaru w terminieh      .
+2. Do stawki za transport w złotych dolicza się podatek VAT w wysokości zgodnej z ustawą z 11.3.2004 r. o podatku od towarów i usług (t.j. Dz.U. z 2011 r. Nr 177, poz. 1054 ze zm.). 
+3. Za niezawiniony przez Zleceniodawcę postój pojazdu za każdą rozpoczętą godzinę postoju Przewoźnik ponosi karę umowną w wysokości: za samochód o ładowności do 2,5t       EUR; maks.       EUR/dobę (      godziny wolne od opłat), za samochód o ładowności do 12t       EUR; maks.       EUR/dobę (      godziny wolne od opłat), za samochód o ładowności 24t       EUR; maks.       EUR/dobę (      godzin wolne od opłat).
+4. Prawa i obowiązki Zleceniodawcy, w tym zakres jego odpowiedzialności, co do zasady i wysokości, ustala się umownie tak jak prawa i obowiązki przewoźnika międzynarodowego określone w Konwencji CMRi.
+5. W przypadku importu towarów spoza UE Zleceniodawca zobowiązuje się przesłać faksem do Przewoźnika kopie SAD w dniu odprawy lub w dniu następnym. Nie przesłanie kopii SAD w terminie spowoduje naliczenie przez Przewoźnika podatku VAT za cały odcinek krajowy w wysokości       % i wystawienie faktury korygującej.
+6. W przypadku pierwszego zlecenia prosimy załączyć kopie dokumentów: Regon, NIP lub NIP EU w przypadku wewnątrzwspólnotowej dostawy lub nabycia towaru (UE), wypis potwierdzający rejestrację Zleceniodawcy, w przypadku osób fizycznych (w tym spółek cywilnych) adres zamieszkania. 
+7. Wszelkie spory mogące powstać na tle niniejszego zlecenia będą rozpatrywane przez sądy właściwe dlaj      .
+
+
+     	             			     
+[miejscowość i data]			[imię i nazwisko Zleceniodawcy,
+podpis i pieczęć]
