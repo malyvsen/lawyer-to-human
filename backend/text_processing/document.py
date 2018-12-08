@@ -8,6 +8,7 @@ class Document:
         self.sentences = sentences
         self.lemma_count = self.lemma_count()
         self.underlined_sentences = self.underlined_sentences()
+        self.summary = self.summary()
 
 
     @classmethod
@@ -32,6 +33,12 @@ class Document:
         order = lambda sentence: self.sentences.index(sentence)
         result = sorted(sorted_sentences[:num_underlines], key=order)
         return result
+
+
+    def summary(self):
+        if len(self.underlined_sentences == 0):
+            return None
+        return Document(self.underlined_sentences)
 
 
     def __str__(self):
