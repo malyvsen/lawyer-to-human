@@ -1,23 +1,19 @@
 #include<iostream>
-#include<string>
-#include<algorithm>
-#include<fstream>
 #include<array>
 #include<memory>
-#include<stdexcept>
-#include<cstdio>
+#include<string>
 
-std::string exec(const char* cmd) {
+std::string exec(const char *cmd) {
 	std::array<char, 128> buffer;
 	std::string result;
-#ifdef __linux__ 
+#ifdef __linux__
 	std::unique_ptr<FILE, decltype(&pclose)> pipe(popen(cmd, "r"), pclose);
 #elif _WIN32
 	std::unique_ptr<FILE, decltype(&_pclose)> pipe(_popen(cmd, "r"), _pclose);
 #else
 
 #endif
-	
+
 	if (!pipe) {
 		throw std::runtime_error("popen() failed!");
 	}
@@ -59,8 +55,8 @@ int main(int argc, char *argv[]) {
 		return -1;
 	}
 	std::string filename = argv[1];
-	std::cout <<run(filename) << std::endl;
-	
+	std::cout << run(filename) << std::endl;
+
 
 	//std::cout << extention << std::endl;
 	getchar();
