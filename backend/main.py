@@ -2,12 +2,16 @@ import binascii
 import random
 import os
 from flask import Flask, flash, request, redirect, url_for
+from flask_cors import CORS
 from werkzeug.utils import secure_filename
+
 
 UPLOAD_FOLDER = '/tmp'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+CORS(app)
 
 NO_FILE_UPLOADED = 'NO FILE UPLOADED'
 
