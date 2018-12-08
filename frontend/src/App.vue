@@ -25,8 +25,6 @@
            v-else>
          </v-progress-circular>
          <v-btn color="blue-grey" type="button" class="btn btn-success white--text"
-           :loading="loading3"
-           :disabled="loading3"
             v-if="!$refs.upload || !$refs.upload.active" @click.prevent="$refs.upload.active = true">
            Start Upload
            <v-icon right dark>cloud_upload</v-icon>
