@@ -116,3 +116,6 @@ dmypy.json
 
 # Editor / IDE stuff
 *.swp
+
+# NPM packages
+**/node_modules

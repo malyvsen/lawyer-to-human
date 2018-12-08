@@ -1,11 +1,11 @@
 <template>
   <div class="paper-document">
-    <p>
-      <span>
-        Sit voluptatem aliquid error corporis laborum sapiente sint. Labore ipsam doloribus ut aut alias placeat.
-      </span>
-      <span class="underlined">
-        Atque autem et odio totam labore neque ut. Error soluta iste tenetur quia voluptas debitis dolores.
+    <p class="document-text">
+      <span>Sit voluptatem aliquid error corporis laborum sapiente sint. Labore ipsam doloribus ut aut alias placeat.</span>
+      <span
+        class="underlined"
+      >Atque autem et odio totam labore neque ut. Error soluta iste tenetur quia voluptas debitis dolores.
+        <SideTooltip></SideTooltip>
       </span>
       {{ content }}
     </p>
@@ -13,9 +13,10 @@
 </template>
 
 <script>
-  export default {
-    data: () => ({
-      content: `
+import SideTooltip from "./SideTooltip.vue";
+export default {
+  data: () => ({
+    content: `
         Repudiandae quisquam vel eveniet praesentium. Et velit nisi dolores ducimus.
         Corporis ratione unde at voluptatibus rerum sed fugit animi. Aut natus a ut est accusamus ullam animi voluptate.
         Nostrum officia animi aliquam quia pariatur ut odio.
@@ -33,15 +34,19 @@
         Iure ut dolor sed et modi. Blanditiis cumque et quod dolores quae aut quo. Veritatis cum ut aut.
         Rerum optio asperiores earum ducimus natus laborum consequuntur.
       `
-    })
+  }),
+  components: {
+    SideTooltip
   }
+};
 </script>
 
 <style>
 .paper-document {
+  position: relative;
   font-size: 1.5em;
   background: #fff;
-  box-shadow: 0 -1px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 -1px 15px rgba(0, 0, 0, 0.2);
   max-width: 210mm;
   width: 100%;
   min-height: 80%;
@@ -49,7 +54,22 @@
   padding: 3rem;
 }
 
+.document-text {
+  text-align: justify;
+}
+
 .underlined {
   text-decoration: underline;
+  position: relative;
+}
+
+.side-tooltip {
+  transition: opacity 0.5s ease;
+  opacity: 0;
+}
+
+span.underlined:hover .side-tooltip {
+  opacity: 1;
+  transition-duration: 0.3s;
 }
 </style>

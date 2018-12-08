@@ -49,3 +49,9 @@ export default {
   }
 }
 </script>
+
+<style>
+  body {
+    background: #fafafa;
+  }
+</style>
