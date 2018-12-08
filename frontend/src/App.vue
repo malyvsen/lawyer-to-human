@@ -9,7 +9,7 @@
        <div class="example-btn">
          <file-upload
             class="btn btn-primary"
-            post-action="//localhost:5000/"
+            post-action="//localhost:10080/"
             :multiple="true"
             :drop="true"
             :drop-directory="true"
