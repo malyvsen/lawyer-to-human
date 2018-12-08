@@ -1,5 +1,6 @@
 import string
 from spacy.lang.pl import STOP_WORDS as stop_words
+letters = string.ascii_letters + 'ąćęłńóśźż'
 
 
 class Word:
@@ -17,10 +18,9 @@ class Word:
 
 
     def lemma(self):
-        result = self.text.strip(string.punctuation)
-        if len(result.strip(string.digits)) == 0:
-            result = '#NUMERIC'
-        return result
+        if self.text.find(string.digits) > -1:
+            return '#NUMERIC'
+        return ''.join(char for char in self.text if char in letters)
 
 
     def is_stop(self):
