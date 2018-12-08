@@ -6,6 +6,7 @@ class Sentence:
     def __init__(self, words):
         self.words = words
         self.lemma_count = self.lemma_count()
+        self.text = self.text()
 
 
     @classmethod
@@ -24,5 +25,10 @@ class Sentence:
         return result
 
 
+    def text(self):
+        return ' '.join(word.text for word in self.words) + '.'
+
+
     def __str__(self):
-        return ' '.join(str(word) for word in self.words) + '.'
+        return f'''Sentence with {len(self.words)} words, {len(self.lemma_count.count)} unique words:
+        {self.text}'''

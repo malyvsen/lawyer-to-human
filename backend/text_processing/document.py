@@ -9,12 +9,15 @@ class Document:
         self.lemma_count = self.lemma_count()
         self.underlined_sentences = self.underlined_sentences()
         self.summary = self.summary()
+        self.text = self.text()
 
 
     @classmethod
     def from_text(cls, text):
         sentences = [Sentence.from_text(sentence_text) for sentence_text in text.split('.')]
         sentences = [sentence for sentence in sentences if sentence is not None]
+        if len(sentences) == 0:
+            return None
         return cls(sentences)
 
 
@@ -41,5 +44,10 @@ class Document:
         return Document(self.underlined_sentences)
 
 
+    def text(self):
+        return ' '.join(sentence.text for sentence in self.sentences)
+
+
     def __str__(self):
-        return ' '.join(str(sentence) for sentence in self.sentences)
+        return f'''Document with {len(self.sentences)} sentences, {len(self.lemma_count.count)} unique words:
+        {self.text}'''
