@@ -5,6 +5,7 @@ from lemma_count import LemmaCount
 class Sentence:
     def __init__(self, words):
         self.words = words
+        self.lemma_count = self.lemma_count()
 
 
     @classmethod

@@ -4,9 +4,10 @@ from functools import reduce
 
 
 class Document:
-    def __init__(self, sentences, metadata):
+    def __init__(self, sentences):
         self.sentences = sentences
-        self.metadata = metadata
+        self.lemma_count = self.lemma_count()
+        self.underlined_sentences = self.underlined_sentences()
 
 
     @classmethod
@@ -17,8 +18,16 @@ class Document:
 
 
     def lemma_count(self):
-        sentence_lemma_counts = [sentence.lemma_count() for sentence in self.sentences]
+        sentence_lemma_counts = [sentence.lemma_count for sentence in self.sentences]
         return reduce(lambda a, b: a + b, sentence_lemma_counts, initial=LemmaCount())
+
+
+    def underlined_sentences(self, num_underlines=None):
+        if num_underlines is None:
+            num_underlines = len(self.sentences) // 4
+        score = lambda sentence: self.lemma_count.dot(sentence.lemma_count)
+        result = sorted(self.sentences, key=score, reverse=True)[num_underlines]
+        return result
 
 
     def __str__(self):

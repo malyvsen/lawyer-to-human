@@ -14,6 +14,14 @@ class LemmaCount:
         self.count[word.lemma] += 1
 
 
+    def dot(self, other):
+        result = 0
+        for lemma in self.count:
+            if lemma in other.count:
+                result += self.count[lemma] * other.count[lemma]
+        return result
+
+
     def __add__(self, other):
         count = {lemma: 0 for lemma in list(self.count) + list(other.count)}
         for lemma in self.count:
