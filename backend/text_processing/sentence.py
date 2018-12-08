@@ -1,4 +1,4 @@
-from text_processing.word import Words
+from text_processing.word import Word
 from text_processing.lemma_count import LemmaCount
 
 

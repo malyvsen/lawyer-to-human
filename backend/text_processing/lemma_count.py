@@ -29,3 +29,7 @@ class LemmaCount:
         for lemma in other.count:
             count[lemma] += other.count[lemma]
         return LemmaCount(count)
+
+
+    def __str__(self):
+        return str(self.count)
