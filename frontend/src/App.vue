@@ -23,9 +23,6 @@
       >
         <v-icon>hearing</v-icon>
       </v-btn>
-      <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
-        <h3>Drop files to upload</h3>
-      </div>
 
       <SelectionDetails></SelectionDetails>
 
@@ -38,7 +35,7 @@
         <v-flex>
           <file-upload
             class="file-upload"
-            post-action="//localhost:10080/"
+            post-action="/api/"
             :drop="true"
             :drop-directory="true"
             v-model="file"
@@ -51,10 +48,10 @@
                 present_to_all
               </v-icon>
               <span v-if="file.length == 0">
-                Click here to upload
+                Przeciągnij tutaj plik albo naciśnij aby go wybrać.
               </span>
               <span v-else>
-                File selected! Press button below to upload.
+                Plik wybrany! Naciśnij przycisk poniżej aby przesłać.
               </span>
             </v-layout>
           </file-upload>
