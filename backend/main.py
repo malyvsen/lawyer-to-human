@@ -72,6 +72,6 @@ def index():
 
         analysis = text_processing.analysis(text.decode('utf-8'))
 
-        analysis['tts'] = gen_tts(analysis['text'])
+        # analysis['tts'] = gen_tts(analysis['text'])
 
         return jsonify(analysis)
