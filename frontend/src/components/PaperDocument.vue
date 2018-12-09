@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import SideTooltip from "./SideTooltip.vue";
+// import SideTooltip from "./SideTooltip.vue";
 export default {
   props: ["content", "positions", "document", "sentenceIndex"],
   watch: {
@@ -28,33 +28,10 @@ export default {
       window.scrollTo(0, scroll);
     }
   },
-  components: {
-    SideTooltip
-  },
+  // components: {
+  //   SideTooltip
+  // },
   computed: {
-    // splitedContent: function() {
-    //   const parts = [];
-    //   let prevIndex = 0;
-    //   for (const position of this.positions) {
-    //     parts.push({
-    //       text: this.content.slice(prevIndex, position[0]),
-    //       isSelection: false
-    //     });
-    //     parts.push({
-    //       text: this.content.slice(position[0], position[1]),
-    //       isSelection: true
-    //     })
-    //     prevIndex = position[1];
-    //   }
-    //   parts.push({
-    //     text: this.content.slice(prevIndex),
-    //     isSelection: false
-    //   });
-    //   return parts;
-    // },
-    // splitedContent: function() {
-    //   const sentences = this.document.sentences;
-    // }
   }
 };
 </script>

@@ -10,7 +10,7 @@
       <v-flex class="text-xs-center">
         <v-item-group>
           <span style="margin-right: 1rem">
-            <strong>{{ sentenceIndex }}</strong> / {{ sentenceMaxIndex - 1 }}
+            <strong>{{ sentenceIndex + 1 }}</strong> / {{ sentenceMaxIndex }}
           </span>
           <v-divider vertical></v-divider>
 
