@@ -6,10 +6,8 @@
         v-for="(sentence, index) in document.sentences"
         :key="index"
         v-bind:class="{'important': sentence.important, 'current-sentence': index === sentenceIndex}"
-      >
-        {{ sentence.text }}
-        <!-- <SideTooltip></SideTooltip> -->
-      </span>
+        v-html="sentence.text"
+      ></span>
     </p>
   </article>
 </template>
@@ -20,11 +18,11 @@ export default {
   props: ["content", "positions", "document", "sentenceIndex"],
   watch: {
     sentenceIndex: function(newIndex, oldIndex) {
-      console.log('WATCH sentenceIndex:', newIndex, oldIndex);
+      // console.log('WATCH sentenceIndex:', newIndex, oldIndex);
       const sentenceEl = this.$el.querySelector(`.sentence:nth-child(${newIndex+1})`);
       const scroll = sentenceEl.offsetTop - sentenceEl.scrollTop;
       // const scroll = sentenceEl.getBoundingClientRect().top;
-      console.log(scroll);
+      // console.log(scroll);
       window.scrollTo(0, scroll);
     }
   },
