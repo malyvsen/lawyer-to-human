@@ -38,6 +38,12 @@ def serve_audio(path):
     return send_from_directory(app.config['TTS_FOLDER'], path)
 
 
+@app.route('/newaudio', methods=['POST'])
+def create_audio():
+    # probably should check if plain text
+    return gen_tts(request.data)
+
+
 @app.route('/', methods=['POST'])
 def index():
     # check if the post request has the file part
