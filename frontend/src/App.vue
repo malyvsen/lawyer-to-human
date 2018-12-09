@@ -2,6 +2,12 @@
   <v-app>
     <v-content>
       <paper-document v-if="currentDocument.text !== null" :content="currentDocument.text" :positions="processingDataPositions"></paper-document>
+      <v-btn color="info" fab large dark
+        v-if="currentDocument.tts !== null"
+        v-bind:id="currentDocument.tts"
+	v-on:click="playTTS">
+        <v-icon>hearing</v-icon>
+      </v-btn>
        <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
          <h3>Drop files to upload</h3>
        </div>
@@ -52,6 +58,7 @@ export default {
       uploadStatus: null,
       currentDocument: {
         text: null,
+        tts: null,
         metadata: [],
         selections: []
       }
@@ -65,6 +72,7 @@ export default {
             this.uploadStatus = true
             console.log(newFile.response.metadata)
             this.currentDocument.text = newFile.response.text || '';
+            this.currentDocument.tts = newFile.response.tts || '';
             this.currentDocument.metadata = newFile.response.metadata || [];
             this.currentDocument.selections = newFile.response.selections || []
           } else {
@@ -72,6 +80,11 @@ export default {
           }
         }
       }
+    },
+    playTTS: function (event) {
+      const src = "//localhost:10080" + event.originalTarget.id;
+      const audio = new Audio(src);
+      audio.play();
     }
   },
   computed: {
