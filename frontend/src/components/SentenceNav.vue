@@ -20,7 +20,6 @@
                Twoja pozycja w dokumencie - obecne zdanie / liczba zdań.
               </span>
             </v-tooltip>
-
           <v-divider vertical></v-divider>
 
           <v-tooltip bottom>
@@ -64,11 +63,7 @@
 
 <script>
 export default {
-  props: ['sentenceIndex'],
-  // data: () => ({
-  //   quote: "Lorem ipsum"
-  // }),
-  //   props: ['quote'],
+  props: ['sentenceIndex', 'sentenceMaxIndex'],
   components: {},
   computed: {},
   methods: {}
