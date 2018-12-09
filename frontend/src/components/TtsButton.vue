@@ -1,15 +1,10 @@
 <template>
 	<div>
-		<v-btn
-			color="info"
-			fab
-			large
-			dark
+		<v-btn flat icon
 			v-show="txt !== null && !locked"
-			id="all"
 			v-on:click="getTTS"
 			>
-			<v-icon>hearing</v-icon>
+	<v-icon>volume_up</v-icon>
 		</v-btn>
 		<v-progress-circular
 			:size="50"
@@ -25,8 +20,8 @@
 export default {
 	data: () => ({
 		locked: false,
-		src: "safdsffds"}),
-	props: ['id', 'txt'],
+		src: null}),
+	props: ['txt'],
 	methods: {
 		fetchTTS: function(txt, assign) {
 			fetch("//localhost:10080/newaudio", {
