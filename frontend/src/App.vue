@@ -20,12 +20,7 @@
 
       <SelectionDetails :definitionList="currentDefinitions" v-bind:class="{hidden: !uploadStatus || currentDefinitions.length === 0}"></SelectionDetails>
 
-      <v-layout
-        align-center
-        align-content-center
-        justify-center
-        column
-        >
+      <div class="upload-btn text-xs-center" v-if="!uploadStatus">
         <v-flex>
           <file-upload
             class="file-upload"
@@ -62,11 +57,12 @@
             type="button"
             class="btn btn-success white--text"
             @click.prevent="$refs.upload.active = true"
-          >Start Upload
+          >
+            Start Upload
             <v-icon right dark>cloud_upload</v-icon>
           </v-btn>
         </v-flex>
-      </v-layout>
+      </div>
     </v-content>
   </v-app>
 </template>
@@ -112,7 +108,11 @@ export default {
             this.currentDocument.metadata = newFile.response.metadata || [];
             this.currentDocument.selections = newFile.response.selections || [];
             this.currentDocument.sentences = newFile.response.sentences || [];
-            console.log("CURR DOC", this.currentDocument);
+            this.currentDocument.sentences.map(sentence => {
+              const snetenceText = sentence.text.replace('\n', '<br>');
+              sentence.text = snetenceText;
+              return sentence;
+            });
           } else {
             this.uploadStatus = false;
           }
