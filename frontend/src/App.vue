@@ -64,9 +64,9 @@ export default {
           if (newFile.xhr.status === 200) {
             this.uploadStatus = true
             console.log(newFile.response.metadata)
-            this.currentDocument.text = newFile.response.text
-            this.currentDocument.metadata = newFile.response.metadata
-            this.currentDocument.selections = newFile.response.selections
+            this.currentDocument.text = newFile.response.text || '';
+            this.currentDocument.metadata = newFile.response.metadata || [];
+            this.currentDocument.selections = newFile.response.selections || []
           } else {
             this.uploadStatus = false;
           }
@@ -76,7 +76,8 @@ export default {
   },
   computed: {
     processingDataPositions: function() {
-      const sortedSelections = this.currentDocument.selections.sort((a, b) => (a[0] > b[0]));
+      const selections = Array.from(this.currentDocument.selections);
+      const sortedSelections = selections.sort((a, b) => (a[0] > b[0]));
       return sortedSelections.map(selection => (selection.position));
     }
   }
