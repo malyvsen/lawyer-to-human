@@ -82,7 +82,7 @@ export default {
       }
     },
     playTTS: function (event) {
-      const src = "//localhost:10080" + event.originalTarget.id;
+      const src = "//localhost:10080/audio/" + event.originalTarget.id;
       const audio = new Audio(src);
       audio.play();
     }
