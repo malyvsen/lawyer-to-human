@@ -1,627 +1,627 @@
-Liberty Ubezpieczenia sta³o siê czêœci¹
+ï»¿Liberty Ubezpieczenia staÅ‚o siÄ™ czÄ™Å›ciÄ…
 
 
 AXA Ubezpieczenia TUiR S.A.
 
-Marka handlowa Liberty Ubezpieczenia jest u¿ywana przez AXA Ubezpieczenia TUiR S.A. na podstawie umowy zawartej w zwi¹zku z nabyciem portfela ubezpieczeñ Liberty Seguros, Compania de Seguros y Reaseguros S.A. Oddzia³ w Polsce. U¿ywanie znaku towarowego Liberty Ubezpieczenia nie oznacza, ¿e stron¹ umowy ubezpieczenia jest Liberty Seguros, ani ¿e Liberty Seguros ponosi odpowiedzialnoœæ z jej tytu³u.
+Marka handlowa Liberty Ubezpieczenia jest uÅ¼ywana przez AXA Ubezpieczenia TUiR S.A. na podstawie umowy zawartej w zwiÄ…zku z nabyciem portfela ubezpieczeÅ„ Liberty Seguros, Compania de Seguros y Reaseguros S.A. OddziaÅ‚ w Polsce. UÅ¼ywanie znaku towarowego Liberty Ubezpieczenia nie oznacza, Å¼e stronÄ… umowy ubezpieczenia jest Liberty Seguros, ani Å¼e Liberty Seguros ponosi odpowiedzialnoÅ›Ä‡ z jej tytuÅ‚u.
  
 
 AXA Ubezpieczenia TUiR SA
 
-00-867 Warszawa, ul. Ch³odna 51 S¹d Rejonowy dla m.st. Warszawy
+00-867 Warszawa, ul. ChÅ‚odna 51 SÄ…d Rejonowy dla m.st. Warszawy
 
-XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego KRS 0000271543, NIP 1070006155, REGON 140806789 Wysokoœæ kapita³u zak³adowego 15 941 177 PLN, op³acony w ca³oœci.
+XII WydziaÅ‚ Gospodarczy Krajowego Rejestru SÄ…dowego KRS 0000271543, NIP 1070006155, REGON 140806789 WysokoÅ›Ä‡ kapitaÅ‚u zakÅ‚adowego 15 941 177 PLN, opÅ‚acony w caÅ‚oÅ›ci.
 tel. +48 22 589 95 21, www.lu.pl
  
 
 
 
 
-REGULAMIN ŒWIADCZENIA US£UG DROG¥ ELEKTRONICZN¥ POPRZEZ SERWIS WWW.LU.PL
+REGULAMIN ÅšWIADCZENIA USÅUG DROGÄ„ ELEKTRONICZNÄ„ POPRZEZ SERWIS WWW.LU.PL
 
 
 
-§	1
+Â§	1
 
-Postanowienia ogólne
+Postanowienia ogÃ³lne
 
 
-1.	Na podstawie art. 8 ust. 1 pkt. 1) ustawy z 18 lipca 2002 r. o œwiadczeniu us³ug drog¹ elektroniczn¹ (Dz.
+1.	Na podstawie art. 8 ust. 1 pkt. 1) ustawy z 18 lipca 2002 r. o Å›wiadczeniu usÅ‚ug drogÄ… elektronicznÄ… (Dz.
 
-U. z 2016 r., poz. 1030 z póŸn. zm.) AXA Ubezpieczenia Towarzystwo Ubezpieczeñ i Reasekuracji S.A., ul. Ch³odna 51, 00-867 Warszawa, posiadaj¹cy REGON: 140806789, NIP: 1070006155, ustala niniejszym regulamin œwiadczenia us³ug drog¹ elektroniczn¹ (zwany dalej Regulaminem).
+U. z 2016 r., poz. 1030 z pÃ³Åºn. zm.) AXA Ubezpieczenia Towarzystwo UbezpieczeÅ„ i Reasekuracji S.A., ul. ChÅ‚odna 51, 00-867 Warszawa, posiadajÄ…cy REGON: 140806789, NIP: 1070006155, ustala niniejszym regulamin Å›wiadczenia usÅ‚ug drogÄ… elektronicznÄ… (zwany dalej Regulaminem).
 
-2.	Niniejszy Regulamin okreœla zasady i warunki techniczne œwiadczenia us³ug drog¹ elektroniczn¹ przez AXA Ubezpieczenia Towarzystwo Ubezpieczeñ i Reasekuracji S.A za poœrednictwem witryny WWW dostêpnej w Internecie pod adresem www.lu.pl, warunki zawierania i rozwi¹zywania umów o œwiadczenie takich us³ug, a tak¿e tryb postêpowania reklamacyjnego.
+2.	Niniejszy Regulamin okreÅ›la zasady i warunki techniczne Å›wiadczenia usÅ‚ug drogÄ… elektronicznÄ… przez AXA Ubezpieczenia Towarzystwo UbezpieczeÅ„ i Reasekuracji S.A za poÅ›rednictwem witryny WWW dostÄ™pnej w Internecie pod adresem www.lu.pl, warunki zawierania i rozwiÄ…zywania umÃ³w o Å›wiadczenie takich usÅ‚ug, a takÅ¼e tryb postÄ™powania reklamacyjnego.
 
-3.	Stron¹ umowy zawieranej za poœrednictwem serwisu internetowego www.lu.pl jest AXA Ubezpieczenia Towarzystwo Ubezpieczeñ i Reasekuracji S.A., ul. Ch³odna 51, 00-867 Warszawa, NIP 107-000-61-55, REGON 140806789, wpisany do rejestru przedsiêbiorców prowadzonego przez S¹d Rejonowy dla m.st. Warszawy, XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, numer KRS 0000271543.
+3.	StronÄ… umowy zawieranej za poÅ›rednictwem serwisu internetowego www.lu.pl jest AXA Ubezpieczenia Towarzystwo UbezpieczeÅ„ i Reasekuracji S.A., ul. ChÅ‚odna 51, 00-867 Warszawa, NIP 107-000-61-55, REGON 140806789, wpisany do rejestru przedsiÄ™biorcÃ³w prowadzonego przez SÄ…d Rejonowy dla m.st. Warszawy, XII WydziaÅ‚ Gospodarczy Krajowego Rejestru SÄ…dowego, numer KRS 0000271543.
 
-4.	Prawem w³aœciwym dla stosowania niniejszego Regulaminu jest prawo polskie, a w szczególnoœci nastêpuj¹ce ustawy:
+4.	Prawem wÅ‚aÅ›ciwym dla stosowania niniejszego Regulaminu jest prawo polskie, a w szczegÃ³lnoÅ›ci nastÄ™pujÄ…ce ustawy:
 
-a)	Ustawa Kodeks cywilny z 23 kwietnia 1964 roku (Dz. U. z 2016 r., poz. 380 z póŸn. zm.), zwana dalej kodeksem cywilnym;
+a)	Ustawa Kodeks cywilny z 23 kwietnia 1964 roku (Dz. U. z 2016 r., poz. 380 z pÃ³Åºn. zm.), zwana dalej kodeksem cywilnym;
 
-b)	Ustawa z 18 lipca 2002 r. o œwiadczeniu us³ug drog¹ elektroniczn¹ (Dz. U. z 2016 r., poz. 1030 z póŸn. zm.), zwana dalej ustaw¹ o œwiadczeniu us³ug;
+b)	Ustawa z 18 lipca 2002 r. o Å›wiadczeniu usÅ‚ug drogÄ… elektronicznÄ… (Dz. U. z 2016 r., poz. 1030 z pÃ³Åºn. zm.), zwana dalej ustawÄ… o Å›wiadczeniu usÅ‚ug;
 
-c)	Ustawa z 29 sierpnia 1997 r. o ochronie danych osobowych (tekst jedn. Dz. U. z 2016 r., poz. 922 z póŸn. zm.), zwana dalej ustaw¹ o ochronie danych;
+c)	Ustawa z 29 sierpnia 1997 r. o ochronie danych osobowych (tekst jedn. Dz. U. z 2016 r., poz. 922 z pÃ³Åºn. zm.), zwana dalej ustawÄ… o ochronie danych;
 
-d)	Ustawa o dzia³alnoœci ubezpieczeniowej i reasekuracyjnej z 11 wrzeœnia 2015 roku (Dz. U. z 2015 r., poz. 1844 z póŸn. zm.), zwana dalej ustaw¹ ubezpieczeniow¹;
+d)	Ustawa o dziaÅ‚alnoÅ›ci ubezpieczeniowej i reasekuracyjnej z 11 wrzeÅ›nia 2015 roku (Dz. U. z 2015 r., poz. 1844 z pÃ³Åºn. zm.), zwana dalej ustawÄ… ubezpieczeniowÄ…;
 
-e)	Ustawa  z  22  maja  2003  r.  o  ubezpieczeniach  obowi¹zkowych,  Ubezpieczeniowym  Funduszu
+e)	Ustawa  z  22  maja  2003  r.  o  ubezpieczeniach  obowiÄ…zkowych,  Ubezpieczeniowym  Funduszu
 
-Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (tekst jedn. Dz. U. z 2013 r., poz. 392 z póŸn.zm.), zwana dalej ustaw¹ o ubezpieczeniach obowi¹zkowych;
+Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (tekst jedn. Dz. U. z 2013 r., poz. 392 z pÃ³Åºn.zm.), zwana dalej ustawÄ… o ubezpieczeniach obowiÄ…zkowych;
 
-f)	Ustawa z 30 maja 2014 roku o prawach konsumenta (Dz. U. z 2014 r., poz. 827 z póŸn.zm.), zwana dalej ustaw¹ konsumenck¹.
+f)	Ustawa z 30 maja 2014 roku o prawach konsumenta (Dz. U. z 2014 r., poz. 827 z pÃ³Åºn.zm.), zwana dalej ustawÄ… konsumenckÄ….
  
-§	2
+Â§	2
 
 Definicje
 
 
-1.	AXA Ubezpieczenia – AXA Ubezpieczenia Towarzystwo Ubezpieczeñ i Reasekuracji S.A., ul. Ch³odna 51,
+1.	AXA Ubezpieczenia â€“ AXA Ubezpieczenia Towarzystwo UbezpieczeÅ„ i Reasekuracji S.A., ul. ChÅ‚odna 51,
 
 00-867 Warszawa.
 
 
-2.	Serwis – zespó³ wspó³pracuj¹cych ze sob¹ urz¹dzeñ informatycznych i oprogramowania, zapewniaj¹cy przetwarzanie i przechowywanie, a tak¿e wysy³anie i odbieranie danych poprzez sieci telekomunikacyjne za pomoc¹ w³aœciwego dla danego rodzaju sieci urz¹dzenia koñcowego w rozumieniu prawa telekomunikacyjnego, dostêpny na stronach internetowych www.lu.pl. Serwis umo¿liwia kalkulacjê sk³adek oraz zakup polisy (zawarcie Umowy Ubezpieczenia) przez Us³ugobiorcê za pomoc¹ aplikacji: „Ubezpiecz mieszkanie on-line", „Ubezpiecz samochód on-line", „Ubezpiecz flotê on-line", a tak¿e skorzystanie z aplikacji „Zamów bezp³atn¹ rozmowê";
+2.	Serwis â€“ zespÃ³Å‚ wspÃ³Å‚pracujÄ…cych ze sobÄ… urzÄ…dzeÅ„ informatycznych i oprogramowania, zapewniajÄ…cy przetwarzanie i przechowywanie, a takÅ¼e wysyÅ‚anie i odbieranie danych poprzez sieci telekomunikacyjne za pomocÄ… wÅ‚aÅ›ciwego dla danego rodzaju sieci urzÄ…dzenia koÅ„cowego w rozumieniu prawa telekomunikacyjnego, dostÄ™pny na stronach internetowych www.lu.pl. Serwis umoÅ¼liwia kalkulacjÄ™ skÅ‚adek oraz zakup polisy (zawarcie Umowy Ubezpieczenia) przez UsÅ‚ugobiorcÄ™ za pomocÄ… aplikacji: â€Ubezpiecz mieszkanie on-line", â€Ubezpiecz samochÃ³d on-line", â€Ubezpiecz flotÄ™ on-line", a takÅ¼e skorzystanie z aplikacji â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™";
 
-3.	Us³ugobiorca – oznacza ka¿d¹ osobê, która w œwietle przepisów kodeksu cywilnego jest zdolna do korzystania z Serwisu;
+3.	UsÅ‚ugobiorca â€“ oznacza kaÅ¼dÄ… osobÄ™, ktÃ³ra w Å›wietle przepisÃ³w kodeksu cywilnego jest zdolna do korzystania z Serwisu;
 
-4.	Ogólne Warunki Ubezpieczenia – w zakresie dobrowolnych ubezpieczeñ komunikacyjnych - „Ogólne
+4.	OgÃ³lne Warunki Ubezpieczenia â€“ w zakresie dobrowolnych ubezpieczeÅ„ komunikacyjnych - â€OgÃ³lne
 
-Warunki  Ubezpieczeñ  Komunikacyjnych  Liberty"  oraz  -  w  zakresie  ubezpieczeñ  mieszkaniowych  -
+Warunki  UbezpieczeÅ„  Komunikacyjnych  Liberty"  oraz  -  w  zakresie  ubezpieczeÅ„  mieszkaniowych  -
 
-„Ogólne Warunki Ubezpieczeñ Mieszkaniowych Liberty", na podstawie których zawierana jest Umowa
+â€OgÃ³lne Warunki UbezpieczeÅ„ Mieszkaniowych Liberty", na podstawie ktÃ³rych zawierana jest Umowa
 
 Ubezpieczenia;
 
 
-5.	Kalkulacja sk³adki – wyliczenie wysokoœci sk³adki ubezpieczeniowej na podstawie informacji podanych przez Us³ugobiorcê;
+5.	Kalkulacja skÅ‚adki â€“ wyliczenie wysokoÅ›ci skÅ‚adki ubezpieczeniowej na podstawie informacji podanych przez UsÅ‚ugobiorcÄ™;
 
-6.	Centrum Obs³ugi Klienta – telefoniczne Centrum Obs³ugi Klienta, dostêpne pod numerami telefonu:
+6.	Centrum ObsÅ‚ugi Klienta â€“ telefoniczne Centrum ObsÅ‚ugi Klienta, dostÄ™pne pod numerami telefonu:
 
-+48 22 589 95 21 dla zakupu nowej polisy, zg³oszenia szkody i informacji o szkodzie, +48 22 589 96 96 dla przed³u¿enia polisy na kolejny rok,
++48 22 589 95 21 dla zakupu nowej polisy, zgÅ‚oszenia szkody i informacji o szkodzie, +48 22 589 96 96 dla przedÅ‚uÅ¼enia polisy na kolejny rok,
 
-+48 22 589 95 55 dla zg³oszenia kupna/sprzeda¿y pojazdu, +48 22 589 90 80 dla p³atnoœci,
++48 22 589 95 55 dla zgÅ‚oszenia kupna/sprzedaÅ¼y pojazdu, +48 22 589 90 80 dla pÅ‚atnoÅ›ci,
 
-+48 22 589 90 70 dla zmian na polisie, dokumentów i obs³ugi klienta;
-
-
-7.	Konsultant Centrum Obs³ugi Klienta – osoba dedykowana do obs³ugi klienta w Centrum Obs³ugi Klienta;
++48 22 589 90 70 dla zmian na polisie, dokumentÃ³w i obsÅ‚ugi klienta;
 
 
-8.	Liberty – marka handlowa Liberty Ubezpieczenia u¿ywana przez AXA Ubezpieczenia TUiR S.A. na podstawie umowy zawartej w zwi¹zku z nabyciem portfela ubezpieczeñ Liberty Seguros, Compania de Seguros y Reaseguros S.A. oddzia³ w Polsce;
-
-9.	Login – oznaczenie identyfikacyjne Us³ugobiorcy, którym jest jego adres email;
+7.	Konsultant Centrum ObsÅ‚ugi Klienta â€“ osoba dedykowana do obsÅ‚ugi klienta w Centrum ObsÅ‚ugi Klienta;
 
 
-10.	Has³o – ci¹g znaków wybranych przez Us³ugobiorcê, s³u¿¹cych do jego identyfikacji, których u¿ycie wraz z Loginem zapewnia Us³ugobiorcy autoryzowany dostêp do Us³ug;
+8.	Liberty â€“ marka handlowa Liberty Ubezpieczenia uÅ¼ywana przez AXA Ubezpieczenia TUiR S.A. na podstawie umowy zawartej w zwiÄ…zku z nabyciem portfela ubezpieczeÅ„ Liberty Seguros, Compania de Seguros y Reaseguros S.A. oddziaÅ‚ w Polsce;
+
+9.	Login â€“ oznaczenie identyfikacyjne UsÅ‚ugobiorcy, ktÃ³rym jest jego adres email;
+
+
+10.	HasÅ‚o â€“ ciÄ…g znakÃ³w wybranych przez UsÅ‚ugobiorcÄ™, sÅ‚uÅ¼Ä…cych do jego identyfikacji, ktÃ³rych uÅ¼ycie wraz z Loginem zapewnia UsÅ‚ugobiorcy autoryzowany dostÄ™p do UsÅ‚ug;
  
-11.	Konto – wyodrêbniona czêœæ Serwisu, dostêpna dla Us³ugobiorcy za pomoc¹ Has³a i Loginu, wy³¹cznie w zakresie ubezpieczeñ komunikacyjnych. Konto umo¿liwia skorzystanie z aplikacji "Odnów polisê online" oraz z "Zg³oœ kupno/sprzeda¿ pojazdu online";
+11.	Konto â€“ wyodrÄ™bniona czÄ™Å›Ä‡ Serwisu, dostÄ™pna dla UsÅ‚ugobiorcy za pomocÄ… HasÅ‚a i Loginu, wyÅ‚Ä…cznie w zakresie ubezpieczeÅ„ komunikacyjnych. Konto umoÅ¼liwia skorzystanie z aplikacji "OdnÃ³w polisÄ™ online" oraz z "ZgÅ‚oÅ› kupno/sprzedaÅ¼ pojazdu online";
 
-12.	Us³ugi – us³ugi œwiadczone przez AXA Ubezpieczenia wskazane w Rozdziale III niniejszego Regulaminu;
-
-
-13.	Ubezpieczenia Liberty – produkty ubezpieczeniowe oferowane przez AXA Ubezpieczenia pod mark¹ handlow¹ Liberty;
-
-14.	Umowa Ubezpieczenia  – umowa ubezpieczenia zawierana zgodnie z zapisami Ogólnych Warunków
-
-Ubezpieczenia  lub  Ustawy  o  ubezpieczeniach  obowi¹zkowych,  pomiêdzy  AXA  Ubezpieczenia  a
-
-Us³ugobiorc¹ okreœlonym w Umowie Ubezpieczenia jako Ubezpieczaj¹cy;
+12.	UsÅ‚ugi â€“ usÅ‚ugi Å›wiadczone przez AXA Ubezpieczenia wskazane w Rozdziale III niniejszego Regulaminu;
 
 
-15.	Propozycja – indywidualna propozycja warunków ubezpieczeñ Liberty skierowana do Us³ugobiorcy, stworzona w oparciu o dane podane przez Us³ugobiorcê za pomoc¹ odpowiednich formularzy Serwisu, a w przypadku ubezpieczeñ komunikacyjnych tak¿e dane z Bazy UFG, i przeprowadzon¹ na ich podstawie Kalkulacjê sk³adki;
+13.	Ubezpieczenia Liberty â€“ produkty ubezpieczeniowe oferowane przez AXA Ubezpieczenia pod markÄ… handlowÄ… Liberty;
 
-16.	Propozycja Odnowienia – indywidualna propozycja warunków Odnowienia polisy w zakresie ubezpieczeñ komunikacyjnych, skierowana do Us³ugobiorcy, który posiada Konto w Serwisie, stworzona w trakcie korzystania przez Us³ugobiorcê z aplikacji „Odnów polisê on-line" w oparciu o dane podane przez
+14.	Umowa Ubezpieczenia  â€“ umowa ubezpieczenia zawierana zgodnie z zapisami OgÃ³lnych WarunkÃ³w
 
-Us³ugobiorcê przed zawarciem pierwszej Umowy Ubezpieczenia oraz dane z Bazy UFG;
+Ubezpieczenia  lub  Ustawy  o  ubezpieczeniach  obowiÄ…zkowych,  pomiÄ™dzy  AXA  Ubezpieczenia  a
+
+UsÅ‚ugobiorcÄ… okreÅ›lonym w Umowie Ubezpieczenia jako UbezpieczajÄ…cy;
 
 
-17.	Z³o¿enie Wniosku – z³o¿enie przez Us³ugobiorcê elektronicznego wniosku o zawarcie Umowy Ubezpieczenia w oparciu o Propozycjê, równoznaczne z przyjêciem przez Us³ugobiorcê Propozycji, skutkuj¹ce, w przypadku akceptacji elektronicznego wniosku przez AXA Ubezpieczenia, zawarciem
+15.	Propozycja â€“ indywidualna propozycja warunkÃ³w ubezpieczeÅ„ Liberty skierowana do UsÅ‚ugobiorcy, stworzona w oparciu o dane podane przez UsÅ‚ugobiorcÄ™ za pomocÄ… odpowiednich formularzy Serwisu, a w przypadku ubezpieczeÅ„ komunikacyjnych takÅ¼e dane z Bazy UFG, i przeprowadzonÄ… na ich podstawie KalkulacjÄ™ skÅ‚adki;
 
-Umowy Ubezpieczenia, na warunkach i w terminach okreœlonych w Ogólnych Warunkach Ubezpieczenia albo - w odniesieniu do ubezpieczeñ komunikacyjnych - w przypadku korzystania z aplikacji „Odnów polisê on-line". Z³o¿enie przez Us³ugobiorcê elektronicznego wniosku o zawarcie Umowy Ubezpieczenia w oparciu o Propozycjê Odnowienia, równoznaczne z przyjêciem przez Us³ugobiorcê Propozycji
+16.	Propozycja Odnowienia â€“ indywidualna propozycja warunkÃ³w Odnowienia polisy w zakresie ubezpieczeÅ„ komunikacyjnych, skierowana do UsÅ‚ugobiorcy, ktÃ³ry posiada Konto w Serwisie, stworzona w trakcie korzystania przez UsÅ‚ugobiorcÄ™ z aplikacji â€OdnÃ³w polisÄ™ on-line" w oparciu o dane podane przez
 
-Odnowienia, skutkuj¹ce, w przypadku akceptacji elektronicznego wniosku przez AXA Ubezpieczenia i op³acenia sk³adki w terminie okreœlonym w Propozycji Odnowienia, zawarciem Umowy Ubezpieczenia, na warunkach i w terminach okreœlonych w Ogólnych Warunkach Ubezpieczenia;
+UsÅ‚ugobiorcÄ™ przed zawarciem pierwszej Umowy Ubezpieczenia oraz dane z Bazy UFG;
 
-18.	Zapis Propozycji – dostêpne w aplikacji „Ubezpiecz samochód on-line" dokonanie zapisu danych osobowych oraz wyliczonej sk³adki ubezpieczeniowej, po dokonaniu Kalkulacji sk³adki, w celu póŸniejszego wznowienia procedury Z³o¿enia Wniosku w ramach tej aplikacji;
 
-19.	Odnowienie polisy – zawarcie Umowy Ubezpieczenia w zakresie ubezpieczeñ komunikacyjnych na kolejny okres ubezpieczenia bêd¹cy kontynuacj¹ aktualnie obowi¹zuj¹cej Umowy Ubezpieczenia;
+17.	ZÅ‚oÅ¼enie Wniosku â€“ zÅ‚oÅ¼enie przez UsÅ‚ugobiorcÄ™ elektronicznego wniosku o zawarcie Umowy Ubezpieczenia w oparciu o PropozycjÄ™, rÃ³wnoznaczne z przyjÄ™ciem przez UsÅ‚ugobiorcÄ™ Propozycji, skutkujÄ…ce, w przypadku akceptacji elektronicznego wniosku przez AXA Ubezpieczenia, zawarciem
+
+Umowy Ubezpieczenia, na warunkach i w terminach okreÅ›lonych w OgÃ³lnych Warunkach Ubezpieczenia albo - w odniesieniu do ubezpieczeÅ„ komunikacyjnych - w przypadku korzystania z aplikacji â€OdnÃ³w polisÄ™ on-line". ZÅ‚oÅ¼enie przez UsÅ‚ugobiorcÄ™ elektronicznego wniosku o zawarcie Umowy Ubezpieczenia w oparciu o PropozycjÄ™ Odnowienia, rÃ³wnoznaczne z przyjÄ™ciem przez UsÅ‚ugobiorcÄ™ Propozycji
+
+Odnowienia, skutkujÄ…ce, w przypadku akceptacji elektronicznego wniosku przez AXA Ubezpieczenia i opÅ‚acenia skÅ‚adki w terminie okreÅ›lonym w Propozycji Odnowienia, zawarciem Umowy Ubezpieczenia, na warunkach i w terminach okreÅ›lonych w OgÃ³lnych Warunkach Ubezpieczenia;
+
+18.	Zapis Propozycji â€“ dostÄ™pne w aplikacji â€Ubezpiecz samochÃ³d on-line" dokonanie zapisu danych osobowych oraz wyliczonej skÅ‚adki ubezpieczeniowej, po dokonaniu Kalkulacji skÅ‚adki, w celu pÃ³Åºniejszego wznowienia procedury ZÅ‚oÅ¼enia Wniosku w ramach tej aplikacji;
+
+19.	Odnowienie polisy â€“ zawarcie Umowy Ubezpieczenia w zakresie ubezpieczeÅ„ komunikacyjnych na kolejny okres ubezpieczenia bÄ™dÄ…cy kontynuacjÄ… aktualnie obowiÄ…zujÄ…cej Umowy Ubezpieczenia;
  
-20.	Status zg³oszonej szkody – funkcjonalnoœæ Konta umo¿liwiaj¹ca Us³ugobiorcy przegl¹danie w ramach jego Konta ogólnych informacji o postêpowaniu w sprawie zg³oszonego przez niego roszczenia o wyp³atê odszkodowania z Umowy Ubezpieczenia w zakresie ubezpieczeñ komunikacyjnych;
+20.	Status zgÅ‚oszonej szkody â€“ funkcjonalnoÅ›Ä‡ Konta umoÅ¼liwiajÄ…ca UsÅ‚ugobiorcy przeglÄ…danie w ramach jego Konta ogÃ³lnych informacji o postÄ™powaniu w sprawie zgÅ‚oszonego przez niego roszczenia o wypÅ‚atÄ™ odszkodowania z Umowy Ubezpieczenia w zakresie ubezpieczeÅ„ komunikacyjnych;
 
-21.	Konsument – osoba fizyczna dokonuj¹c¹ z przedsiêbiorc¹ czynnoœci prawnej niezwi¹zanej bezpoœrednio z jej dzia³alnoœci¹ gospodarcz¹ lub zawodow¹;
+21.	Konsument â€“ osoba fizyczna dokonujÄ…cÄ… z przedsiÄ™biorcÄ… czynnoÅ›ci prawnej niezwiÄ…zanej bezpoÅ›rednio z jej dziaÅ‚alnoÅ›ciÄ… gospodarczÄ… lub zawodowÄ…;
 
-22.	Baza UFG – baza danych prowadzona przez Ubezpieczeniowy Fundusz Gwarancyjny obejmuj¹ca rejestr umów ubezpieczenia dzia³u II grupy 3 i 10 za³¹cznika do ustawy ubezpieczeniowej, informacje dotycz¹ce uczestników zdarzenia powoduj¹cego odpowiedzialnoœæ zak³adu ubezpieczeñ z tytu³u zawartej umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych oraz informacje dotycz¹ce zdarzenia powoduj¹cego odpowiedzialnoœæ zak³adu ubezpieczeñ z tytu³u zawartej umowy ubezpieczenia, okreœlonego w grupie 3 dzia³u II za³¹cznika do ustawy ubezpieczeniowej;
+22.	Baza UFG â€“ baza danych prowadzona przez Ubezpieczeniowy Fundusz Gwarancyjny obejmujÄ…ca rejestr umÃ³w ubezpieczenia dziaÅ‚u II grupy 3 i 10 zaÅ‚Ä…cznika do ustawy ubezpieczeniowej, informacje dotyczÄ…ce uczestnikÃ³w zdarzenia powodujÄ…cego odpowiedzialnoÅ›Ä‡ zakÅ‚adu ubezpieczeÅ„ z tytuÅ‚u zawartej umowy ubezpieczenia OC posiadaczy pojazdÃ³w mechanicznych oraz informacje dotyczÄ…ce zdarzenia powodujÄ…cego odpowiedzialnoÅ›Ä‡ zakÅ‚adu ubezpieczeÅ„ z tytuÅ‚u zawartej umowy ubezpieczenia, okreÅ›lonego w grupie 3 dziaÅ‚u II zaÅ‚Ä…cznika do ustawy ubezpieczeniowej;
 
-23.	Flota – zbiór pojazdów u¿ytkowanych przez jeden podmiot gospodarczy bêd¹cy Ubezpieczaj¹cym pojazdów. Aplikacja pozwala na ubezpieczenie pojedynczo (na odrêbnych kalkulacjach) do 10 pojazdów nale¿¹cych do jednego Klienta.
+23.	Flota â€“ zbiÃ³r pojazdÃ³w uÅ¼ytkowanych przez jeden podmiot gospodarczy bÄ™dÄ…cy UbezpieczajÄ…cym pojazdÃ³w. Aplikacja pozwala na ubezpieczenie pojedynczo (na odrÄ™bnych kalkulacjach) do 10 pojazdÃ³w naleÅ¼Ä…cych do jednego Klienta.
 
-24.	Dane osobowe – wszelkie informacje identyfikuj¹ce Us³ugobiorcê lub jego Pe³nomocnika, przetwarzane przez AXA Ubezpieczenia w systemie informatycznym lub na noœnikach papierowych.
+24.	Dane osobowe â€“ wszelkie informacje identyfikujÄ…ce UsÅ‚ugobiorcÄ™ lub jego PeÅ‚nomocnika, przetwarzane przez AXA Ubezpieczenia w systemie informatycznym lub na noÅ›nikach papierowych.
 
-§	3
+Â§	3
 
-Us³ugi
-
-
-1.	Na podstawie niniejszego Regulaminu oraz Ogólnych Warunków Ubezpieczenia i Ustawy o ubezpieczeniach obowi¹zkowych, AXA Ubezpieczenia œwiadczy drog¹ elektroniczn¹ Us³ugi umo¿liwiaj¹ce korzystanie Us³ugobiorcy z aplikacji „Ubezpiecz mieszkanie on-line", „Ubezpiecz samochód on-line", „Ubezpiecz flotê on-line". „Odnów polisê on-line", „Zg³oœ kupno/sprzeda¿ pojazdu on-line" oraz „Zamów bezp³atn¹ rozmowê", pod warunkiem, ¿e aplikacja „Zamów bezp³atn¹ rozmowê" jest dostêpna dla Us³ugobiorcy w czasie korzystania przez niego z Serwisu.
-
-§	4
-
-Warunki techniczne œwiadczenia Us³ug
+UsÅ‚ugi
 
 
-1.	W celu prawid³owego korzystania z Us³ug musz¹ zostaæ spe³nione minimalne wymogi techniczne: przegl¹darka (Firefox co najmniej 24.x, Chrome co najmniej 34. x , Opera co najmniej 12.1, Internet Explorer co najmniej 10), Safari 5, monitor o rozdzielczoœci 1024x768, Java Script. Zalecana jest w³¹czona obs³uga Cookies (szczegó³owe informacje dotycz¹ce Cookies zawarte s¹ w Polityce cookies poni¿ej).
+1.	Na podstawie niniejszego Regulaminu oraz OgÃ³lnych WarunkÃ³w Ubezpieczenia i Ustawy o ubezpieczeniach obowiÄ…zkowych, AXA Ubezpieczenia Å›wiadczy drogÄ… elektronicznÄ… UsÅ‚ugi umoÅ¼liwiajÄ…ce korzystanie UsÅ‚ugobiorcy z aplikacji â€Ubezpiecz mieszkanie on-line", â€Ubezpiecz samochÃ³d on-line", â€Ubezpiecz flotÄ™ on-line". â€OdnÃ³w polisÄ™ on-line", â€ZgÅ‚oÅ› kupno/sprzedaÅ¼ pojazdu on-line" oraz â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™", pod warunkiem, Å¼e aplikacja â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™" jest dostÄ™pna dla UsÅ‚ugobiorcy w czasie korzystania przez niego z Serwisu.
 
-2.	Œwiadczenie Us³ug drog¹ elektroniczn¹ odbywa siê z wykorzystaniem szyfrowanego protoko³u HTTPS.
+Â§	4
 
-3.	AXA Ubezpieczenia nie gwarantuje poprawnoœci i skutecznoœci œwiadczonych Us³ug w przypadku, gdy nie zostan¹ spe³nione minimalne wymogi oraz zalecenia okreœlone w ust. 1.
+Warunki techniczne Å›wiadczenia UsÅ‚ug
+
+
+1.	W celu prawidÅ‚owego korzystania z UsÅ‚ug muszÄ… zostaÄ‡ speÅ‚nione minimalne wymogi techniczne: przeglÄ…darka (Firefox co najmniej 24.x, Chrome co najmniej 34. x , Opera co najmniej 12.1, Internet Explorer co najmniej 10), Safari 5, monitor o rozdzielczoÅ›ci 1024x768, Java Script. Zalecana jest wÅ‚Ä…czona obsÅ‚uga Cookies (szczegÃ³Å‚owe informacje dotyczÄ…ce Cookies zawarte sÄ… w Polityce cookies poniÅ¼ej).
+
+2.	Åšwiadczenie UsÅ‚ug drogÄ… elektronicznÄ… odbywa siÄ™ z wykorzystaniem szyfrowanego protokoÅ‚u HTTPS.
+
+3.	AXA Ubezpieczenia nie gwarantuje poprawnoÅ›ci i skutecznoÅ›ci Å›wiadczonych UsÅ‚ug w przypadku, gdy nie zostanÄ… speÅ‚nione minimalne wymogi oraz zalecenia okreÅ›lone w ust. 1.
  
-§ 5
+Â§ 5
 
-Aplikacja „Ubezpiecz mieszkanie on-line"
+Aplikacja â€Ubezpiecz mieszkanie on-line"
 
 
-1.	Z zastrze¿eniem odmiennych postanowieñ, na ka¿dym etapie korzystania z aplikacji „Ubezpiecz mieszkanie on-line" wskazanym w ust. 2 Us³ugobiorca ma prawo:
+1.	Z zastrzeÅ¼eniem odmiennych postanowieÅ„, na kaÅ¼dym etapie korzystania z aplikacji â€Ubezpiecz mieszkanie on-line" wskazanym w ust. 2 UsÅ‚ugobiorca ma prawo:
 
-a)	powróciæ do poprzedniego etapu aplikacji;
+a)	powrÃ³ciÄ‡ do poprzedniego etapu aplikacji;
 
-b)	zakoñczyæ korzystanie z aplikacji „Ubezpiecz mieszkanie on-line", równie¿ bez dokonywania Z³o¿enia
+b)	zakoÅ„czyÄ‡ korzystanie z aplikacji â€Ubezpiecz mieszkanie on-line", rÃ³wnieÅ¼ bez dokonywania ZÅ‚oÅ¼enia
 
 Wniosku;
 
-W przypadku zakoñczenia korzystania z aplikacji „Ubezpiecz mieszkanie on-line" w Etapie 1 (tj. bez podawania danych osobowych) wskazane poni¿ej dane podane przez Us³ugobiorcê w Etapie 1 pozostan¹ w dyspozycji AXA Ubezpieczenia przez okres 360 dni wy³¹cznie dla celów statystycznych;
+W przypadku zakoÅ„czenia korzystania z aplikacji â€Ubezpiecz mieszkanie on-line" w Etapie 1 (tj. bez podawania danych osobowych) wskazane poniÅ¼ej dane podane przez UsÅ‚ugobiorcÄ™ w Etapie 1 pozostanÄ… w dyspozycji AXA Ubezpieczenia przez okres 360 dni wyÅ‚Ä…cznie dla celÃ³w statystycznych;
 
-c)	skorzystaæ z aplikacji „Zamów bezp³atn¹ rozmowê".
-
-
-2.	W ramach aplikacji „Ubezpiecz mieszkanie on-line" Us³ugobiorca mo¿e wykonaæ nastêpuj¹ce czynnoœci na poszczególnych etapach korzystania z aplikacji:
-
-a)	Etap 1 - Obliczenie sk³adki; na etapie tym Us³ugobiorca:
-
--	mo¿e podaæ dane, na podstawie których dokonana zostanie Kalkulacja sk³adki;
-
--	zostaje poinformowany o Kalkulacji sk³adki, która stanowi maksymaln¹ wysokoœæ sk³adki w przypadku zawarcia Umowy Ubezpieczenia wskutek bie¿¹cego korzystania z aplikacji „Ubezpiecz mieszkanie on-line", pod warunkiem i¿ podane przez Us³ugobiorcê dane s¹ prawdziwe. Na dalszym etapie korzystania z aplikacji taka sk³adka mo¿e ulec zmianie wskutek weryfikacji danych podanych przez Us³ugobiorcê, b¹dŸ obni¿eniu w zwi¹zku z zastosowaniem zni¿ek, na przyk³ad zwi¹zanych z wybranym rodzajem p³atnoœci;
-
--	nie podaje swoich danych osobowych;
-
--	mo¿e dokonaæ wyboru czêstotliwoœci op³acenia sk³adki;
-
--	zostaje poinformowany o wysokoœci sum ubezpieczenia w przypadku ubezpieczenia mienia od ognia i innych zdarzeñ losowych (Mury, Wyposa¿enia od zdarzeñ losowych, Wyposa¿enie od kradzie¿y z w³amaniem lub rabunku), OC w ¿yciu prywatnym, Assistance;
-
--	dokonuje wyboru pakietu ubezpieczenia;
-
--	mo¿e przejœæ do etapu podawania danych.
-
-b)	Etap 2 - Dane do polisy; na etapie tym Us³ugobiorca:
-
--	daje dane osobowe w³aœciciela/(-i) nieruchomoœci, Ubezpieczaj¹cego oraz nieruchomoœci, niezbêdne do sporz¹dzenia Propozycji;
-
--	mo¿e przejœæ do etapu Z³o¿enia Wniosku;
-
-c)	Etap 3 - Podsumowanie; na tym etapie Us³ugobiorca:
-
--	otrzymuje pe³en dostêp do sporz¹dzonej Propozycji;
-
--	mo¿e dokonaæ Z³o¿enia Wniosku;
-
--	mo¿e przejœæ do etapu p³atnoœci sk³adki;
-
-d)	Etap 4 - P³atnoœæ; na tym etapie Us³ugobiorca:
-
--	mo¿e zawrzeæ Umowê Ubezpieczenia po uprzedniej akceptacji Z³o¿enia Wniosku przez AXA Ubezpieczenia. Umowê Ubezpieczenia uwa¿a siê za zawart¹ w terminach wskazanych w Ogólnych Warunkach Ubezpieczenia;
-
--	otrzymuje informacje o sposobach p³atnoœci sk³adki;
- 
--	mo¿e przejœæ do p³atnoœci sk³adki za poœrednictwem eCard.
+c)	skorzystaÄ‡ z aplikacji â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™".
 
 
-3.	Dokonywanie jakichkolwiek zmian w Umowie Ubezpieczenia dozwolone jest wy³¹cznie na warunkach okreœlonych w Umowie Ubezpieczenia, w tym Ogólnych Warunkach Ubezpieczenia oraz w przepisach prawa.
+2.	W ramach aplikacji â€Ubezpiecz mieszkanie on-line" UsÅ‚ugobiorca moÅ¼e wykonaÄ‡ nastÄ™pujÄ…ce czynnoÅ›ci na poszczegÃ³lnych etapach korzystania z aplikacji:
 
-4.	Wszelkie pola aplikacji „Ubezpiecz mieszkanie on-line", których wype³nienie jest obligatoryjne, zostan¹ oznaczone za pomoc¹ symbolu „*" z wyj¹tkiem Etapu 1 i 2, w których wszystkie pola oprócz podania adresu e-mail oraz wiêcej ni¿ jednego numeru telefonu s¹ obligatoryjne.
+a)	Etap 1 - Obliczenie skÅ‚adki; na etapie tym UsÅ‚ugobiorca:
 
-5.	Ze wzglêdów bezpieczeñstwa AXA Ubezpieczenia zastrzega sobie prawo przerwania po³¹czenia z Us³ugobiorc¹ po up³ywie 30 minut od momentu dokonania przez niego ostatniej czynnoœci.
+-	moÅ¼e podaÄ‡ dane, na podstawie ktÃ³rych dokonana zostanie Kalkulacja skÅ‚adki;
 
-6.	Ubezpieczaj¹cy bêd¹cy Konsumentem mo¿e odst¹piæ od zawartej Umowy Ubezpieczenia bez podania przyczyn sk³adaj¹c oœwiadczenie na piœmie w terminie 30 dni od dnia poinformowania go o zawarciu Umowy Ubezpieczenia albo od dnia potwierdzenia mu informacji, o których mowa w art. 39 ust. 3 ustawy konsumenckiej, je¿eli jest to termin póŸniejszy. Termin uwa¿a siê za zachowany, je¿eli przed jego up³ywem oœwiadczenie zosta³o wys³ane.
-
-§ 6
-
-Aplikacja „Ubezpiecz samochód on-line"
-
-
-1.	Z zastrze¿eniem odmiennych postanowieñ, na ka¿dym etapie korzystania z aplikacji „Ubezpiecz samochód on-line" wskazanym w ust. 2 Us³ugobiorca ma prawo:
-
-a)	powróciæ do poprzedniego etapu aplikacji;
-
-b)	zakoñczyæ korzystanie z aplikacji „Ubezpiecz samochód on-line", równie¿ nie dokonuj¹c Zapisu Propozycji oraz nie dokonuj¹c Z³o¿enia Wniosku. W przypadku zakoñczenia korzystania z aplikacji
-
-„Ubezpiecz samochód on-line" w Etapie 1 lub na Etapie 2 (tj. bez podawania danych osobowych) wskazane poni¿ej dane podane przez Us³ugobiorcê w Etapie 1 pozostan¹ w dyspozycji AXA Ubezpieczenia przez okres 360 dni wy³¹cznie dla celów statystycznych;
-
-c)	skorzystaæ z aplikacji „Zamów bezp³atn¹ rozmowê";
-
-d)	dokonaæ Zapisu Propozycji na Etapie 2 i 3.
-
-
-2.	W ramach aplikacji „Ubezpiecz samochód on-line" Us³ugobiorca mo¿e wykonaæ nastêpuj¹ce czynnoœci na poszczególnych etapach korzystania z aplikacji:
-
-a)	Etap 1 - Obliczenie sk³adki; na etapie tym Us³ugobiorca:
-
--	mo¿e podaæ dane, na podstawie których w nastêpnym etapie korzystania z aplikacji dokonana zostanie Kalkulacja sk³adki.
-
-b)	Etap 2 - Oferta ubezpieczenia; na tym etapie Us³ugobiorca:
-
--	zostaje poinformowany o Kalkulacji sk³adki, która stanowi maksymaln¹ wysokoœæ sk³adki w przypadku zawarcia umowy ubezpieczenia wskutek bie¿¹cego korzystania z aplikacji „Ubezpiecz samochód on-line", pod warunkiem i¿ podane przez Us³ugobiorcê dane s¹ prawdziwe. Na dalszym etapie korzystania z aplikacji taka sk³adka mo¿e ulec zmianie wskutek weryfikacji
- 
-danych podanych przez Us³ugobiorcê z danymi z Bazy UFG, b¹dŸ w zwi¹zku z zastosowaniem zni¿ek, na przyk³ad zwi¹zanych z wybranym rodzajem p³atnoœci;
+-	zostaje poinformowany o Kalkulacji skÅ‚adki, ktÃ³ra stanowi maksymalnÄ… wysokoÅ›Ä‡ skÅ‚adki w przypadku zawarcia Umowy Ubezpieczenia wskutek bieÅ¼Ä…cego korzystania z aplikacji â€Ubezpiecz mieszkanie on-line", pod warunkiem iÅ¼ podane przez UsÅ‚ugobiorcÄ™ dane sÄ… prawdziwe. Na dalszym etapie korzystania z aplikacji taka skÅ‚adka moÅ¼e ulec zmianie wskutek weryfikacji danych podanych przez UsÅ‚ugobiorcÄ™, bÄ…dÅº obniÅ¼eniu w zwiÄ…zku z zastosowaniem zniÅ¼ek, na przykÅ‚ad zwiÄ…zanych z wybranym rodzajem pÅ‚atnoÅ›ci;
 
 -	nie podaje swoich danych osobowych;
 
--	mo¿e dokonaæ wyboru metody p³atnoœci oraz czêstotliwoœci op³acenia sk³adki;
+-	moÅ¼e dokonaÄ‡ wyboru czÄ™stotliwoÅ›ci opÅ‚acenia skÅ‚adki;
 
--	zostaje poinformowany o wysokoœci sum ubezpieczenia w przypadku ubezpieczenia Autocasco, Assistance, Nastêpstw Nieszczêœliwych Wypadków i odpowiedzialnoœci cywilnej posiadaczy pojazdów mechanicznych za szkody powsta³e w zwi¹zku z ruchem tych pojazdów;
+-	zostaje poinformowany o wysokoÅ›ci sum ubezpieczenia w przypadku ubezpieczenia mienia od ognia i innych zdarzeÅ„ losowych (Mury, WyposaÅ¼enia od zdarzeÅ„ losowych, WyposaÅ¼enie od kradzieÅ¼y z wÅ‚amaniem lub rabunku), OC w Å¼yciu prywatnym, Assistance;
 
 -	dokonuje wyboru pakietu ubezpieczenia;
 
--	mo¿e dokonaæ zapisu Propozycji oraz przes³ania jej na adres e-mail i/lub sms;
+-	moÅ¼e przejÅ›Ä‡ do etapu podawania danych.
 
--	mo¿e przejœæ do etapu podawania danych do polisy.
+b)	Etap 2 - Dane do polisy; na etapie tym UsÅ‚ugobiorca:
 
-c)	Etap 3 - Dane do polisy; na etapie tym Us³ugobiorca:
+-	daje dane osobowe wÅ‚aÅ›ciciela/(-i) nieruchomoÅ›ci, UbezpieczajÄ…cego oraz nieruchomoÅ›ci, niezbÄ™dne do sporzÄ…dzenia Propozycji;
 
--	podaje dane osobowe w³aœciciela/(-i) pojazdu, Ubezpieczaj¹cego oraz dane pojazdu, niezbêdne do sporz¹dzenia Propozycji;
+-	moÅ¼e przejÅ›Ä‡ do etapu ZÅ‚oÅ¼enia Wniosku;
 
--	mo¿e dokonaæ zapisu Propozycji oraz przes³ania jej na adres e-mail i/lub sms;
+c)	Etap 3 - Podsumowanie; na tym etapie UsÅ‚ugobiorca:
 
--	mo¿e przejœæ do przygotowania Wniosku. W takim przypadku nastêpuje za³o¿enie Konta w Serwisie www.lu.pl z u¿yciem Loginu i Has³a. AXA Ubezpieczenia potwierdza za³o¿enie Konta w Serwisie poprzez przes³anie maila do Us³ugobiorcy; z zastrze¿eniem postanowieñ ust. 3, w przypadku, gdy Us³ugobiorca za³o¿y³ Konto przed zawarciem umowy ubezpieczenia, posiada w nim dostêp do danych, które poda³ lub otrzyma³ na etapie, gdy przesta³ korzystaæ z aplikacji „Ubezpiecz samochód on-line";
+-	otrzymuje peÅ‚en dostÄ™p do sporzÄ…dzonej Propozycji;
 
-d)	Etap 4 - Podsumowanie i p³atnoœæ; na tym etapie mo¿e nast¹piæ weryfikacja podanych informacji o historii ubezpieczenia z danymi z bazy UFG, a Us³ugobiorca:
+-	moÅ¼e dokonaÄ‡ ZÅ‚oÅ¼enia Wniosku;
 
--	otrzymuje pe³en dostêp do sporz¹dzonej Propozycji;
+-	moÅ¼e przejÅ›Ä‡ do etapu pÅ‚atnoÅ›ci skÅ‚adki;
 
--	otrzymuje informacjê czy podane przez niego informacje o szkodowoœci zosta³y zweryfikowane w Bazie UFG oraz o nowej wysokoœci sk³adki, o ile wskutek weryfikacji w Bazie UFG uleg³a ona zmianie
+d)	Etap 4 - PÅ‚atnoÅ›Ä‡; na tym etapie UsÅ‚ugobiorca:
 
--	mo¿e dokonaæ Z³o¿enia Wniosku;
+-	moÅ¼e zawrzeÄ‡ UmowÄ™ Ubezpieczenia po uprzedniej akceptacji ZÅ‚oÅ¼enia Wniosku przez AXA Ubezpieczenia. UmowÄ™ Ubezpieczenia uwaÅ¼a siÄ™ za zawartÄ… w terminach wskazanych w OgÃ³lnych Warunkach Ubezpieczenia;
 
--	mo¿e zawrzeæ Umowê Ubezpieczenia - po uprzedniej akceptacji Z³o¿enia Wniosku przez AXA Ubezpieczenia; w przypadku ubezpieczenia odpowiedzialnoœci cywilnej posiadaczy pojazdów mechanicznych za szkody powsta³e w zwi¹zku z ruchem tych pojazdów Umowê Ubezpieczenia uwa¿a siê za zawart¹ po Z³o¿eniu przez Us³ugobiorcê Wniosku i akceptacji Z³o¿enia Wniosku przez AXA Ubezpieczenia, z wyj¹tkami okreœlonymi w Ustawie o ubezpieczeniach obowi¹zkowych. Umowê Ubezpieczenia dobrowolnego uwa¿a siê za zawart¹ w terminach wskazanych w Ogólnych Warunkach Ubezpieczenia;
-
--	otrzymuje informacje o sposobach p³atnoœci sk³adki;
-
--	mo¿e przejœæ do p³atnoœci sk³adki za poœrednictwem eCard.
-
-
-3.	W przypadku gdy Us³ugobiorca na wybranym przez siebie etapie dokonuje zapisu danych, ma prawo powróciæ do aplikacji „Ubezpiecz samochód on-line" w terminie 30 dni od dokonania zapisu danych w celu dalszego korzystania z aplikacji „Ubezpiecz samochód on-line".
-
-4.	Po zawarciu Umowy Ubezpieczenia, jeœli Us³ugobiorca aktywowa³ Konto w Serwisie www.lu.pl, z zastrze¿eniem ust. 5, ma prawo w okresie trwania Umowy Ubezpieczenia do:
+-	otrzymuje informacje o sposobach pÅ‚atnoÅ›ci skÅ‚adki;
  
-a)	logowania siê w Serwisie;
-
-b)	zmiany Has³a;
-
-c)	dokonania nowej Kalkulacji sk³adki.
+-	moÅ¼e przejÅ›Ä‡ do pÅ‚atnoÅ›ci skÅ‚adki za poÅ›rednictwem eCard.
 
 
-5.	Us³ugobiorca nie ma prawa do zmiany warunków Umowy Ubezpieczenia w sytuacji okreœlonej w ust. 4. Dokonywanie jakichkolwiek zmian w Umowie Ubezpieczenia dozwolone jest wy³¹cznie na warunkach okreœlonych w Umowie Ubezpieczenia, w tym Ogólnych Warunkach Ubezpieczenia oraz w przepisach prawa.
+3.	Dokonywanie jakichkolwiek zmian w Umowie Ubezpieczenia dozwolone jest wyÅ‚Ä…cznie na warunkach okreÅ›lonych w Umowie Ubezpieczenia, w tym OgÃ³lnych Warunkach Ubezpieczenia oraz w przepisach prawa.
 
-6.	Wszelkie pola aplikacji „Ubezpiecz samochód on-line", których wype³nienie jest obligatoryjne, zostan¹ wyró¿nione za pomoc¹ czerwonej ramki oraz stosownego komunikatu wyœwietlanego podczas próby przejœcia do kolejnej sekcji lub etapu. U¿ytkownik mo¿e przed wprowadzeniem jakichkolwiek danych klikn¹æ przycisk przejœcia dalej w celu wyœwietlenia czerwonych ramek, o których mowa w zdaniu poprzednim.
+4.	Wszelkie pola aplikacji â€Ubezpiecz mieszkanie on-line", ktÃ³rych wypeÅ‚nienie jest obligatoryjne, zostanÄ… oznaczone za pomocÄ… symbolu â€*" z wyjÄ…tkiem Etapu 1 i 2, w ktÃ³rych wszystkie pola oprÃ³cz podania adresu e-mail oraz wiÄ™cej niÅ¼ jednego numeru telefonu sÄ… obligatoryjne.
 
-7.	Ze wzglêdów bezpieczeñstwa AXA Ubezpieczenia zastrzega sobie prawo przerwania po³¹czenia z Us³ugobiorc¹ po up³ywie 30 minut od momentu dokonania przez niego ostatniej czynnoœci.
+5.	Ze wzglÄ™dÃ³w bezpieczeÅ„stwa AXA Ubezpieczenia zastrzega sobie prawo przerwania poÅ‚Ä…czenia z UsÅ‚ugobiorcÄ… po upÅ‚ywie 30 minut od momentu dokonania przez niego ostatniej czynnoÅ›ci.
 
-8.	Ubezpieczaj¹cy bêd¹cy Konsumentem mo¿e odst¹piæ od zawartej Umowy Ubezpieczenia bez podania przyczyn sk³adaj¹c oœwiadczenie na piœmie w terminie 30 dni od dnia poinformowania go o zawarciu Umowy Ubezpieczenia albo od dnia dorêczenia mu potwierdzenia informacji, o których mowa w art. 39 ust. 3 ustawy konsumenckiej, je¿eli jest to termin póŸniejszy. Termin uwa¿a siê za zachowany, je¿eli przed jego up³ywem oœwiadczenie zosta³o wys³ane.
+6.	UbezpieczajÄ…cy bÄ™dÄ…cy Konsumentem moÅ¼e odstÄ…piÄ‡ od zawartej Umowy Ubezpieczenia bez podania przyczyn skÅ‚adajÄ…c oÅ›wiadczenie na piÅ›mie w terminie 30 dni od dnia poinformowania go o zawarciu Umowy Ubezpieczenia albo od dnia potwierdzenia mu informacji, o ktÃ³rych mowa w art. 39 ust. 3 ustawy konsumenckiej, jeÅ¼eli jest to termin pÃ³Åºniejszy. Termin uwaÅ¼a siÄ™ za zachowany, jeÅ¼eli przed jego upÅ‚ywem oÅ›wiadczenie zostaÅ‚o wysÅ‚ane.
 
+Â§ 6
 
-
-§ 7
-
-Aplikacja „Ubezpieczenie floty on-line"
+Aplikacja â€Ubezpiecz samochÃ³d on-line"
 
 
-1.	Z zastrze¿eniem odmiennych postanowieñ, na ka¿dym etapie korzystania z aplikacji „Ubezpieczenie floty on-line" wskazanym w ust. 2 Us³ugobiorca ma prawo
+1.	Z zastrzeÅ¼eniem odmiennych postanowieÅ„, na kaÅ¼dym etapie korzystania z aplikacji â€Ubezpiecz samochÃ³d on-line" wskazanym w ust. 2 UsÅ‚ugobiorca ma prawo:
 
-a)	powróciæ do poprzedniego etapu aplikacji;
+a)	powrÃ³ciÄ‡ do poprzedniego etapu aplikacji;
 
-b)	zakoñczyæ korzystanie z aplikacji „Ubezpieczenie floty on-line", równie¿ nie dokonuj¹c Zapisu Propozycji oraz nie dokonuj¹c Z³o¿enia Wniosku;
+b)	zakoÅ„czyÄ‡ korzystanie z aplikacji â€Ubezpiecz samochÃ³d on-line", rÃ³wnieÅ¼ nie dokonujÄ…c Zapisu Propozycji oraz nie dokonujÄ…c ZÅ‚oÅ¼enia Wniosku. W przypadku zakoÅ„czenia korzystania z aplikacji
 
-c)	dokonaæ zapisu danych na ka¿dym etapie. W przypadku zapisu danych przed podaniem przez Us³ugobiorcê adresu email w Etapie I, AXA Ubezpieczenia wymaga od Us³ugobiorcy podania adresu email. AXA Ubezpieczenia przesy³a na adres email Us³ugobiorcy link umo¿liwiaj¹cy odtworzenie danych przez 30 dni, pocz¹wszy od daty zapisu.
+â€Ubezpiecz samochÃ³d on-line" w Etapie 1 lub na Etapie 2 (tj. bez podawania danych osobowych) wskazane poniÅ¼ej dane podane przez UsÅ‚ugobiorcÄ™ w Etapie 1 pozostanÄ… w dyspozycji AXA Ubezpieczenia przez okres 360 dni wyÅ‚Ä…cznie dla celÃ³w statystycznych;
 
-2.	W ramach aplikacji „Ubezpieczenie floty on-line" Us³ugobiorca mo¿e wykonaæ nastêpuj¹ce czynnoœci na poszczególnych etapach korzystania z aplikacji:
+c)	skorzystaÄ‡ z aplikacji â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™";
 
-a)	Etap 1 - Dane przedsiêbiorcy; na etapie tym Us³ugobiorca:
+d)	dokonaÄ‡ Zapisu Propozycji na Etapie 2 i 3.
 
-mo¿e podaæ dane zwi¹zane z prowadzon¹ dzia³alnoœci¹ gospodarcz¹ oraz okreœliæ wspó³w³aœcicieli pojazdu. Na tym etapie dane Us³ugobiorcy mog¹ zostaæ pobrane z bazy systemu Bisnode
+
+2.	W ramach aplikacji â€Ubezpiecz samochÃ³d on-line" UsÅ‚ugobiorca moÅ¼e wykonaÄ‡ nastÄ™pujÄ…ce czynnoÅ›ci na poszczegÃ³lnych etapach korzystania z aplikacji:
+
+a)	Etap 1 - Obliczenie skÅ‚adki; na etapie tym UsÅ‚ugobiorca:
+
+-	moÅ¼e podaÄ‡ dane, na podstawie ktÃ³rych w nastÄ™pnym etapie korzystania z aplikacji dokonana zostanie Kalkulacja skÅ‚adki.
+
+b)	Etap 2 - Oferta ubezpieczenia; na tym etapie UsÅ‚ugobiorca:
+
+-	zostaje poinformowany o Kalkulacji skÅ‚adki, ktÃ³ra stanowi maksymalnÄ… wysokoÅ›Ä‡ skÅ‚adki w przypadku zawarcia umowy ubezpieczenia wskutek bieÅ¼Ä…cego korzystania z aplikacji â€Ubezpiecz samochÃ³d on-line", pod warunkiem iÅ¼ podane przez UsÅ‚ugobiorcÄ™ dane sÄ… prawdziwe. Na dalszym etapie korzystania z aplikacji taka skÅ‚adka moÅ¼e ulec zmianie wskutek weryfikacji
  
-udostêpnianego przez spó³kê Bisnode Polska Sp. z o.o. z siedzib¹ w Warszawie na podstawie podanego numeru NIP w celu automatycznego uzupe³nienia formularza. Przy przejœciu do Etapu 2 dane Us³ugobiorcy weryfikowane s¹ w bazie UFG.
+danych podanych przez UsÅ‚ugobiorcÄ™ z danymi z Bazy UFG, bÄ…dÅº w zwiÄ…zku z zastosowaniem zniÅ¼ek, na przykÅ‚ad zwiÄ…zanych z wybranym rodzajem pÅ‚atnoÅ›ci;
 
-b)	Etap 2 - Obliczenie sk³adki; na tym etapie Us³ugobiorca:
+-	nie podaje swoich danych osobowych;
 
--	okreœla przedmiot ubezpieczenia;
+-	moÅ¼e dokonaÄ‡ wyboru metody pÅ‚atnoÅ›ci oraz czÄ™stotliwoÅ›ci opÅ‚acenia skÅ‚adki;
 
--	okreœla dane pojazdu oraz jego w³aœciciela;
+-	zostaje poinformowany o wysokoÅ›ci sum ubezpieczenia w przypadku ubezpieczenia Autocasco, Assistance, NastÄ™pstw NieszczÄ™Å›liwych WypadkÃ³w i odpowiedzialnoÅ›ci cywilnej posiadaczy pojazdÃ³w mechanicznych za szkody powstaÅ‚e w zwiÄ…zku z ruchem tych pojazdÃ³w;
 
--	odpowiada na pytania dotycz¹ce oceny ryzyka;
+-	dokonuje wyboru pakietu ubezpieczenia;
 
--	przy przejœciu do Etapu 3 dane podane przez us³ugobiorcê weryfikowane s¹ w bazie UFG;
+-	moÅ¼e dokonaÄ‡ zapisu Propozycji oraz przesÅ‚ania jej na adres e-mail i/lub sms;
 
--	zostaje poinformowany o Kalkulacji sk³adki, która stanowi maksymaln¹ wysokoœæ sk³adki dla tego przypadku.
+-	moÅ¼e przejÅ›Ä‡ do etapu podawania danych do polisy.
 
-c)	Etap 3 - Propozycja ubezpieczenia; na etapie tym Us³ugobiorca:
+c)	Etap 3 - Dane do polisy; na etapie tym UsÅ‚ugobiorca:
+
+-	podaje dane osobowe wÅ‚aÅ›ciciela/(-i) pojazdu, UbezpieczajÄ…cego oraz dane pojazdu, niezbÄ™dne do sporzÄ…dzenia Propozycji;
+
+-	moÅ¼e dokonaÄ‡ zapisu Propozycji oraz przesÅ‚ania jej na adres e-mail i/lub sms;
+
+-	moÅ¼e przejÅ›Ä‡ do przygotowania Wniosku. W takim przypadku nastÄ™puje zaÅ‚oÅ¼enie Konta w Serwisie www.lu.pl z uÅ¼yciem Loginu i HasÅ‚a. AXA Ubezpieczenia potwierdza zaÅ‚oÅ¼enie Konta w Serwisie poprzez przesÅ‚anie maila do UsÅ‚ugobiorcy; z zastrzeÅ¼eniem postanowieÅ„ ust. 3, w przypadku, gdy UsÅ‚ugobiorca zaÅ‚oÅ¼yÅ‚ Konto przed zawarciem umowy ubezpieczenia, posiada w nim dostÄ™p do danych, ktÃ³re podaÅ‚ lub otrzymaÅ‚ na etapie, gdy przestaÅ‚ korzystaÄ‡ z aplikacji â€Ubezpiecz samochÃ³d on-line";
+
+d)	Etap 4 - Podsumowanie i pÅ‚atnoÅ›Ä‡; na tym etapie moÅ¼e nastÄ…piÄ‡ weryfikacja podanych informacji o historii ubezpieczenia z danymi z bazy UFG, a UsÅ‚ugobiorca:
+
+-	otrzymuje peÅ‚en dostÄ™p do sporzÄ…dzonej Propozycji;
+
+-	otrzymuje informacjÄ™ czy podane przez niego informacje o szkodowoÅ›ci zostaÅ‚y zweryfikowane w Bazie UFG oraz o nowej wysokoÅ›ci skÅ‚adki, o ile wskutek weryfikacji w Bazie UFG ulegÅ‚a ona zmianie
+
+-	moÅ¼e dokonaÄ‡ ZÅ‚oÅ¼enia Wniosku;
+
+-	moÅ¼e zawrzeÄ‡ UmowÄ™ Ubezpieczenia - po uprzedniej akceptacji ZÅ‚oÅ¼enia Wniosku przez AXA Ubezpieczenia; w przypadku ubezpieczenia odpowiedzialnoÅ›ci cywilnej posiadaczy pojazdÃ³w mechanicznych za szkody powstaÅ‚e w zwiÄ…zku z ruchem tych pojazdÃ³w UmowÄ™ Ubezpieczenia uwaÅ¼a siÄ™ za zawartÄ… po ZÅ‚oÅ¼eniu przez UsÅ‚ugobiorcÄ™ Wniosku i akceptacji ZÅ‚oÅ¼enia Wniosku przez AXA Ubezpieczenia, z wyjÄ…tkami okreÅ›lonymi w Ustawie o ubezpieczeniach obowiÄ…zkowych. UmowÄ™ Ubezpieczenia dobrowolnego uwaÅ¼a siÄ™ za zawartÄ… w terminach wskazanych w OgÃ³lnych Warunkach Ubezpieczenia;
+
+-	otrzymuje informacje o sposobach pÅ‚atnoÅ›ci skÅ‚adki;
+
+-	moÅ¼e przejÅ›Ä‡ do pÅ‚atnoÅ›ci skÅ‚adki za poÅ›rednictwem eCard.
+
+
+3.	W przypadku gdy UsÅ‚ugobiorca na wybranym przez siebie etapie dokonuje zapisu danych, ma prawo powrÃ³ciÄ‡ do aplikacji â€Ubezpiecz samochÃ³d on-line" w terminie 30 dni od dokonania zapisu danych w celu dalszego korzystania z aplikacji â€Ubezpiecz samochÃ³d on-line".
+
+4.	Po zawarciu Umowy Ubezpieczenia, jeÅ›li UsÅ‚ugobiorca aktywowaÅ‚ Konto w Serwisie www.lu.pl, z zastrzeÅ¼eniem ust. 5, ma prawo w okresie trwania Umowy Ubezpieczenia do:
+ 
+a)	logowania siÄ™ w Serwisie;
+
+b)	zmiany HasÅ‚a;
+
+c)	dokonania nowej Kalkulacji skÅ‚adki.
+
+
+5.	UsÅ‚ugobiorca nie ma prawa do zmiany warunkÃ³w Umowy Ubezpieczenia w sytuacji okreÅ›lonej w ust. 4. Dokonywanie jakichkolwiek zmian w Umowie Ubezpieczenia dozwolone jest wyÅ‚Ä…cznie na warunkach okreÅ›lonych w Umowie Ubezpieczenia, w tym OgÃ³lnych Warunkach Ubezpieczenia oraz w przepisach prawa.
+
+6.	Wszelkie pola aplikacji â€Ubezpiecz samochÃ³d on-line", ktÃ³rych wypeÅ‚nienie jest obligatoryjne, zostanÄ… wyrÃ³Å¼nione za pomocÄ… czerwonej ramki oraz stosownego komunikatu wyÅ›wietlanego podczas prÃ³by przejÅ›cia do kolejnej sekcji lub etapu. UÅ¼ytkownik moÅ¼e przed wprowadzeniem jakichkolwiek danych kliknÄ…Ä‡ przycisk przejÅ›cia dalej w celu wyÅ›wietlenia czerwonych ramek, o ktÃ³rych mowa w zdaniu poprzednim.
+
+7.	Ze wzglÄ™dÃ³w bezpieczeÅ„stwa AXA Ubezpieczenia zastrzega sobie prawo przerwania poÅ‚Ä…czenia z UsÅ‚ugobiorcÄ… po upÅ‚ywie 30 minut od momentu dokonania przez niego ostatniej czynnoÅ›ci.
+
+8.	UbezpieczajÄ…cy bÄ™dÄ…cy Konsumentem moÅ¼e odstÄ…piÄ‡ od zawartej Umowy Ubezpieczenia bez podania przyczyn skÅ‚adajÄ…c oÅ›wiadczenie na piÅ›mie w terminie 30 dni od dnia poinformowania go o zawarciu Umowy Ubezpieczenia albo od dnia dorÄ™czenia mu potwierdzenia informacji, o ktÃ³rych mowa w art. 39 ust. 3 ustawy konsumenckiej, jeÅ¼eli jest to termin pÃ³Åºniejszy. Termin uwaÅ¼a siÄ™ za zachowany, jeÅ¼eli przed jego upÅ‚ywem oÅ›wiadczenie zostaÅ‚o wysÅ‚ane.
+
+
+
+Â§ 7
+
+Aplikacja â€Ubezpieczenie floty on-line"
+
+
+1.	Z zastrzeÅ¼eniem odmiennych postanowieÅ„, na kaÅ¼dym etapie korzystania z aplikacji â€Ubezpieczenie floty on-line" wskazanym w ust. 2 UsÅ‚ugobiorca ma prawo
+
+a)	powrÃ³ciÄ‡ do poprzedniego etapu aplikacji;
+
+b)	zakoÅ„czyÄ‡ korzystanie z aplikacji â€Ubezpieczenie floty on-line", rÃ³wnieÅ¼ nie dokonujÄ…c Zapisu Propozycji oraz nie dokonujÄ…c ZÅ‚oÅ¼enia Wniosku;
+
+c)	dokonaÄ‡ zapisu danych na kaÅ¼dym etapie. W przypadku zapisu danych przed podaniem przez UsÅ‚ugobiorcÄ™ adresu email w Etapie I, AXA Ubezpieczenia wymaga od UsÅ‚ugobiorcy podania adresu email. AXA Ubezpieczenia przesyÅ‚a na adres email UsÅ‚ugobiorcy link umoÅ¼liwiajÄ…cy odtworzenie danych przez 30 dni, poczÄ…wszy od daty zapisu.
+
+2.	W ramach aplikacji â€Ubezpieczenie floty on-line" UsÅ‚ugobiorca moÅ¼e wykonaÄ‡ nastÄ™pujÄ…ce czynnoÅ›ci na poszczegÃ³lnych etapach korzystania z aplikacji:
+
+a)	Etap 1 - Dane przedsiÄ™biorcy; na etapie tym UsÅ‚ugobiorca:
+
+moÅ¼e podaÄ‡ dane zwiÄ…zane z prowadzonÄ… dziaÅ‚alnoÅ›ciÄ… gospodarczÄ… oraz okreÅ›liÄ‡ wspÃ³Å‚wÅ‚aÅ›cicieli pojazdu. Na tym etapie dane UsÅ‚ugobiorcy mogÄ… zostaÄ‡ pobrane z bazy systemu Bisnode
+ 
+udostÄ™pnianego przez spÃ³Å‚kÄ™ Bisnode Polska Sp. z o.o. z siedzibÄ… w Warszawie na podstawie podanego numeru NIP w celu automatycznego uzupeÅ‚nienia formularza. Przy przejÅ›ciu do Etapu 2 dane UsÅ‚ugobiorcy weryfikowane sÄ… w bazie UFG.
+
+b)	Etap 2 - Obliczenie skÅ‚adki; na tym etapie UsÅ‚ugobiorca:
+
+-	okreÅ›la przedmiot ubezpieczenia;
+
+-	okreÅ›la dane pojazdu oraz jego wÅ‚aÅ›ciciela;
+
+-	odpowiada na pytania dotyczÄ…ce oceny ryzyka;
+
+-	przy przejÅ›ciu do Etapu 3 dane podane przez usÅ‚ugobiorcÄ™ weryfikowane sÄ… w bazie UFG;
+
+-	zostaje poinformowany o Kalkulacji skÅ‚adki, ktÃ³ra stanowi maksymalnÄ… wysokoÅ›Ä‡ skÅ‚adki dla tego przypadku.
+
+c)	Etap 3 - Propozycja ubezpieczenia; na etapie tym UsÅ‚ugobiorca:
 
 -	wybiera zakres ubezpieczenia;
 
--	okreœla sposób p³atnoœci;
+-	okreÅ›la sposÃ³b pÅ‚atnoÅ›ci;
 
--	ma mo¿liwoœæ podania kodu zni¿kowego;
+-	ma moÅ¼liwoÅ›Ä‡ podania kodu zniÅ¼kowego;
 
--	mo¿e przejœæ do podsumowania.
+-	moÅ¼e przejÅ›Ä‡ do podsumowania.
 
-d)	Etap 4 - Podsumowanie; na tym etapie Us³ugobiorca:
+d)	Etap 4 - Podsumowanie; na tym etapie UsÅ‚ugobiorca:
 
--	otrzymuje pe³en dostêp do sporz¹dzonej Propozycji;
+-	otrzymuje peÅ‚en dostÄ™p do sporzÄ…dzonej Propozycji;
 
--	mo¿e dokonaæ Z³o¿enia Wniosku;
+-	moÅ¼e dokonaÄ‡ ZÅ‚oÅ¼enia Wniosku;
 
--	mo¿e przejœæ do etapu p³atnoœci sk³adki.
+-	moÅ¼e przejÅ›Ä‡ do etapu pÅ‚atnoÅ›ci skÅ‚adki.
 
-e)	Etap 5 - P³atnoœæ; na tym etapie Us³ugobiorca:
+e)	Etap 5 - PÅ‚atnoÅ›Ä‡; na tym etapie UsÅ‚ugobiorca:
 
--	mo¿e zawrzeæ Umowê Ubezpieczenia - po uprzedniej akceptacji Z³o¿enia Wniosku przez AXA Ubezpieczenia; po z³o¿eniu wniosku tworzone jest tak¿e Konto w serwisie www.lu.pl, do którego logowanie odbywa siê za pomoc¹ numeru telefonu i hase³ jednorazowych; w przypadku ubezpieczenia odpowiedzialnoœci cywilnej posiadaczy pojazdów mechanicznych za szkody powsta³e w zwi¹zku z ruchem tych pojazdów Umowê Ubezpieczenia uwa¿a siê za zawart¹ po Z³o¿eniu przez Us³ugobiorcê Wniosku i akceptacji Z³o¿enia Wniosku przez AXA Ubezpieczenia, z wyj¹tkami okreœlonymi w ustawie o ubezpieczeniach obowi¹zkowych. Umowê Ubezpieczenia dobrowolnego uwa¿a siê za zawart¹ w terminach wskazanych w Ogólnych Warunkach Ubezpieczenia;
+-	moÅ¼e zawrzeÄ‡ UmowÄ™ Ubezpieczenia - po uprzedniej akceptacji ZÅ‚oÅ¼enia Wniosku przez AXA Ubezpieczenia; po zÅ‚oÅ¼eniu wniosku tworzone jest takÅ¼e Konto w serwisie www.lu.pl, do ktÃ³rego logowanie odbywa siÄ™ za pomocÄ… numeru telefonu i haseÅ‚ jednorazowych; w przypadku ubezpieczenia odpowiedzialnoÅ›ci cywilnej posiadaczy pojazdÃ³w mechanicznych za szkody powstaÅ‚e w zwiÄ…zku z ruchem tych pojazdÃ³w UmowÄ™ Ubezpieczenia uwaÅ¼a siÄ™ za zawartÄ… po ZÅ‚oÅ¼eniu przez UsÅ‚ugobiorcÄ™ Wniosku i akceptacji ZÅ‚oÅ¼enia Wniosku przez AXA Ubezpieczenia, z wyjÄ…tkami okreÅ›lonymi w ustawie o ubezpieczeniach obowiÄ…zkowych. UmowÄ™ Ubezpieczenia dobrowolnego uwaÅ¼a siÄ™ za zawartÄ… w terminach wskazanych w OgÃ³lnych Warunkach Ubezpieczenia;
 
--	mo¿e przejœæ do p³atnoœci sk³adki za poœrednictwem eCard.
-
-
-3.	W przypadku gdy Us³ugobiorca na wybranym przez siebie etapie dokonuje zapisu danych, ma prawo powróciæ do aplikacji „Ubezpieczenie floty on-line" w terminie 30 dni od dokonania zapisu danych w celu dalsze-go korzystania z aplikacji „Ubezpieczenie floty on-line".
-
-4.	Po zawarciu Umowy Ubezpieczenia, jeœli Us³ugobiorca aktywowa³ Konto w Serwisie www.lu.pl, z zastrze¿eniem ust. 5, ma prawo w okresie trwania Umowy Ubezpieczenia do:
-
-a)	logowania siê w Serwisie;
-
-b)	dokonania nowej Kalkulacji sk³adki.
+-	moÅ¼e przejÅ›Ä‡ do pÅ‚atnoÅ›ci skÅ‚adki za poÅ›rednictwem eCard.
 
 
-5.	Us³ugobiorca nie ma prawa do zmiany warunków Umowy Ubezpieczenia w sytuacji okreœlonej w ust. 4. Dokonywanie jakichkolwiek zmian w Umowie Ubezpieczenia dozwolone jest wy³¹cznie na warunkach okreœlonych w Umowie Ubezpieczenia, w tym Ogólnych Warunkach Ubezpieczenia oraz w przepisach prawa.
+3.	W przypadku gdy UsÅ‚ugobiorca na wybranym przez siebie etapie dokonuje zapisu danych, ma prawo powrÃ³ciÄ‡ do aplikacji â€Ubezpieczenie floty on-line" w terminie 30 dni od dokonania zapisu danych w celu dalsze-go korzystania z aplikacji â€Ubezpieczenie floty on-line".
+
+4.	Po zawarciu Umowy Ubezpieczenia, jeÅ›li UsÅ‚ugobiorca aktywowaÅ‚ Konto w Serwisie www.lu.pl, z zastrzeÅ¼eniem ust. 5, ma prawo w okresie trwania Umowy Ubezpieczenia do:
+
+a)	logowania siÄ™ w Serwisie;
+
+b)	dokonania nowej Kalkulacji skÅ‚adki.
+
+
+5.	UsÅ‚ugobiorca nie ma prawa do zmiany warunkÃ³w Umowy Ubezpieczenia w sytuacji okreÅ›lonej w ust. 4. Dokonywanie jakichkolwiek zmian w Umowie Ubezpieczenia dozwolone jest wyÅ‚Ä…cznie na warunkach okreÅ›lonych w Umowie Ubezpieczenia, w tym OgÃ³lnych Warunkach Ubezpieczenia oraz w przepisach prawa.
  
-6.	Ze wzglêdów bezpieczeñstwa AXA Ubezpieczenia zastrzega sobie prawo przerwania po³¹czenia z Us³ugobiorc¹ po up³ywie 30 minut od momentu dokonania przez niego ostatniej czynnoœci.
+6.	Ze wzglÄ™dÃ³w bezpieczeÅ„stwa AXA Ubezpieczenia zastrzega sobie prawo przerwania poÅ‚Ä…czenia z UsÅ‚ugobiorcÄ… po upÅ‚ywie 30 minut od momentu dokonania przez niego ostatniej czynnoÅ›ci.
 
-7.	Ubezpieczaj¹cy bêd¹cy Konsumentem mo¿e odst¹piæ od zawartej Umowy Ubezpieczenia bez podania przyczyn sk³adaj¹c oœwiadczenie na piœmie w terminie 30 dni od dnia poinformowania go o zawarciu
+7.	UbezpieczajÄ…cy bÄ™dÄ…cy Konsumentem moÅ¼e odstÄ…piÄ‡ od zawartej Umowy Ubezpieczenia bez podania przyczyn skÅ‚adajÄ…c oÅ›wiadczenie na piÅ›mie w terminie 30 dni od dnia poinformowania go o zawarciu
 
-Umowy Ubezpieczenia albo od dnia potwierdzenia informacji, o których mowa w art. 39 ust. 3 ustawy konsumenckiej, je¿eli jest to termin póŸniejszy. Termin uwa¿a siê za zachowany, je¿eli przed jego up³ywem oœwiadczenie zosta³o wys³ane.
+Umowy Ubezpieczenia albo od dnia potwierdzenia informacji, o ktÃ³rych mowa w art. 39 ust. 3 ustawy konsumenckiej, jeÅ¼eli jest to termin pÃ³Åºniejszy. Termin uwaÅ¼a siÄ™ za zachowany, jeÅ¼eli przed jego upÅ‚ywem oÅ›wiadczenie zostaÅ‚o wysÅ‚ane.
 
-§ 8
+Â§ 8
 
-Aplikacja „Odnów polisê on-line"
-
-
-1.	Z aplikacji „Odnów polisê on-line" mo¿e skorzystaæ po zalogowaniu Us³ugobiorca, który posiada Konto w Serwisie i zawar³ poprzednio Umowê Ubezpieczenia korzystaj¹c z aplikacji „Ubezpiecz samochód on-line".
-
-2.	Us³ugobiorca, o którym mowa w ust. 1, po zalogowaniu mo¿e przegl¹daæ listê swoich aktualnie zawartych Umów Ubezpieczenia, w których okres ubezpieczenia koñczy siê za mniej ni¿ 30 dni. Us³ugobiorca mo¿e wybraæ dowoln¹ z wymienionych polis w celu poznania Propozycji Odnowienia dotycz¹cej wybranej polisy.
-
-3.	Z zastrze¿eniem odmiennych postanowieñ Regulaminu na ka¿dym etapie korzystania z tej aplikacji Us³ugobiorca ma prawo:
-
-a)	powróciæ do poprzedniego etapu aplikacji,
-
-b)	skorzystaæ z aplikacji „Zamów bezp³atn¹ rozmowê"
-
-c)	zakoñczyæ korzystanie z aplikacji (Us³ugobiorca nie ma mo¿liwoœci dokonania zapisu danych).
+Aplikacja â€OdnÃ³w polisÄ™ on-line"
 
 
-4.	W ramach aplikacji „Odnów polisê on-line" Us³ugobiorca mo¿e wykonaæ nastêpuj¹ce czynnoœci na poszczególnych etapach korzystania z aplikacji:
+1.	Z aplikacji â€OdnÃ³w polisÄ™ on-line" moÅ¼e skorzystaÄ‡ po zalogowaniu UsÅ‚ugobiorca, ktÃ³ry posiada Konto w Serwisie i zawarÅ‚ poprzednio UmowÄ™ Ubezpieczenia korzystajÄ…c z aplikacji â€Ubezpiecz samochÃ³d on-line".
 
-a)	Etap 1 - „Podsumowanie, weryfikacja danych" - na tym etapie Us³ugobiorca:
+2.	UsÅ‚ugobiorca, o ktÃ³rym mowa w ust. 1, po zalogowaniu moÅ¼e przeglÄ…daÄ‡ listÄ™ swoich aktualnie zawartych UmÃ³w Ubezpieczenia, w ktÃ³rych okres ubezpieczenia koÅ„czy siÄ™ za mniej niÅ¼ 30 dni. UsÅ‚ugobiorca moÅ¼e wybraÄ‡ dowolnÄ… z wymienionych polis w celu poznania Propozycji Odnowienia dotyczÄ…cej wybranej polisy.
 
--	poznaje podsumowanie wszystkich zwi¹zanych z wybran¹ polis¹ danych dotycz¹cych zawartej przez niego Umowy Ubezpieczenia. Podsumowanie to stanowi Propozycjê Odnowienia. Propozycja zawiera m.in. podsumowanie informacji dotycz¹cych pojazdu podanych przed zawarciem odnawianej Umowy Ubezpieczenia, wskazanie wysokoœci sk³adki. Propozycja Odnowienia, w tym OWU oraz podana wysokoœæ sk³adki s¹ wi¹¿¹ce wy³¹cznie w czasie bie¿¹cego korzystania z aplikacji „Odnów polisê on-line", pod warunkiem i¿ podane przez Us³ugobiorcê dane s¹ prawdziwe, tj. Us³ugobiorca mo¿e potwierdziæ, ¿e s¹ nadal aktualne.
+3.	Z zastrzeÅ¼eniem odmiennych postanowieÅ„ Regulaminu na kaÅ¼dym etapie korzystania z tej aplikacji UsÅ‚ugobiorca ma prawo:
 
--	mo¿e przejœæ do etapu P³atnoœæ,
+a)	powrÃ³ciÄ‡ do poprzedniego etapu aplikacji,
 
-b)	Etap 3 - „Wybór formy p³atnoœci" - na tym etapie Us³ugobiorca:
+b)	skorzystaÄ‡ z aplikacji â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™"
 
--	otrzymuje informacje o mo¿liwych sposobach p³atnoœci sk³adki,
+c)	zakoÅ„czyÄ‡ korzystanie z aplikacji (UsÅ‚ugobiorca nie ma moÅ¼liwoÅ›ci dokonania zapisu danych).
 
--	mo¿e - po wybraniu sposobu p³atnoœci - dokonaæ Z³o¿enia Wniosku o odnowienie Umowy Ubezpieczenia na warunkach wskazanych w Propozycji Odnowienia. Z³o¿enie Wniosku skutkuje, po jego akceptacji przez AXA Ubezpieczenia oraz po op³aceniu sk³adki w terminie wskazanym w dokumencie ubezpieczenia. Odnowieniem polisy (z zastrze¿eniem odmiennych postanowieñ
+
+4.	W ramach aplikacji â€OdnÃ³w polisÄ™ on-line" UsÅ‚ugobiorca moÅ¼e wykonaÄ‡ nastÄ™pujÄ…ce czynnoÅ›ci na poszczegÃ³lnych etapach korzystania z aplikacji:
+
+a)	Etap 1 - â€Podsumowanie, weryfikacja danych" - na tym etapie UsÅ‚ugobiorca:
+
+-	poznaje podsumowanie wszystkich zwiÄ…zanych z wybranÄ… polisÄ… danych dotyczÄ…cych zawartej przez niego Umowy Ubezpieczenia. Podsumowanie to stanowi PropozycjÄ™ Odnowienia. Propozycja zawiera m.in. podsumowanie informacji dotyczÄ…cych pojazdu podanych przed zawarciem odnawianej Umowy Ubezpieczenia, wskazanie wysokoÅ›ci skÅ‚adki. Propozycja Odnowienia, w tym OWU oraz podana wysokoÅ›Ä‡ skÅ‚adki sÄ… wiÄ…Å¼Ä…ce wyÅ‚Ä…cznie w czasie bieÅ¼Ä…cego korzystania z aplikacji â€OdnÃ³w polisÄ™ on-line", pod warunkiem iÅ¼ podane przez UsÅ‚ugobiorcÄ™ dane sÄ… prawdziwe, tj. UsÅ‚ugobiorca moÅ¼e potwierdziÄ‡, Å¼e sÄ… nadal aktualne.
+
+-	moÅ¼e przejÅ›Ä‡ do etapu PÅ‚atnoÅ›Ä‡,
+
+b)	Etap 3 - â€WybÃ³r formy pÅ‚atnoÅ›ci" - na tym etapie UsÅ‚ugobiorca:
+
+-	otrzymuje informacje o moÅ¼liwych sposobach pÅ‚atnoÅ›ci skÅ‚adki,
+
+-	moÅ¼e - po wybraniu sposobu pÅ‚atnoÅ›ci - dokonaÄ‡ ZÅ‚oÅ¼enia Wniosku o odnowienie Umowy Ubezpieczenia na warunkach wskazanych w Propozycji Odnowienia. ZÅ‚oÅ¼enie Wniosku skutkuje, po jego akceptacji przez AXA Ubezpieczenia oraz po opÅ‚aceniu skÅ‚adki w terminie wskazanym w dokumencie ubezpieczenia. Odnowieniem polisy (z zastrzeÅ¼eniem odmiennych postanowieÅ„
  
-ustawy o ubezpieczeniach obowi¹zkowych, zgodnie z któr¹ je¿eli posiadacz pojazdu z stosownym terminie nie poinformuje zak³adu ubezpieczeñ o wypowiedzeniu umowy ubezpieczenia obowi¹zkowego, uwa¿a siê ¿e zosta³a zawarta nastêpna umowa na kolejne 12 miesiêcy). Sk³adaj¹c Wniosek Us³ugobiorca potwierdza, ¿e wszystkie dane zawarte w Propozycji Odnowienia s¹ aktualne i zgodne z rzeczywistoœci¹. Je¿eli Us³ugobiorca chce dokonaæ zmiany danych zawartych w Propozycji Odnowienia, jest zobowi¹zany skontaktowaæ siê z AXA Ubezpieczenia;
+ustawy o ubezpieczeniach obowiÄ…zkowych, zgodnie z ktÃ³rÄ… jeÅ¼eli posiadacz pojazdu z stosownym terminie nie poinformuje zakÅ‚adu ubezpieczeÅ„ o wypowiedzeniu umowy ubezpieczenia obowiÄ…zkowego, uwaÅ¼a siÄ™ Å¼e zostaÅ‚a zawarta nastÄ™pna umowa na kolejne 12 miesiÄ™cy). SkÅ‚adajÄ…c Wniosek UsÅ‚ugobiorca potwierdza, Å¼e wszystkie dane zawarte w Propozycji Odnowienia sÄ… aktualne i zgodne z rzeczywistoÅ›ciÄ…. JeÅ¼eli UsÅ‚ugobiorca chce dokonaÄ‡ zmiany danych zawartych w Propozycji Odnowienia, jest zobowiÄ…zany skontaktowaÄ‡ siÄ™ z AXA Ubezpieczenia;
 
--	mo¿e przejœæ do p³atnoœci sk³adki za poœrednictwem eCard.
-
-
-5.	W pozosta³ym zakresie odpowiednio stosuje siê postanowienia pkt VI.
+-	moÅ¼e przejÅ›Ä‡ do pÅ‚atnoÅ›ci skÅ‚adki za poÅ›rednictwem eCard.
 
 
-
-§ 9
-
-Aplikacja „Zg³oœ kupno/sprzeda¿ pojazdu on-line"
+5.	W pozostaÅ‚ym zakresie odpowiednio stosuje siÄ™ postanowienia pkt VI.
 
 
-1.	Z aplikacji „Zg³oœ kupno/sprzeda¿ pojazdu on-line" mo¿e skorzystaæ Us³ugobiorca, który zawar³ z AXA Ubezpieczenia Umowê Ubezpieczenia lub naby³ pojazd od osoby, która zawarta z AXA Ubezpieczenia Umowê Ubezpieczenia dotycz¹c¹ tego pojazdu w celu poinformowania AXA Ubezpieczenia o zbyciu lub nabyciu pojazdu.
 
-2.	Us³ugobiorca posiadaj¹cy Konto w Serwisie korzysta z aplikacji „Zg³oœ kupno/sprzeda¿ pojazdu on-line" po zalogowaniu.
+Â§ 9
 
-3.	W ramach korzystania z aplikacji „Zg³oœ kupno/sprzeda¿ pojazdu on-line" Us³ugobiorca mo¿e poinformowaæ AXA Ubezpieczenia o fakcie zbycia lub nabycia ubezpieczonego pojazdu wpisuj¹c odpowiednie dane w formularz udostêpniany w tym celu przez AXA Ubezpieczenia. W przypadku Us³ugobiorców zalogowanych czêœæ danych mo¿e zostaæ uzupe³niona automatycznie. Us³ugobiorca nie ma mo¿liwoœci edytowania danych uzupe³nionych automatycznie.
+Aplikacja â€ZgÅ‚oÅ› kupno/sprzedaÅ¼ pojazdu on-line"
 
-4.	Po zatwierdzeniu przez Us³ugobiorcê wprowadzonych danych informacja o zbyciu lub nabyciu ubezpieczonego pojazdu podlega weryfikacji przez AXA Ubezpieczenia. Dokonane w ten sposób zg³oszenie jest skuteczne, jeœli zawiera dane zgodne ze stanem faktycznym oraz zosta³o z³o¿one przez uprawnion¹ osobê.
 
-5.	Skutki prawne zbycia ubezpieczonego pojazdu oraz skutki prawne powiadomienia AXA Ubezpieczenia o fakcie zbycia pojazdu okreœla ustawa o ubezpieczeniach obowi¹zkowych i Ogólne Warunki
+1.	Z aplikacji â€ZgÅ‚oÅ› kupno/sprzedaÅ¼ pojazdu on-line" moÅ¼e skorzystaÄ‡ UsÅ‚ugobiorca, ktÃ³ry zawarÅ‚ z AXA Ubezpieczenia UmowÄ™ Ubezpieczenia lub nabyÅ‚ pojazd od osoby, ktÃ³ra zawarta z AXA Ubezpieczenia UmowÄ™ Ubezpieczenia dotyczÄ…cÄ… tego pojazdu w celu poinformowania AXA Ubezpieczenia o zbyciu lub nabyciu pojazdu.
+
+2.	UsÅ‚ugobiorca posiadajÄ…cy Konto w Serwisie korzysta z aplikacji â€ZgÅ‚oÅ› kupno/sprzedaÅ¼ pojazdu on-line" po zalogowaniu.
+
+3.	W ramach korzystania z aplikacji â€ZgÅ‚oÅ› kupno/sprzedaÅ¼ pojazdu on-line" UsÅ‚ugobiorca moÅ¼e poinformowaÄ‡ AXA Ubezpieczenia o fakcie zbycia lub nabycia ubezpieczonego pojazdu wpisujÄ…c odpowiednie dane w formularz udostÄ™pniany w tym celu przez AXA Ubezpieczenia. W przypadku UsÅ‚ugobiorcÃ³w zalogowanych czÄ™Å›Ä‡ danych moÅ¼e zostaÄ‡ uzupeÅ‚niona automatycznie. UsÅ‚ugobiorca nie ma moÅ¼liwoÅ›ci edytowania danych uzupeÅ‚nionych automatycznie.
+
+4.	Po zatwierdzeniu przez UsÅ‚ugobiorcÄ™ wprowadzonych danych informacja o zbyciu lub nabyciu ubezpieczonego pojazdu podlega weryfikacji przez AXA Ubezpieczenia. Dokonane w ten sposÃ³b zgÅ‚oszenie jest skuteczne, jeÅ›li zawiera dane zgodne ze stanem faktycznym oraz zostaÅ‚o zÅ‚oÅ¼one przez uprawnionÄ… osobÄ™.
+
+5.	Skutki prawne zbycia ubezpieczonego pojazdu oraz skutki prawne powiadomienia AXA Ubezpieczenia o fakcie zbycia pojazdu okreÅ›la ustawa o ubezpieczeniach obowiÄ…zkowych i OgÃ³lne Warunki
 
 Ubezpieczenia.
 
 
-6.	W pozosta³ym zakresie odpowiednio stosuje siê postanowienia paragrafu 6.
+6.	W pozostaÅ‚ym zakresie odpowiednio stosuje siÄ™ postanowienia paragrafu 6.
  
-§	10
+Â§	10
 
-Status zg³oszonej szkody
+Status zgÅ‚oszonej szkody
 
 
-1.	W ramach funkcjonalnoœci Status Zg³oszonej Szkody Us³ugobiorca mo¿e za poœrednictwem swojego
+1.	W ramach funkcjonalnoÅ›ci Status ZgÅ‚oszonej Szkody UsÅ‚ugobiorca moÅ¼e za poÅ›rednictwem swojego
 
 Konta:
 
-a)	przegl¹daæ ogólne informacje dotycz¹ce prowadzonego przez AXA Ubezpieczenia postêpowania w sprawie roszczeñ z Umowy ubezpieczenia komunikacyjnego zg³oszonych przez Us³ugobiorcê.
+a)	przeglÄ…daÄ‡ ogÃ³lne informacje dotyczÄ…ce prowadzonego przez AXA Ubezpieczenia postÄ™powania w sprawie roszczeÅ„ z Umowy ubezpieczenia komunikacyjnego zgÅ‚oszonych przez UsÅ‚ugobiorcÄ™.
 
-b)	wysy³aæ do AXA Ubezpieczenia wiadomoœci oraz dokumenty zwi¹zane ze zg³oszonym roszczeniem dotycz¹cym Umowy ubezpieczenia komunikacyjnego. Wysy³ane dokumenty powinny mieæ format PDF, JPG. AXA Ubezpieczenia nie odczyta dokumentów przes³anych w innym formacie. W razie w¹tpliwoœci AXA Ubezpieczenia mo¿e ¿¹daæ przekazania orygina³ów dokumentów za poœrednictwem poczty.
+b)	wysyÅ‚aÄ‡ do AXA Ubezpieczenia wiadomoÅ›ci oraz dokumenty zwiÄ…zane ze zgÅ‚oszonym roszczeniem dotyczÄ…cym Umowy ubezpieczenia komunikacyjnego. WysyÅ‚ane dokumenty powinny mieÄ‡ format PDF, JPG. AXA Ubezpieczenia nie odczyta dokumentÃ³w przesÅ‚anych w innym formacie. W razie wÄ…tpliwoÅ›ci AXA Ubezpieczenia moÅ¼e Å¼Ä…daÄ‡ przekazania oryginaÅ‚Ã³w dokumentÃ³w za poÅ›rednictwem poczty.
 
-2.	W ramach funkcjonalnoœci Status Zg³oszonej Szkody nie s¹ prezentowane dane osobowe ani szczegó³owe informacje dotycz¹ce zg³oszonego roszczenia.
+2.	W ramach funkcjonalnoÅ›ci Status ZgÅ‚oszonej Szkody nie sÄ… prezentowane dane osobowe ani szczegÃ³Å‚owe informacje dotyczÄ…ce zgÅ‚oszonego roszczenia.
 
-§ 11
+Â§ 11
 
-Aplikacja „Zamów bezp³atn¹ rozmowê"
-
-
-1.	W ramach Aplikacji „Zamów bezp³atn¹ rozmowê" Us³ugobiorca ma mo¿liwoœæ z³o¿enia zamówienia rozmowy telefonicznej z Konsultantem Centrum Obs³ugi Klienta.
-
-2.	W celu skorzystania z aplikacji „Zamów bezp³atn¹ rozmowê" Us³ugobiorca pozostawia w Serwisie numer telefonu kontaktowego oraz okreœla preferowan¹ godzinê kontaktu.
+Aplikacja â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™"
 
 
+1.	W ramach Aplikacji â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™" UsÅ‚ugobiorca ma moÅ¼liwoÅ›Ä‡ zÅ‚oÅ¼enia zamÃ³wienia rozmowy telefonicznej z Konsultantem Centrum ObsÅ‚ugi Klienta.
 
-§ 12
-
-Warunki zawierania i rozwi¹zywania umów o œwiadczenie Us³ug drog¹ elektroniczn¹
+2.	W celu skorzystania z aplikacji â€ZamÃ³w bezpÅ‚atnÄ… rozmowÄ™" UsÅ‚ugobiorca pozostawia w Serwisie numer telefonu kontaktowego oraz okreÅ›la preferowanÄ… godzinÄ™ kontaktu.
 
 
-1.	Niniejszy Regulamin stanowi integraln¹ czêœæ zawieranych przez AXA Ubezpieczenia z Us³ugobiorc¹ umów o œwiadczenie Us³ug drog¹ elektroniczn¹. Us³ugobiorca ma mo¿liwoœæ w ka¿dym czasie zapoznaæ siê z treœci¹ niniejszego Regulaminu, który udostêpniany jest nieodp³atnie za poœrednictwem witryny www.lu.pl w formie, która umo¿liwia pobranie, utrwalenie i wydrukowanie niniejszego Regulaminu. Akceptacja Regulaminu w trakcie korzystania z Us³ugi przy u¿yciu strony www.lu.pl jest równoznaczna z zawarciem umowy o œwiadczenie tych Us³ug bez koniecznoœci sporz¹dzenia odrêbnej umowy. Akceptacja Regulaminu mo¿e byæ wyra¿ona przez Us³ugobiorcê w sposób wyraŸny poprzez potwierdzenie przez Us³ugobiorcê tego faktu, albo w sposób dorozumiany, jeœli po zapoznaniu siê z Regulaminem Us³ugobiorca kontynuuje korzystanie z Serwisu.
 
-2.	Us³ugobiorca mo¿e w ka¿dej chwili zakoñczyæ korzystanie z Us³ug. Skutki prawne zakoñczenia korzystania z Us³ug okreœlaj¹ bezwzglêdnie obowi¹zuj¹ce przepisy prawa, w³aœciwe ze wzglêdu na charakter prawny œwiadczonej us³ugi, a tak¿e okolicznoœci faktyczne.
+Â§ 12
+
+Warunki zawierania i rozwiÄ…zywania umÃ³w o Å›wiadczenie UsÅ‚ug drogÄ… elektronicznÄ…
+
+
+1.	Niniejszy Regulamin stanowi integralnÄ… czÄ™Å›Ä‡ zawieranych przez AXA Ubezpieczenia z UsÅ‚ugobiorcÄ… umÃ³w o Å›wiadczenie UsÅ‚ug drogÄ… elektronicznÄ…. UsÅ‚ugobiorca ma moÅ¼liwoÅ›Ä‡ w kaÅ¼dym czasie zapoznaÄ‡ siÄ™ z treÅ›ciÄ… niniejszego Regulaminu, ktÃ³ry udostÄ™pniany jest nieodpÅ‚atnie za poÅ›rednictwem witryny www.lu.pl w formie, ktÃ³ra umoÅ¼liwia pobranie, utrwalenie i wydrukowanie niniejszego Regulaminu. Akceptacja Regulaminu w trakcie korzystania z UsÅ‚ugi przy uÅ¼yciu strony www.lu.pl jest rÃ³wnoznaczna z zawarciem umowy o Å›wiadczenie tych UsÅ‚ug bez koniecznoÅ›ci sporzÄ…dzenia odrÄ™bnej umowy. Akceptacja Regulaminu moÅ¼e byÄ‡ wyraÅ¼ona przez UsÅ‚ugobiorcÄ™ w sposÃ³b wyraÅºny poprzez potwierdzenie przez UsÅ‚ugobiorcÄ™ tego faktu, albo w sposÃ³b dorozumiany, jeÅ›li po zapoznaniu siÄ™ z Regulaminem UsÅ‚ugobiorca kontynuuje korzystanie z Serwisu.
+
+2.	UsÅ‚ugobiorca moÅ¼e w kaÅ¼dej chwili zakoÅ„czyÄ‡ korzystanie z UsÅ‚ug. Skutki prawne zakoÅ„czenia korzystania z UsÅ‚ug okreÅ›lajÄ… bezwzglÄ™dnie obowiÄ…zujÄ…ce przepisy prawa, wÅ‚aÅ›ciwe ze wzglÄ™du na charakter prawny Å›wiadczonej usÅ‚ugi, a takÅ¼e okolicznoÅ›ci faktyczne.
  
-3.	Umowa o œwiadczenie Us³ug drog¹ elektroniczn¹ rozwi¹zuje siê automatycznie bez koniecznoœci sk³adania dodatkowych oœwiadczeñ wraz z zakoñczeniem korzystania przez Us³ugobiorcê z Us³ug Serwisu lub z chwil¹ rozwi¹zania Umowy Ubezpieczenia.
+3.	Umowa o Å›wiadczenie UsÅ‚ug drogÄ… elektronicznÄ… rozwiÄ…zuje siÄ™ automatycznie bez koniecznoÅ›ci skÅ‚adania dodatkowych oÅ›wiadczeÅ„ wraz z zakoÅ„czeniem korzystania przez UsÅ‚ugobiorcÄ™ z UsÅ‚ug Serwisu lub z chwilÄ… rozwiÄ…zania Umowy Ubezpieczenia.
 
 
 
-§	13 Bezpieczeñstwo i ochrona danych
+Â§	13 BezpieczeÅ„stwo i ochrona danych
 
-1.	AXA Ubezpieczenia przetwarza dane osobowe zgodnie obowi¹zuj¹cymi przepisami prawa, w szczególnoœci z Ustaw¹ o ochronie danych osobowych i Ustaw¹ o œwiadczeniu us³ug drog¹ elektroniczn¹.
+1.	AXA Ubezpieczenia przetwarza dane osobowe zgodnie obowiÄ…zujÄ…cymi przepisami prawa, w szczegÃ³lnoÅ›ci z UstawÄ… o ochronie danych osobowych i UstawÄ… o Å›wiadczeniu usÅ‚ug drogÄ… elektronicznÄ….
 
-2.	Administratorem danych osobowych U¿ytkownika jest AXA Ubezpieczenia Towarzystwo Ubezpieczeñ i Reasekuracji Spó³ka Akcyjna, ul. Ch³odna 51, 00-867 Warszawa. Dane osobowe bêd¹ przetwarzane w celu podjêcia dzia³añ przed zawarciem Umowy ubezpieczenia, wykonania Umowy ubezpieczenia, oraz wype³nienia prawnie usprawiedliwionych celów administratora danych (w szczególnoœci przekazywanie informacji o oferowanych produktach i us³ugach). Podanie danych jest dobrowolne, osobie, której dane dotycz¹ przys³uguje prawo dostêpu do treœci swoich danych oraz ich poprawiania.
+2.	Administratorem danych osobowych UÅ¼ytkownika jest AXA Ubezpieczenia Towarzystwo UbezpieczeÅ„ i Reasekuracji SpÃ³Å‚ka Akcyjna, ul. ChÅ‚odna 51, 00-867 Warszawa. Dane osobowe bÄ™dÄ… przetwarzane w celu podjÄ™cia dziaÅ‚aÅ„ przed zawarciem Umowy ubezpieczenia, wykonania Umowy ubezpieczenia, oraz wypeÅ‚nienia prawnie usprawiedliwionych celÃ³w administratora danych (w szczegÃ³lnoÅ›ci przekazywanie informacji o oferowanych produktach i usÅ‚ugach). Podanie danych jest dobrowolne, osobie, ktÃ³rej dane dotyczÄ… przysÅ‚uguje prawo dostÄ™pu do treÅ›ci swoich danych oraz ich poprawiania.
 
-3.	Wszystkie dane, o podanie których Towarzystwo prosi w trakcie korzystania z Us³ug, s¹ niezbêdne do œwiadczenia us³ugi drog¹ elektroniczn¹, chyba ¿e w Serwisie wskazano odmiennie.
+3.	Wszystkie dane, o podanie ktÃ³rych Towarzystwo prosi w trakcie korzystania z UsÅ‚ug, sÄ… niezbÄ™dne do Å›wiadczenia usÅ‚ugi drogÄ… elektronicznÄ…, chyba Å¼e w Serwisie wskazano odmiennie.
 
-4.	AXA Ubezpieczenia mo¿e przetwarzaæ dane eksploatacyjne Us³ugobiorcy, to jest dane charakteryzuj¹ce sposób korzystania przez Us³ugobiorcê z Us³ugi:
+4.	AXA Ubezpieczenia moÅ¼e przetwarzaÄ‡ dane eksploatacyjne UsÅ‚ugobiorcy, to jest dane charakteryzujÄ…ce sposÃ³b korzystania przez UsÅ‚ugobiorcÄ™ z UsÅ‚ugi:
 
-a)	oznaczenia identyfikuj¹ce Us³ugobiorcê nadawane na podstawie wy¿ej wskazanych danych;
+a)	oznaczenia identyfikujÄ…ce UsÅ‚ugobiorcÄ™ nadawane na podstawie wyÅ¼ej wskazanych danych;
 
-b)	oznaczenia identyfikuj¹ce zakoñczenie sieci telekomunikacyjnej lub system teleinformatyczny, z którego korzysta Us³ugobiorca;
+b)	oznaczenia identyfikujÄ…ce zakoÅ„czenie sieci telekomunikacyjnej lub system teleinformatyczny, z ktÃ³rego korzysta UsÅ‚ugobiorca;
 
-c)	informacje o rozpoczêciu, zakoñczeniu oraz zakresie ka¿dorazowego korzystania z Us³ugi;
+c)	informacje o rozpoczÄ™ciu, zakoÅ„czeniu oraz zakresie kaÅ¼dorazowego korzystania z UsÅ‚ugi;
 
-d)	informacje o skorzystaniu przez Us³ugobiorcê z Us³ugi.
+d)	informacje o skorzystaniu przez UsÅ‚ugobiorcÄ™ z UsÅ‚ugi.
 
-Dodatkowe informacje dotycz¹ce przetwarzanych danych eksploatacyjnych, zawiera polityka prywatnoœci i cookies, dostêpna na stronie www. lu.pl.
+Dodatkowe informacje dotyczÄ…ce przetwarzanych danych eksploatacyjnych, zawiera polityka prywatnoÅ›ci i cookies, dostÄ™pna na stronie www. lu.pl.
 
-5.	Us³ugobiorca przyjmuje do wiadomoœci i akceptuje fakt, ¿e jego dane osobowe mog¹ zostaæ przekazane Dostawcy us³ug p³atniczych w zakresie niezbêdnym do realizacji jego us³ug. Dostawca us³ug p³atniczych jest niezale¿nym od AXA Ubezpieczenia administratorem danych osobowych i przetwarza dane na podstawie w³asnych polityk i regulaminów oraz na bazie w³asnych rozwi¹zañ z zakresu bezpieczeñstwa.
+5.	UsÅ‚ugobiorca przyjmuje do wiadomoÅ›ci i akceptuje fakt, Å¼e jego dane osobowe mogÄ… zostaÄ‡ przekazane Dostawcy usÅ‚ug pÅ‚atniczych w zakresie niezbÄ™dnym do realizacji jego usÅ‚ug. Dostawca usÅ‚ug pÅ‚atniczych jest niezaleÅ¼nym od AXA Ubezpieczenia administratorem danych osobowych i przetwarza dane na podstawie wÅ‚asnych polityk i regulaminÃ³w oraz na bazie wÅ‚asnych rozwiÄ…zaÅ„ z zakresu bezpieczeÅ„stwa.
 
-6.	W celu zabezpieczenia danych osobowych przetwarzanych przez AXA Ubezpieczenia przed utrat¹ dane osobowe w postaci elektronicznej s¹ przekazywane do centrum zapasowego znajduj¹cego siê na terytorium Stanów Zjednoczonych Ameryki Pó³nocnej prowadzonego przez Spó³kê Liberty Mutual Insurance Company z siedzib¹ pod adresem 175 Berkeley Street, Boston, Massachusetts, USA 02116. Przekazane dane osobowe bêd¹ poddawane na terytorium Stanów Zjednoczonych Ameryki Pó³nocnej wy³¹cznie czynnoœciom polegaj¹cym na tworzeniu i przechowywaniu kopii zapasowych i nie bêd¹ tam przetwarzane w jakichkolwiek innych celach. W celu zabezpieczenia adekwatnego poziomu ochrony
+6.	W celu zabezpieczenia danych osobowych przetwarzanych przez AXA Ubezpieczenia przed utratÄ… dane osobowe w postaci elektronicznej sÄ… przekazywane do centrum zapasowego znajdujÄ…cego siÄ™ na terytorium StanÃ³w Zjednoczonych Ameryki PÃ³Å‚nocnej prowadzonego przez SpÃ³Å‚kÄ™ Liberty Mutual Insurance Company z siedzibÄ… pod adresem 175 Berkeley Street, Boston, Massachusetts, USA 02116. Przekazane dane osobowe bÄ™dÄ… poddawane na terytorium StanÃ³w Zjednoczonych Ameryki PÃ³Å‚nocnej wyÅ‚Ä…cznie czynnoÅ›ciom polegajÄ…cym na tworzeniu i przechowywaniu kopii zapasowych i nie bÄ™dÄ… tam przetwarzane w jakichkolwiek innych celach. W celu zabezpieczenia adekwatnego poziomu ochrony
  
-danych osobowych AXA Ubezpieczenia TUiR S.A. zawar³a z ww. odbiorc¹ danych osobowych umowê dotycz¹c¹ przekazywania danych sporz¹dzon¹ z wykorzystaniem standardowych klauzul umownych stanowi¹cych za³¹cznik do decyzji Komisji Europejskiej 2010/87/UE z dnia 5 lutego 2010 r. w sprawie standardowych klauzul umownych dotycz¹cych przekazywania danych osobowych podmiotom przetwarzaj¹cym dane maj¹cym siedzibê w pañstwach trzecich, na mocy ww. dyrektywy 95/46/WE (Dz. Urz. UE L 39, z 12.02.2010).
+danych osobowych AXA Ubezpieczenia TUiR S.A. zawarÅ‚a z ww. odbiorcÄ… danych osobowych umowÄ™ dotyczÄ…cÄ… przekazywania danych sporzÄ…dzonÄ… z wykorzystaniem standardowych klauzul umownych stanowiÄ…cych zaÅ‚Ä…cznik do decyzji Komisji Europejskiej 2010/87/UE z dnia 5 lutego 2010 r. w sprawie standardowych klauzul umownych dotyczÄ…cych przekazywania danych osobowych podmiotom przetwarzajÄ…cym dane majÄ…cym siedzibÄ™ w paÅ„stwach trzecich, na mocy ww. dyrektywy 95/46/WE (Dz. Urz. UE L 39, z 12.02.2010).
 
-7.	Login i Has³o u¿ywane do logowania do Serwisu s¹ przypisane tylko jednemu Us³ugobiorcy. Us³ugobiorca ponosi pe³n¹ odpowiedzialnoœæ za korzystanie przez niego z Loginu i Has³a i za prawid³owe ich przechowywanie, w szczególnoœci nieudostêpnianie osobom trzecim. W przypadku utraty Has³a nie bêdzie mo¿liwe zalogowanie i dokonywanie czynnoœci wskazanych w Regulaminie do czasu jego zmiany.
+7.	Login i HasÅ‚o uÅ¼ywane do logowania do Serwisu sÄ… przypisane tylko jednemu UsÅ‚ugobiorcy. UsÅ‚ugobiorca ponosi peÅ‚nÄ… odpowiedzialnoÅ›Ä‡ za korzystanie przez niego z Loginu i HasÅ‚a i za prawidÅ‚owe ich przechowywanie, w szczegÃ³lnoÅ›ci nieudostÄ™pnianie osobom trzecim. W przypadku utraty HasÅ‚a nie bÄ™dzie moÅ¼liwe zalogowanie i dokonywanie czynnoÅ›ci wskazanych w Regulaminie do czasu jego zmiany.
 
-Us³ugobiorca winien zg³osiæ fakt utraty Has³a do Centrum Obs³ugi Klienta i niezw³ocznie dokonaæ zmiany Has³a. Us³ugobiorca mo¿e zamówiæ nowe Has³o za pomoc¹ opcji „Nie pamiêtam has³a" w Serwisie.
+UsÅ‚ugobiorca winien zgÅ‚osiÄ‡ fakt utraty HasÅ‚a do Centrum ObsÅ‚ugi Klienta i niezwÅ‚ocznie dokonaÄ‡ zmiany HasÅ‚a. UsÅ‚ugobiorca moÅ¼e zamÃ³wiÄ‡ nowe HasÅ‚o za pomocÄ… opcji â€Nie pamiÄ™tam hasÅ‚a" w Serwisie.
 
-8.	AXA Ubezpieczenia oœwiadcza, ¿e z uwagi na publiczny charakter sieci Internet, która u¿ywana jest m.in. do po³¹czenia z Serwisem i przesy³ania poczty elektronicznej, œwiadczenie Us³ug mo¿e wi¹zaæ siê z ryzykiem, które U¿ytkownik akceptuje, godz¹c siê na korzystanie z publicznych kana³ów teleinformatycznych. W zwi¹zku ze szczególnym charakterem zagro¿eñ elektronicznych, AXA Ubezpieczenia nie gwarantuj¹ pe³nego bezpieczeñstwa u¿ytkowania Serwisu. Dlatego te¿, w celu minimalizacji ryzyka i podniesienia poziomu bezpieczeñstwa, Towarzystwo zaleca, aby U¿ytkownik obj¹³ ochron¹ w³asne urz¹dzenie koñcowe, w szczególnoœci poprzez wprowadzenie mechanizmów kontroli dostêpu do tych urz¹dzeñ, ochronê danych s³u¿¹cych do uwierzytelniania dostêpu, instalacjê oprogramowania antywirusowego, posiadanie aktualnego systemu operacyjnego, a tak¿e pod³¹czanie urz¹dzeñ koñcowych wy³¹cznie do wiarygodnych sieci Wi-Fi.
+8.	AXA Ubezpieczenia oÅ›wiadcza, Å¼e z uwagi na publiczny charakter sieci Internet, ktÃ³ra uÅ¼ywana jest m.in. do poÅ‚Ä…czenia z Serwisem i przesyÅ‚ania poczty elektronicznej, Å›wiadczenie UsÅ‚ug moÅ¼e wiÄ…zaÄ‡ siÄ™ z ryzykiem, ktÃ³re UÅ¼ytkownik akceptuje, godzÄ…c siÄ™ na korzystanie z publicznych kanaÅ‚Ã³w teleinformatycznych. W zwiÄ…zku ze szczegÃ³lnym charakterem zagroÅ¼eÅ„ elektronicznych, AXA Ubezpieczenia nie gwarantujÄ… peÅ‚nego bezpieczeÅ„stwa uÅ¼ytkowania Serwisu. Dlatego teÅ¼, w celu minimalizacji ryzyka i podniesienia poziomu bezpieczeÅ„stwa, Towarzystwo zaleca, aby UÅ¼ytkownik objÄ…Å‚ ochronÄ… wÅ‚asne urzÄ…dzenie koÅ„cowe, w szczegÃ³lnoÅ›ci poprzez wprowadzenie mechanizmÃ³w kontroli dostÄ™pu do tych urzÄ…dzeÅ„, ochronÄ™ danych sÅ‚uÅ¼Ä…cych do uwierzytelniania dostÄ™pu, instalacjÄ™ oprogramowania antywirusowego, posiadanie aktualnego systemu operacyjnego, a takÅ¼e podÅ‚Ä…czanie urzÄ…dzeÅ„ koÅ„cowych wyÅ‚Ä…cznie do wiarygodnych sieci Wi-Fi.
 
-§	14
+Â§	14
 
-Odpowiedzialnoœæ
+OdpowiedzialnoÅ›Ä‡
 
 
-1.	W przypadku korzystania z Us³ug niezgodnie z niniejszym Regulaminem lub obowi¹zuj¹cymi przepisami prawa, AXA Ubezpieczenia ma prawo do przetwarzania danych osobowych Us³ugobiorcy w zakresie niezbêdnym do ustalenia jego odpowiedzialnoœci. AXA Ubezpieczenia powiadomi Us³ugobiorcê o niedozwolonych dzia³aniach z ¿¹daniem ich niezw³ocznego zaprzestania oraz o przetwarzaniu danych osobowych w powy¿ej okreœlonym celu.
+1.	W przypadku korzystania z UsÅ‚ug niezgodnie z niniejszym Regulaminem lub obowiÄ…zujÄ…cymi przepisami prawa, AXA Ubezpieczenia ma prawo do przetwarzania danych osobowych UsÅ‚ugobiorcy w zakresie niezbÄ™dnym do ustalenia jego odpowiedzialnoÅ›ci. AXA Ubezpieczenia powiadomi UsÅ‚ugobiorcÄ™ o niedozwolonych dziaÅ‚aniach z Å¼Ä…daniem ich niezwÅ‚ocznego zaprzestania oraz o przetwarzaniu danych osobowych w powyÅ¼ej okreÅ›lonym celu.
 
-2.	Zakazane jest dostarczanie przez Us³ugobiorcê treœci o charakterze bezprawnym. AXA Ubezpieczenia nie ponosi wobec Us³ugobiorcy odpowiedzialnoœci za szkodê powsta³¹ w wyniku uniemo¿liwienia dostêpu do danych o treœci bezprawnej.
+2.	Zakazane jest dostarczanie przez UsÅ‚ugobiorcÄ™ treÅ›ci o charakterze bezprawnym. AXA Ubezpieczenia nie ponosi wobec UsÅ‚ugobiorcy odpowiedzialnoÅ›ci za szkodÄ™ powstaÅ‚Ä… w wyniku uniemoÅ¼liwienia dostÄ™pu do danych o treÅ›ci bezprawnej.
 
-3.	Za wszelkie skutki wynik³e z niew³aœciwego wype³nienia formularzy Serwisu przez Us³ugobiorcê w szczególnoœci polegaj¹cego na podaniu przez Us³ugobiorcê b³êdnych lub nieprawdziwych danych, ca³kowit¹ odpowiedzialnoœæ ponosi Us³ugobiorca. AXA Ubezpieczenia nie ponosi równie¿ odpowiedzialnoœci wzglêdem osób trzecich, których dane zosta³y zamieszczone w formularzu aplikacji bez ich wiedzy i zgody.
+3.	Za wszelkie skutki wynikÅ‚e z niewÅ‚aÅ›ciwego wypeÅ‚nienia formularzy Serwisu przez UsÅ‚ugobiorcÄ™ w szczegÃ³lnoÅ›ci polegajÄ…cego na podaniu przez UsÅ‚ugobiorcÄ™ bÅ‚Ä™dnych lub nieprawdziwych danych, caÅ‚kowitÄ… odpowiedzialnoÅ›Ä‡ ponosi UsÅ‚ugobiorca. AXA Ubezpieczenia nie ponosi rÃ³wnieÅ¼ odpowiedzialnoÅ›ci wzglÄ™dem osÃ³b trzecich, ktÃ³rych dane zostaÅ‚y zamieszczone w formularzu aplikacji bez ich wiedzy i zgody.
  
-4.	AXA Ubezpieczenia ma prawo zablokowaæ dostêp do Serwisu, w razie stwierdzenia nieprawid³owoœci w korzystaniu z Serwisu, w szczególnoœci wyst¹pienia okolicznoœci, które mog³yby naraziæ na szkodê interesy Us³ugobiorcy lub AXA Ubezpieczenia. AXA Ubezpieczenia nie ponosi odpowiedzialnoœci z tytu³u zablokowania dostêpu do Serwisu, o którym mowa powy¿ej.
+4.	AXA Ubezpieczenia ma prawo zablokowaÄ‡ dostÄ™p do Serwisu, w razie stwierdzenia nieprawidÅ‚owoÅ›ci w korzystaniu z Serwisu, w szczegÃ³lnoÅ›ci wystÄ…pienia okolicznoÅ›ci, ktÃ³re mogÅ‚yby naraziÄ‡ na szkodÄ™ interesy UsÅ‚ugobiorcy lub AXA Ubezpieczenia. AXA Ubezpieczenia nie ponosi odpowiedzialnoÅ›ci z tytuÅ‚u zablokowania dostÄ™pu do Serwisu, o ktÃ³rym mowa powyÅ¼ej.
 
-5.	AXA Ubezpieczenia nie ponosi odpowiedzialnoœci z tytu³u czasowego zawieszenia dostêpu do Serwisu na okres konieczny do usuniêcia zaistnia³ych zagro¿eñ lub nieprawid³owoœci, powsta³ych z przyczyn niezale¿nych od AXA Ubezpieczenia, polegaj¹cych w szczególnoœci na niew³aœciwym dzia³aniu, wystêpuj¹cymi b³êdami, zak³óceniami, opóŸnieniami w przekazie.
+5.	AXA Ubezpieczenia nie ponosi odpowiedzialnoÅ›ci z tytuÅ‚u czasowego zawieszenia dostÄ™pu do Serwisu na okres konieczny do usuniÄ™cia zaistniaÅ‚ych zagroÅ¼eÅ„ lub nieprawidÅ‚owoÅ›ci, powstaÅ‚ych z przyczyn niezaleÅ¼nych od AXA Ubezpieczenia, polegajÄ…cych w szczegÃ³lnoÅ›ci na niewÅ‚aÅ›ciwym dziaÅ‚aniu, wystÄ™pujÄ…cymi bÅ‚Ä™dami, zakÅ‚Ã³ceniami, opÃ³Åºnieniami w przekazie.
 
-6.	AXA Ubezpieczenia nie ponosi ¿adnej odpowiedzialnoœci za korzystanie przez Us³ugobiorcê z Serwisu w sposób sprzeczny z postanowieniami niniejszego Regulaminu.
-
-
-7.	AXA Ubezpieczenia nie ponosi odpowiedzialnoœci za skutki korzystania przez U¿ytkownika z Serwisów w sposób sprzeczny z Regulaminem.
+6.	AXA Ubezpieczenia nie ponosi Å¼adnej odpowiedzialnoÅ›ci za korzystanie przez UsÅ‚ugobiorcÄ™ z Serwisu w sposÃ³b sprzeczny z postanowieniami niniejszego Regulaminu.
 
 
-8.	AXA Ubezpieczenia nie ponosi odpowiedzialnoœci za skutki wynik³e z podania przez Us³ugobiorcê nieprawdziwych, nieprawid³owych, niekompletnych informacji, jak równie¿ za skutki podania danych osób trzecich bez ich zgody lub wiedzy. Za skutki wynikaj¹ce z podania nieprawdziwych, nieprawid³owych, niekompletnych informacji lub podania danych osób trzecich bez ich zgody lub wiedzy wy³¹czn¹ odpowiedzialnoœæ ponosi Us³ugobiorca.
-
-§ 15
-
-Ochrona praw w³asnoœci intelektualnej
+7.	AXA Ubezpieczenia nie ponosi odpowiedzialnoÅ›ci za skutki korzystania przez UÅ¼ytkownika z SerwisÃ³w w sposÃ³b sprzeczny z Regulaminem.
 
 
-1.	W zwi¹zku z tym, i¿ Serwis zawiera treœci chronione prawem w³asnoœci intelektualnej, w szczególnoœci znaki towarowe oraz inne dobra niematerialne bêd¹ce przedmiotem ochrony prawa autorskiego, Us³ugobiorca zobowi¹zany jest do przestrzegania przepisów prawa w³asnoœci intelektualnej.
+8.	AXA Ubezpieczenia nie ponosi odpowiedzialnoÅ›ci za skutki wynikÅ‚e z podania przez UsÅ‚ugobiorcÄ™ nieprawdziwych, nieprawidÅ‚owych, niekompletnych informacji, jak rÃ³wnieÅ¼ za skutki podania danych osÃ³b trzecich bez ich zgody lub wiedzy. Za skutki wynikajÄ…ce z podania nieprawdziwych, nieprawidÅ‚owych, niekompletnych informacji lub podania danych osÃ³b trzecich bez ich zgody lub wiedzy wyÅ‚Ä…cznÄ… odpowiedzialnoÅ›Ä‡ ponosi UsÅ‚ugobiorca.
 
-2.	Korzystanie i rozporz¹dzanie treœciami chronionymi prawem w³asnoœci intelektualnej, jeœli nie jest ono zwi¹zane z dozwolonym dla Us³ugobiorcy u¿ytkiem osobistym, wymaga ka¿dorazowej zgody AXA Ubezpieczenia, wyra¿onej na piœmie.
+Â§ 15
 
-3.	AXA Ubezpieczenia zastrzega sobie prawo do zmiany zawartoœci Serwisu w dowolnym momencie.
-
-
-
-§ 16
-
-Postêpowanie reklamacyjne
+Ochrona praw wÅ‚asnoÅ›ci intelektualnej
 
 
-Postêpowanie reklamacyjne okreœla za³¹cznik do niniejszego regulaminu.
+1.	W zwiÄ…zku z tym, iÅ¼ Serwis zawiera treÅ›ci chronione prawem wÅ‚asnoÅ›ci intelektualnej, w szczegÃ³lnoÅ›ci znaki towarowe oraz inne dobra niematerialne bÄ™dÄ…ce przedmiotem ochrony prawa autorskiego, UsÅ‚ugobiorca zobowiÄ…zany jest do przestrzegania przepisÃ³w prawa wÅ‚asnoÅ›ci intelektualnej.
+
+2.	Korzystanie i rozporzÄ…dzanie treÅ›ciami chronionymi prawem wÅ‚asnoÅ›ci intelektualnej, jeÅ›li nie jest ono zwiÄ…zane z dozwolonym dla UsÅ‚ugobiorcy uÅ¼ytkiem osobistym, wymaga kaÅ¼dorazowej zgody AXA Ubezpieczenia, wyraÅ¼onej na piÅ›mie.
+
+3.	AXA Ubezpieczenia zastrzega sobie prawo do zmiany zawartoÅ›ci Serwisu w dowolnym momencie.
+
+
+
+Â§ 16
+
+PostÄ™powanie reklamacyjne
+
+
+PostÄ™powanie reklamacyjne okreÅ›la zaÅ‚Ä…cznik do niniejszego regulaminu.
  
-§ 17
+Â§ 17
 
-Postanowienia koñcowe
+Postanowienia koÅ„cowe
 
 
-1.	Niniejszy Regulamin mo¿e zostaæ zmieniony przez AXA Ubezpieczenia w ka¿dym czasie. Zmiany wchodz¹ w ¿ycie z up³ywem 14 dni od dnia umieszczenia zmienionego tekstu Regulaminu w Serwisie, jednak¿e w stosunku do Us³ugobiorcy, który zawar³ umowê o œwiadczenie Us³ug drog¹ elektroniczn¹ na podstawie poprzedniej wersji Regulaminu zmiany nie mog¹ naruszaæ praw przez niego nabytych oraz wchodz¹ w ¿ycie, je¿eli przy najbli¿szym korzystaniu z Serwisu www.lu.pl poinformuje Us³ugobiorcê o zmianie Regulaminu, a Us³ugobiorca nie zrezygnuje z korzystania Us³ug Serwisu.
+1.	Niniejszy Regulamin moÅ¼e zostaÄ‡ zmieniony przez AXA Ubezpieczenia w kaÅ¼dym czasie. Zmiany wchodzÄ… w Å¼ycie z upÅ‚ywem 14 dni od dnia umieszczenia zmienionego tekstu Regulaminu w Serwisie, jednakÅ¼e w stosunku do UsÅ‚ugobiorcy, ktÃ³ry zawarÅ‚ umowÄ™ o Å›wiadczenie UsÅ‚ug drogÄ… elektronicznÄ… na podstawie poprzedniej wersji Regulaminu zmiany nie mogÄ… naruszaÄ‡ praw przez niego nabytych oraz wchodzÄ… w Å¼ycie, jeÅ¼eli przy najbliÅ¼szym korzystaniu z Serwisu www.lu.pl poinformuje UsÅ‚ugobiorcÄ™ o zmianie Regulaminu, a UsÅ‚ugobiorca nie zrezygnuje z korzystania UsÅ‚ug Serwisu.
 
-2.	Regulamin zosta³ zatwierdzony uchwa³¹ Zarz¹du AXA Ubezpieczenia Towarzystwo Ubezpieczeñ i Reasekuracji S.A. nr 2016/9/4/1 z dnia 28 wrzeœnia 2016 roku i obowi¹zuje od dnia 1 paŸdziernika
+2.	Regulamin zostaÅ‚ zatwierdzony uchwaÅ‚Ä… ZarzÄ…du AXA Ubezpieczenia Towarzystwo UbezpieczeÅ„ i Reasekuracji S.A. nr 2016/9/4/1 z dnia 28 wrzeÅ›nia 2016 roku i obowiÄ…zuje od dnia 1 paÅºdziernika
 
 2016.
  
-ZA£¥CZNIK DO REGULAMINU ŒWIADCZENIA US£UG DROG¥ ELEKTRONICZN¥
+ZAÅÄ„CZNIK DO REGULAMINU ÅšWIADCZENIA USÅUG DROGÄ„ ELEKTRONICZNÄ„
 
 
-Rozpatrywanie reklamacji dotycz¹cych us³ug ubezpieczeniowych œwiadczonych przez AXA Ubezpieczenia
+Rozpatrywanie reklamacji dotyczÄ…cych usÅ‚ug ubezpieczeniowych Å›wiadczonych przez AXA Ubezpieczenia
 
 
-1.	Reklamacja zawieraj¹ca zastrze¿enia dotycz¹ce us³ug œwiadczonych przez AXA Ubezpieczenia mo¿e zostaæ z³o¿ona przez Ubezpieczaj¹cego, Ubezpieczonego, Osobê uprawnion¹ lub inn¹ osobê uprawnion¹ z Umowy ubezpieczenia dalej powo³ywan¹ jako „Klient":
+1.	Reklamacja zawierajÄ…ca zastrzeÅ¼enia dotyczÄ…ce usÅ‚ug Å›wiadczonych przez AXA Ubezpieczenia moÅ¼e zostaÄ‡ zÅ‚oÅ¼ona przez UbezpieczajÄ…cego, Ubezpieczonego, OsobÄ™ uprawnionÄ… lub innÄ… osobÄ™ uprawnionÄ… z Umowy ubezpieczenia dalej powoÅ‚ywanÄ… jako â€Klient":
 
 a)	w formie elektronicznej na adres e-mail:
 
--	w zakresie likwidacji szkód: szkody.reklamacje@lu.pl
+-	w zakresie likwidacji szkÃ³d: szkody.reklamacje@lu.pl
 
--	w pozosta³ym zakresie: reklamacje@lu.pl
+-	w pozostaÅ‚ym zakresie: reklamacje@lu.pl
 
-b)	w formie pisemnej - osobiœcie u agenta wykonuj¹cego czynnoœci poœrednictwa ubezpieczeniowego w imieniu i na rzecz AXA Ubezpieczenia lub przesy³k¹ pocztow¹ w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2016 poz. 1113 z póŸn. zm. ), na adres AXA
+b)	w formie pisemnej - osobiÅ›cie u agenta wykonujÄ…cego czynnoÅ›ci poÅ›rednictwa ubezpieczeniowego w imieniu i na rzecz AXA Ubezpieczenia lub przesyÅ‚kÄ… pocztowÄ… w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2016 poz. 1113 z pÃ³Åºn. zm. ), na adres AXA
 
-Ubezpieczenia TUiR S.A., ul. Ch³odna 51, 00-867 Warszawa;
+Ubezpieczenia TUiR S.A., ul. ChÅ‚odna 51, 00-867 Warszawa;
 
-c)	ustnie - telefonicznie podczas po³¹czenia z pracownikiem Centrum Obs³ugi Klienta pod numerem telefonu 22 589 95 21 lub innym wskazanym w tym celu na stronie internetowej www.lu.pl lub osobiœcie do protoko³u podczas wizyty w biurze agenta wykonuj¹cego czynnoœci poœrednictwa ubezpieczeniowego w imieniu i na rzecz AXA Ubezpieczenia.
+c)	ustnie - telefonicznie podczas poÅ‚Ä…czenia z pracownikiem Centrum ObsÅ‚ugi Klienta pod numerem telefonu 22 589 95 21 lub innym wskazanym w tym celu na stronie internetowej www.lu.pl lub osobiÅ›cie do protokoÅ‚u podczas wizyty w biurze agenta wykonujÄ…cego czynnoÅ›ci poÅ›rednictwa ubezpieczeniowego w imieniu i na rzecz AXA Ubezpieczenia.
 
-2.	W przypadku przes³ania reklamacji przesy³k¹ pocztow¹ reklamacjê uwa¿a siê za z³o¿on¹ AXA Ubezpieczenia z dniem dorêczenia przesy³ki zawieraj¹cej reklamacjê do siedziby AXA Ubezpieczenia. W razie za³¹czenia do reklamacji dodatkowego dokumentu lub oœwiadczenia powoduj¹cego skutki prawne z dniem dorêczenia dokumentu lub z dniem nadania go w okreœlony sposób na podstawie przepisów prawa lub OWU, termin z³o¿enia dokumentu lub oœwiadczenia ustalany jest zgodnie z zasadami przewidzianymi odnoœnie takiego dokumentu, nie powoduje to jednak zmiany daty z³o¿enia reklamacji.
+2.	W przypadku przesÅ‚ania reklamacji przesyÅ‚kÄ… pocztowÄ… reklamacjÄ™ uwaÅ¼a siÄ™ za zÅ‚oÅ¼onÄ… AXA Ubezpieczenia z dniem dorÄ™czenia przesyÅ‚ki zawierajÄ…cej reklamacjÄ™ do siedziby AXA Ubezpieczenia. W razie zaÅ‚Ä…czenia do reklamacji dodatkowego dokumentu lub oÅ›wiadczenia powodujÄ…cego skutki prawne z dniem dorÄ™czenia dokumentu lub z dniem nadania go w okreÅ›lony sposÃ³b na podstawie przepisÃ³w prawa lub OWU, termin zÅ‚oÅ¼enia dokumentu lub oÅ›wiadczenia ustalany jest zgodnie z zasadami przewidzianymi odnoÅ›nie takiego dokumentu, nie powoduje to jednak zmiany daty zÅ‚oÅ¼enia reklamacji.
 
-3.	W przypadku przes³ania reklamacji przesy³k¹ pocztow¹, AXA Ubezpieczenia rekomenduje skorzystanie z us³ugi przesy³ki rejestrowanej i zachowanie potwierdzenia nadania przesy³ki.
+3.	W przypadku przesÅ‚ania reklamacji przesyÅ‚kÄ… pocztowÄ…, AXA Ubezpieczenia rekomenduje skorzystanie z usÅ‚ugi przesyÅ‚ki rejestrowanej i zachowanie potwierdzenia nadania przesyÅ‚ki.
 
-4.	Rezygnacja Klienta z zastosowania œrodków, o których mowa w ust. 3 nie wp³ywa na sposób i termin rozpatrzenia reklamacji, ani te¿ na termin udzielenia odpowiedzi, ma jedynie znaczenie dowodowe.
+4.	Rezygnacja Klienta z zastosowania Å›rodkÃ³w, o ktÃ³rych mowa w ust. 3 nie wpÅ‚ywa na sposÃ³b i termin rozpatrzenia reklamacji, ani teÅ¼ na termin udzielenia odpowiedzi, ma jedynie znaczenie dowodowe.
 
-5.	Reklamacja powinna zawieraæ:
+5.	Reklamacja powinna zawieraÄ‡:
 
-a)	dane Klienta pozwalaj¹ce na jego jednoznaczn¹ identyfikacjê,
+a)	dane Klienta pozwalajÄ…ce na jego jednoznacznÄ… identyfikacjÄ™,
 
-b)	wskazanie umowy ubezpieczenia lub numeru szkody, której dotyczy reklamacja,
+b)	wskazanie umowy ubezpieczenia lub numeru szkody, ktÃ³rej dotyczy reklamacja,
 
-c)	treœæ reklamacji, tj. zastrze¿enia co do us³ug œwiadczonych przez AXA Ubezpieczenia,
+c)	treÅ›Ä‡ reklamacji, tj. zastrzeÅ¼enia co do usÅ‚ug Å›wiadczonych przez AXA Ubezpieczenia,
 
-d)	zalecane jest tak¿e podanie opisu okolicznoœci uzasadniaj¹cych reklamacjê wraz z ewentualnymi za³¹cznikami w postaci czytelnych kopii lub skanów dokumentów.
+d)	zalecane jest takÅ¼e podanie opisu okolicznoÅ›ci uzasadniajÄ…cych reklamacjÄ™ wraz z ewentualnymi zaÅ‚Ä…cznikami w postaci czytelnych kopii lub skanÃ³w dokumentÃ³w.
 
-6.	OdpowiedŸ na reklamacjê udzielana jest w postaci papierowej lub za pomoc¹ innego trwa³ego noœnika informacji w rozumieniu przepisów ustawy z dnia 19.08.2011 o us³ugach p³atniczych (Dz. U. z 2014, poz. 873 ze zm. z póŸn. zm. ), na adres korespondencyjny Klienta podany do wiadomoœci AXA
+6.	OdpowiedÅº na reklamacjÄ™ udzielana jest w postaci papierowej lub za pomocÄ… innego trwaÅ‚ego noÅ›nika informacji w rozumieniu przepisÃ³w ustawy z dnia 19.08.2011 o usÅ‚ugach pÅ‚atniczych (Dz. U. z 2014, poz. 873 ze zm. z pÃ³Åºn. zm. ), na adres korespondencyjny Klienta podany do wiadomoÅ›ci AXA
  
-Ubezpieczenia lub - na wniosek Klienta - w formie elektronicznej na adres poczty elektronicznej Klienta podany do wiadomoœci AXA Ubezpieczenia.
+Ubezpieczenia lub - na wniosek Klienta - w formie elektronicznej na adres poczty elektronicznej Klienta podany do wiadomoÅ›ci AXA Ubezpieczenia.
 
-7.	OdpowiedŸ w postaci papierowej przesy³ana jest jako rejestrowana przesy³ka pocztowa.
+7.	OdpowiedÅº w postaci papierowej przesyÅ‚ana jest jako rejestrowana przesyÅ‚ka pocztowa.
 
 
-8.	AXA Ubezpieczenia udziela odpowiedzi na reklamacjê niezw³ocznie po rozpatrzeniu reklamacji, jednak w terminie nie d³u¿szym ni¿ 30 dni od dnia otrzymania reklamacji. Do zachowania terminu wystarczy wys³anie odpowiedzi przed jego up³ywem.
+8.	AXA Ubezpieczenia udziela odpowiedzi na reklamacjÄ™ niezwÅ‚ocznie po rozpatrzeniu reklamacji, jednak w terminie nie dÅ‚uÅ¼szym niÅ¼ 30 dni od dnia otrzymania reklamacji. Do zachowania terminu wystarczy wysÅ‚anie odpowiedzi przed jego upÅ‚ywem.
 
-9.	W szczególnie skomplikowanych przypadkach uniemo¿liwiaj¹cych udzielenie odpowiedzi w terminie okreœlonym w ust. 8., AXA Ubezpieczenia informuje Klienta (w formie w³aœciwej dla odpowiedzi na reklamacjê) o:
+9.	W szczegÃ³lnie skomplikowanych przypadkach uniemoÅ¼liwiajÄ…cych udzielenie odpowiedzi w terminie okreÅ›lonym w ust. 8., AXA Ubezpieczenia informuje Klienta (w formie wÅ‚aÅ›ciwej dla odpowiedzi na reklamacjÄ™) o:
 
-a)	przyczynie opóŸnienia,
+a)	przyczynie opÃ³Åºnienia,
 
-b)	okolicznoœciach, które AXA Ubezpieczenia musi ustaliæ w celu rozpatrzenia reklamacji,
+b)	okolicznoÅ›ciach, ktÃ³re AXA Ubezpieczenia musi ustaliÄ‡ w celu rozpatrzenia reklamacji,
 
-c)	przewidywanym terminie przes³ania odpowiedzi, który jednak nie mo¿e przekroczyæ 60 dni od dnia otrzymania reklamacji.
+c)	przewidywanym terminie przesÅ‚ania odpowiedzi, ktÃ³ry jednak nie moÅ¼e przekroczyÄ‡ 60 dni od dnia otrzymania reklamacji.
 
-10.	W relacjach z Klientem, który jest osob¹ fizyczn¹ maj¹ zastosowanie nastêpuj¹ce zasady:
+10.	W relacjach z Klientem, ktÃ³ry jest osobÄ… fizycznÄ… majÄ… zastosowanie nastÄ™pujÄ…ce zasady:
 
-a)	przypadku niedotrzymania terminu wskazanego w ust. 8 lub 9 pkt c) reklamacjê uwa¿a siê za rozpatrzon¹ zgodnie z wol¹ Klienta;
+a)	przypadku niedotrzymania terminu wskazanego w ust. 8 lub 9 pkt c) reklamacjÄ™ uwaÅ¼a siÄ™ za rozpatrzonÄ… zgodnie z wolÄ… Klienta;
 
-b)	je¿eli Klient nie zgadza siê z odpowiedzi¹ na reklamacjê mo¿e wnieœæ do Rzecznika Finansowego wniosek o rozpatrzenie sprawy w ramach pozas¹dowego postêpowania w sprawie rozwiazywania sporów zgodnie z przepisami ustawy z 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2015 r., poz. 1348).
+b)	jeÅ¼eli Klient nie zgadza siÄ™ z odpowiedziÄ… na reklamacjÄ™ moÅ¼e wnieÅ›Ä‡ do Rzecznika Finansowego wniosek o rozpatrzenie sprawy w ramach pozasÄ…dowego postÄ™powania w sprawie rozwiazywania sporÃ³w zgodnie z przepisami ustawy z 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2015 r., poz. 1348).
