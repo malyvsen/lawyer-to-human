@@ -22,6 +22,19 @@ class LemmaCount:
         return result
 
 
+    def cosine(self, other):
+        return self.dot(other) / self.norm() / other.norm()
+
+
+    def norm(self):
+        return self.dot(self) ** .5
+
+
+    def normalized(self):
+        norm = self.norm()
+        return LemmaCount({lemma: self.count[lemma] / norm for lemma in self.count})
+
+
     def __add__(self, other):
         count = {lemma: 0 for lemma in list(self.count) + list(other.count)}
         for lemma in self.count:
