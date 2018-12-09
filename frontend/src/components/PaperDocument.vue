@@ -55,8 +55,6 @@ export default {
         isSelection: false
       });
 
-      console.log(this.positions);
-      console.log(parts);
       return parts;
     }
   }

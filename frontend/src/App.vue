@@ -5,7 +5,7 @@
       <v-btn color="info" fab large dark
         v-if="currentDocument.tts !== null"
         v-bind:id="currentDocument.tts"
-	v-on:click="playTTS">
+        v-on:click="playTTS">
         <v-icon>hearing</v-icon>
       </v-btn>
        <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
@@ -70,7 +70,6 @@ export default {
         if (newFile.xhr) {
           if (newFile.xhr.status === 200) {
             this.uploadStatus = true
-            console.log(newFile.response.metadata)
             this.currentDocument.text = newFile.response.text || '';
             this.currentDocument.tts = newFile.response.tts || '';
             this.currentDocument.metadata = newFile.response.metadata || [];
