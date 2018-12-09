@@ -2,13 +2,18 @@
   <nav class="sentence-nav">
     <v-layout justify-space-between row>
       <v-flex sm1 class="text-xs-center">
-        <v-btn flat icon>
+        <v-btn flat icon @click="$emit('previousSentence')">
           <v-icon>arrow_back</v-icon>
         </v-btn>
       </v-flex>
 
       <v-flex class="text-xs-center">
         <v-item-group>
+          <span style="margin-right: 1rem">
+            <strong>{{ sentenceIndex }}</strong> / {{ '30' - 1 }}
+          </span>
+          <v-divider vertical></v-divider>
+
           <v-btn flat icon>
             <v-icon>volume_up</v-icon>
           </v-btn>
@@ -26,7 +31,7 @@
       </v-flex>
 
       <v-flex sm1 class="text-xs-center">
-        <v-btn flat icon>
+        <v-btn flat icon @click="$emit('nextSentence')">
           <v-icon>arrow_forward</v-icon>
         </v-btn>
       </v-flex>
@@ -36,6 +41,7 @@
 
 <script>
 export default {
+  props: ['sentenceIndex'],
   // data: () => ({
   //   quote: "Lorem ipsum"
   // }),
@@ -43,9 +49,6 @@ export default {
   components: {},
   computed: {},
   methods: {
-    changeFont(delta) {
-      this.$emit('myEvent')
-    }
   }
 };
 </script>

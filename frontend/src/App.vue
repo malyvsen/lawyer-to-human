@@ -1,6 +1,10 @@
 <template>
   <v-app>
-    <SentenceNav @decreaseFontSize="changeFontSize(-25)" @increaseFontSize="changeFontSize(25)"></SentenceNav>
+    <SentenceNav
+      :sentenceIndex="sentenceIndex"
+      @decreaseFontSize="changeFontSize(-25)" @increaseFontSize="changeFontSize(25)"
+      @previousSentence="switchSentence(-1)" @nextSentence="switchSentence(1)">
+    </SentenceNav>
 
     <v-content :style="fontSizeStyle">
       <paper-document
@@ -81,7 +85,8 @@ export default {
         tts: null,
         metadata: [],
         selections: []
-      }
+      },
+      sentenceIndex: 0
     };
   },
   methods: {
@@ -98,6 +103,12 @@ export default {
             this.uploadStatus = false;
           }
         }
+      }
+    },
+    switchSentence: function(step) {
+      const newIndex = this.sentenceIndex + step;
+      if (newIndex >= 0 && newIndex < 30) { // TODO: prawdziwa długość dokumentu
+        this.sentenceIndex = newIndex;
       }
     },
     changeFontSize: function(delta) {
