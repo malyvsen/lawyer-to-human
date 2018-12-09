@@ -1,11 +1,11 @@
 {
 	"statut" : "regulamin, kodeks",
-	"dyskryminacja" : "nêkanie",
+	"dyskryminacja" : "nÄ™kanie",
 	"pochodzenie etniczne" : "rasa",
-	"werbalny" : "s³owny, ustny",
-	"pozawerbalny" : "przekazywany czymœ innym ni¿ s³owami",
-	"mobbing" : "nêkanie, przemoc psychiczna",
-	"wyelminowanie" : "pozbycie siê",
-	"izolowaæ" : "unikaæ, trzymaæ w odosobnieniu",
-	"zadoœæuczynienie" : "odszkodowanie"
+	"werbalny" : "sÅ‚owny, ustny",
+	"pozawerbalny" : "przekazywany czymÅ› innym niÅ¼ sÅ‚owami",
+	"mobbing" : "nÄ™kanie, przemoc psychiczna",
+	"wyelminowanie" : "pozbycie siÄ™",
+	"izolowaÄ‡" : "unikaÄ‡, trzymaÄ‡ w odosobnieniu",
+	"zadoÅ›Ä‡uczynienie" : "odszkodowanie"
 }
