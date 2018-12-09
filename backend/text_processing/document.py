@@ -26,11 +26,12 @@ class Document:
 
 
     def underlined_sentences(self, num_underlines=None):
+        longer_sentences = [sentence for sentence in self.sentences if len(sentence.words) > 5]
         if num_underlines is None:
-            num_underlines = int(len(self.sentences) ** .5)
+            num_underlines = int(len(longer_sentences) ** .5)
 
         score = lambda sentence: self.lemma_count.cosine(sentence.lemma_count)
-        sorted_sentences = sorted(self.sentences, key=score, reverse=True)
+        sorted_sentences = sorted(longer_sentences, key=score, reverse=True)
 
         order = lambda sentence: self.sentences.index(sentence)
         result = sorted(sorted_sentences[:num_underlines], key=order)
