@@ -14,7 +14,7 @@
           <v-item-group>
             <v-tooltip bottom>
               <span slot="activator" style="margin-right: 1rem">
-                <strong>{{ sentenceIndex }}</strong> / {{ '30' - 1 }}
+                <strong>{{ sentenceIndex + 1 }}</strong> / {{ sentenceMaxIndex }}
               </span>
               <span>
                Twoja pozycja w dokumencie - obecne zdanie / liczba zdań.
