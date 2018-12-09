@@ -5,13 +5,9 @@
         <v-icon>book</v-icon>Definitions
       </strong>
       <dl>
-        <div>
-          <dt>Coffee</dt>
-          <dd>Black hot drink</dd>
-        </div>
-        <div>
-          <dt>Milk</dt>
-          <dd>White cold drink</dd>
+        <div v-for="(definition, index) in definitionList" :key="index">
+          <dt>{{ definition.word }}</dt>
+          <dd>{{ definition.definition }}</dd>
         </div>
       </dl>
     </v-layout>
@@ -20,6 +16,7 @@
 
 <script>
 export default {
+  props: ['definitionList'],
   components: {},
   computed: {}
 };
