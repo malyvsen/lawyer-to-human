@@ -2,12 +2,13 @@
   <article class="paper-document elevation-3">
     <p>
       <span
+        class="sentence"
         v-for="(sentence, index) in document.sentences"
         :key="index"
         v-bind:class="{'important': sentence.important, 'current-sentence': index === sentenceIndex}"
       >
         {{ sentence.text }}
-        <SideTooltip></SideTooltip>
+        <!-- <SideTooltip></SideTooltip> -->
       </span>
     </p>
   </article>
@@ -17,6 +18,16 @@
 import SideTooltip from "./SideTooltip.vue";
 export default {
   props: ["content", "positions", "document", "sentenceIndex"],
+  watch: {
+    sentenceIndex: function(newIndex, oldIndex) {
+      console.log('WATCH sentenceIndex:', newIndex, oldIndex);
+      const sentenceEl = this.$el.querySelector(`.sentence:nth-child(${newIndex+1})`);
+      const scroll = sentenceEl.offsetTop - sentenceEl.scrollTop;
+      // const scroll = sentenceEl.getBoundingClientRect().top;
+      console.log(scroll);
+      window.scrollTo(0, scroll);
+    }
+  },
   components: {
     SideTooltip
   },
@@ -35,15 +46,12 @@ export default {
     //     })
     //     prevIndex = position[1];
     //   }
-
     //   parts.push({
     //     text: this.content.slice(prevIndex),
     //     isSelection: false
     //   });
-
     //   return parts;
     // },
-
     // splitedContent: function() {
     //   const sentences = this.document.sentences;
     // }
