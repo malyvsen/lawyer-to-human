@@ -17,7 +17,7 @@
         :sentenceIndex="sentenceIndex"
         :document="currentDocument"
       ></paper-document>
-      <v-btn
+      <!-- <v-btn
         color="info"
         fab
         large
@@ -27,14 +27,14 @@
         v-on:click="playTTS"
       >
         <v-icon>hearing</v-icon>
-      </v-btn>
+      </v-btn> -->
       <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
         <h3>Drop files to upload</h3>
       </div>
 
       <SelectionDetails :definitionList="currentDefinitions" v-bind:class="{hidden: !uploadStatus || currentDefinitions.length === 0}"></SelectionDetails>
 
-      <div class="upload-btn text-xs-center">
+      <div class="upload-btn text-xs-center" v-if="!uploadStatus">
         <file-upload
           class="btn btn-primary v-btn white--text info v-btn--floating v-btn--outline"
           post-action="//localhost:10080/"
@@ -107,6 +107,14 @@ export default {
             this.currentDocument.metadata = newFile.response.metadata || [];
             this.currentDocument.selections = newFile.response.selections || [];
             this.currentDocument.sentences = newFile.response.sentences || [];
+            
+            this.currentDocument.sentences.map(sentence => {
+              console.log('sentence', sentence);
+              const snetenceText = sentence.text.replace('\n', '<br>');
+              console.log(snetenceText);
+              sentence.text = snetenceText;
+              return sentence;
+            });
             console.log("CURR DOC", this.currentDocument);
           } else {
             this.uploadStatus = false;
