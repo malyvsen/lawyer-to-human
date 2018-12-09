@@ -1,9 +1,5 @@
 <template>
   <article class="paper-document">
-    {{ content }}
-    <hr>
-    {{ splitedContent }}
-    <hr>
     <p>
       <span v-for="part in splitedContent" :key="part.text" v-bind:class="{'underlined': part.isSelection}">{{ part.text }}<SideTooltip></SideTooltip>
       </span>

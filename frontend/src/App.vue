@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-content>
-      <paper-document v-if="currentDocument.text !== null" :content="documentText" :positions="processingDataPositions"></paper-document>
+      <paper-document v-if="currentDocument.text !== null" :content="currentDocument.text" :positions="processingDataPositions"></paper-document>
        <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
          <h3>Drop files to upload</h3>
        </div>
