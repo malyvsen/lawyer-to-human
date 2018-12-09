@@ -29,8 +29,11 @@ def gen_tts(txt):
     directory = app.config['TTS_FOLDER']
     if not os.path.exists(directory):
         os.makedirs(directory)
-    tts.save(os.path.join(directory, filename))
-    return filename
+    try:
+        tts.save(os.path.join(directory, filename))
+        return filename, True
+    except:
+        return '', False
 
 
 @app.route('/audio/<path:path>')
@@ -72,6 +75,8 @@ def index():
 
         analysis = text_processing.analysis(text.decode('utf-8'))
 
-        analysis['tts'] = gen_tts(analysis['text'])
+        analysis['tts'], tts_stat = gen_tts(analysis['text'])
+
+        # TODO maybe handle tts_stat = False
 
         return jsonify(analysis)
