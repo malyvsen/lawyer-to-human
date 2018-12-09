@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<v-btn flat icon
-			v-show="txt !== null && !locked"
+			v-show="!locked"
 			v-on:click="getTTS"
 			>
 	<v-icon>volume_up</v-icon>
@@ -10,7 +10,7 @@
 			:size="50"
 			color="primary"
 			indeterminate
-			v-show="txt !== null && locked"
+			v-show="locked"
 			>
 		</v-progress-circular>
 	</div>
