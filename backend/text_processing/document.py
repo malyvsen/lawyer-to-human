@@ -4,11 +4,11 @@ from functools import reduce
 
 
 class Document:
-    def __init__(self, sentences):
+    def __init__(self, sentences, generate_summary=True):
         self.sentences = sentences
         self.lemma_count = self.lemma_count()
         self.underlined_sentences = self.underlined_sentences()
-        self.summary = self.summary()
+        self.summary = self.summary() if generate_summary else None
         self.text = self.text()
 
 
@@ -36,7 +36,7 @@ class Document:
 
     def underlined_sentences(self, num_underlines=None):
         if num_underlines is None:
-            num_underlines = len(self.sentences) // 4
+            num_underlines = int(len(self.sentences) ** .5)
 
         score = lambda sentence: self.lemma_count.cosine(sentence.lemma_count)
         sorted_sentences = sorted(self.sentences, key=score, reverse=True)
@@ -49,7 +49,7 @@ class Document:
     def summary(self):
         if len(self.underlined_sentences) == 0:
             return None
-        return Document(self.underlined_sentences)
+        return Document(self.underlined_sentences, generate_summary=False)
 
 
     def text(self):
