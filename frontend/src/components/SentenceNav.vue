@@ -10,7 +10,7 @@
       <v-flex class="text-xs-center">
         <v-item-group>
           <span style="margin-right: 1rem">
-            <strong>{{ sentenceIndex }}</strong> / {{ '30' - 1 }}
+            <strong>{{ sentenceIndex }}</strong> / {{ sentenceMaxIndex - 1 }}
           </span>
           <v-divider vertical></v-divider>
 
@@ -41,11 +41,7 @@
 
 <script>
 export default {
-  props: ['sentenceIndex'],
-  // data: () => ({
-  //   quote: "Lorem ipsum"
-  // }),
-  //   props: ['quote'],
+  props: ['sentenceIndex', 'sentenceMaxIndex'],
   components: {},
   computed: {},
   methods: {

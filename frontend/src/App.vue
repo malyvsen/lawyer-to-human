@@ -2,15 +2,20 @@
   <v-app>
     <SentenceNav
       :sentenceIndex="sentenceIndex"
+      :sentenceMaxIndex="sentenceMaxIndex"
       @decreaseFontSize="changeFontSize(-25)" @increaseFontSize="changeFontSize(25)"
-      @previousSentence="switchSentence(-1)" @nextSentence="switchSentence(1)">
+      @previousSentence="switchSentence(-1)" @nextSentence="switchSentence(1)"
+      v-bind:class="{hidden: !uploadStatus}">
     </SentenceNav>
 
-    <v-content :style="fontSizeStyle">
+    <v-content :style="fontSizeStyle" @keyup.left="switchSentence(-1)" @keyup.right="switchSentence(+1)">
       <paper-document
         v-if="currentDocument.text !== null"
         :content="currentDocument.text"
         :positions="processingDataPositions"
+
+        :sentenceIndex="sentenceIndex"
+        :document="currentDocument"
       ></paper-document>
       <v-btn
         color="info"
@@ -27,7 +32,7 @@
         <h3>Drop files to upload</h3>
       </div>
 
-      <SelectionDetails></SelectionDetails>
+      <SelectionDetails :definitionList="currentDefinitions" v-bind:class="{hidden: !uploadStatus || currentDefinitions.length === 0}"></SelectionDetails>
 
       <div class="upload-btn text-xs-center">
         <file-upload
@@ -84,9 +89,11 @@ export default {
         text: null,
         tts: null,
         metadata: [],
-        selections: []
+        selections: [],
+        sentences: [],
+        definitions: []
       },
-      sentenceIndex: 0
+      sentenceIndex: 0,
     };
   },
   methods: {
@@ -99,6 +106,8 @@ export default {
             this.currentDocument.tts = newFile.response.tts || "";
             this.currentDocument.metadata = newFile.response.metadata || [];
             this.currentDocument.selections = newFile.response.selections || [];
+            this.currentDocument.sentences = newFile.response.sentences || [];
+            console.log("CURR DOC", this.currentDocument);
           } else {
             this.uploadStatus = false;
           }
@@ -107,7 +116,7 @@ export default {
     },
     switchSentence: function(step) {
       const newIndex = this.sentenceIndex + step;
-      if (newIndex >= 0 && newIndex < 30) { // TODO: prawdziwa długość dokumentu
+      if (newIndex >= 0 && newIndex < this.sentenceMaxIndex) {
         this.sentenceIndex = newIndex;
       }
     },
@@ -123,15 +132,38 @@ export default {
       audio.play();
     }
   },
+  mounted () {
+    window.addEventListener('keydown', (e) => {
+      if (this.uploadStatus === false) {
+        return false;
+      }
+      
+      if (e.code === 'ArrowLeft') {
+        this.switchSentence(-1);
+      } else if (e.code === 'ArrowRight') {
+        this.switchSentence(1);
+      }
+    });
+  },
   computed: {
     processingDataPositions: function() {
-      console.log("currentDocument", this.currentDocument);
       const selections = Array.from(this.currentDocument.selections);
       const sortedSelections = selections.sort((a, b) => a[0] > b[0]);
       return sortedSelections.map(selection => selection.position);
     },
     fontSizeStyle: function() {
       return { fontSize: this.fontSize + "%" };
+    },
+    sentenceMaxIndex: function() {
+      return this.currentDocument.sentences.length;
+    },
+    currentDefinitions: function() {
+      const sentence = this.currentDocument.sentences[this.sentenceIndex];
+      if (sentence === undefined) {
+        return [];
+      }
+
+      return sentence.definitions;
     }
   }
 };
@@ -145,5 +177,23 @@ body {
 
 .theme--light.v-divider {
   height: 1em;
+}
+
+.sentence-nav.hidden {
+  transform: translateY(-100%);
+}
+
+.sentence-nav {
+  transform: translateY(0);
+  transition: all 0.3s ease;
+}
+
+.selection-details.hidden {
+  transform: translateY(100%);
+}
+
+.selection-details {
+  transform: translateY(0);
+  transition: all 0.3s ease;
 }
 </style>
