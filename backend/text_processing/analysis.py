@@ -1,6 +1,7 @@
 import re
 from text_processing.document import Document
 from text_processing.difficult import definitions
+from text_processing.red_flags import red_flags
 
 
 def analysis(text):
@@ -24,6 +25,14 @@ def analysis(text):
             'type': 'definition',
             'position': (occurence.start(), occurence.end()),
             'description': definitions[difficult_word]
+            }
+            selections.append(selection)
+    for red_flag in red_flags:
+        for occurence in re.finditer(red_flag, doc.text):
+            selection = {
+            'type': 'red-flag',
+            'position': (occurence.start(), occurence.end()),
+            'description': red_flags[red_flag]
             }
             selections.append(selection)
     metadata = [{'type': 'summary', 'text': doc.summary.text}]
