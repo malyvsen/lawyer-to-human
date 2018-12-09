@@ -1,6 +1,6 @@
 <template>
   <div class="tooltip-wrapper">
-    <div class="side-tooltip">
+    <div class="side-tooltip elevation-7">
       <!-- {{ content }}	 -->
       <strong>
         <v-icon>book</v-icon>Definition
@@ -27,7 +27,7 @@
     max-width: 19%;
     transform: translateX(-100%);
     background: #fff;
-    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+    /* box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2); */
     padding: 1rem;
     padding-left: 0;
     font-size: 1.2rem;

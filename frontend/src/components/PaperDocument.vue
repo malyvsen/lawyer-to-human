@@ -1,5 +1,5 @@
 <template>
-  <article class="paper-document">
+  <article class="paper-document elevation-3">
     <p>
       <span v-for="part in splitedContent" :key="part.text" v-bind:class="{'underlined': part.isSelection}">{{ part.text }}<SideTooltip></SideTooltip>
       </span>
@@ -62,34 +62,34 @@ export default {
 </script>
 
 <style>
-.paper-document {
-  position: relative;
-  font-size: 1.5em;
-  background: #fff;
-  box-shadow: 0 -1px 15px rgba(0, 0, 0, 0.2);
-  max-width: 210mm;
-  width: 100%;
-  min-height: 80%;
-  margin: 4rem auto;
-  padding: 3rem;
-}
+  .paper-document {
+    position: relative;
+    font-size: 1.5em;
+    background: #fff;
+    max-width: 210mm;
+    width: 100%;
+    min-height: 80%;
+    margin: 4rem auto;
+    padding: 3rem;
+    margin-bottom: 50vh;
+  }
 
-.paper-document > p {
-  text-align: justify;
-}
+  .paper-document > p {
+    text-align: justify;
+  }
 
-.underlined {
-  text-decoration: underline;
-  position: relative;
-}
+  .underlined {
+    text-decoration: underline;
+    position: relative;
+  }
 
-.side-tooltip {
-  transition: opacity 0.5s ease;
-  opacity: 0;
-}
+  .side-tooltip {
+    transition: opacity 0.5s ease;
+    opacity: 0;
+  }
 
-span.underlined:hover > div .side-tooltip {
-  opacity: 1;
-  transition-duration: 0.3s;
-}
+  span.underlined:hover > div .side-tooltip {
+    opacity: 1;
+    transition-duration: 0.3s;
+  }
 </style>
