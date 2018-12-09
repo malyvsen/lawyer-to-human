@@ -2,7 +2,7 @@
   <div class="selection-details">
     <v-layout column>
       <strong>
-        <v-icon>book</v-icon>Definitions
+        <v-icon>book</v-icon>Definicje
       </strong>
       <dl>
         <div v-for="(definition, index) in definitionList" :key="index">
