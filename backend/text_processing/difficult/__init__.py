@@ -4,7 +4,7 @@ definitions = {
 'dyskryminacyjnego': 'związanego z gorszym traktowaniem z powodu odmienności',
 'pochodzenie etniczne': 'naród lub mniejszość narodowa, z której ktoś pochodzi',
 'werbalne': 'słowne, ustne',
-'pozawerbalne': 'przekazywane czymś innym niż słowami',
+# 'pozawerbalne': 'przekazywane czymś innym niż słowami',
 'mobbing': 'nękanie, przemoc psychiczna',
 'mobbingowi': 'nękaniu, przemoc psychiczna',
 'mobbingu': 'nękania, przemocy psychiczna',
