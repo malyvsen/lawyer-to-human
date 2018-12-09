@@ -1,5 +1,5 @@
-definitions = {
-'statutów': 'regulamin, kodeks',
+﻿definitions = {
+'statut': 'regulamin, kodeks',
 'dyskryminacja': 'gorsze traktowanie z powodu odmienności',
 'dyskryminacyjnego': 'związanego z gorszym traktowaniem z powodu odmienności',
 'pochodzenie etniczne': 'naród lub mniejszość narodowa, z której ktoś pochodzi',
