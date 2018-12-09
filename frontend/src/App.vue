@@ -1,7 +1,13 @@
 <template>
   <v-app>
     <v-content>
-      <paper-document></paper-document>
+      <paper-document v-if="currentDocument.text !== null" :content="currentDocument.text" :positions="processingDataPositions"></paper-document>
+      <v-btn color="info" fab large dark
+        v-if="currentDocument.tts !== null"
+        v-bind:id="currentDocument.tts"
+	v-on:click="playTTS">
+        <v-icon>hearing</v-icon>
+      </v-btn>
        <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
          <h3>Drop files to upload</h3>
        </div>
@@ -10,12 +16,13 @@
          <file-upload
             class="btn btn-primary v-btn white--text info v-btn--floating v-btn--outline"
             post-action="//localhost:10080/"
-            :multiple="true"
             :drop="true"
             :drop-directory="true"
-            v-model="files"
+            v-model="file"
             ref="upload"
-            v-show="!$refs.upload || !$refs.upload.active">
+            v-show="!$refs.upload || !$refs.upload.active"
+            @input-file="fileUpload"
+         >
            <v-icon right dark>list</v-icon>
          </file-upload>
          <v-progress-circular
@@ -36,25 +43,62 @@
 </template>
 
 <script>
-import PaperDocument from './components/PaperDocument'
-import FileUpload from 'vue-upload-component'
+import PaperDocument from "./components/PaperDocument";
+import FileUpload from "vue-upload-component";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     PaperDocument,
     FileUpload
   },
-  data () {
+  data() {
     return {
-      files: []
+      file: [],
+      uploadStatus: null,
+      currentDocument: {
+        text: null,
+        tts: null,
+        metadata: [],
+        selections: []
+      }
+    }
+  },
+  methods: {
+    fileUpload: function (newFile, oldFile) {
+      if (newFile && oldFile && !newFile.active && oldFile.active) {
+        if (newFile.xhr) {
+          if (newFile.xhr.status === 200) {
+            this.uploadStatus = true
+            console.log(newFile.response.metadata)
+            this.currentDocument.text = newFile.response.text || '';
+            this.currentDocument.tts = newFile.response.tts || '';
+            this.currentDocument.metadata = newFile.response.metadata || [];
+            this.currentDocument.selections = newFile.response.selections || []
+          } else {
+            this.uploadStatus = false;
+          }
+        }
+      }
+    },
+    playTTS: function (event) {
+      const src = "//localhost:10080/audio/" + event.originalTarget.id;
+      const audio = new Audio(src);
+      audio.play();
+    }
+  },
+  computed: {
+    processingDataPositions: function() {
+      const selections = Array.from(this.currentDocument.selections);
+      const sortedSelections = selections.sort((a, b) => (a[0] > b[0]));
+      return sortedSelections.map(selection => (selection.position));
     }
   }
-}
+};
 </script>
 
 <style>
-  body {
-    background: #fafafa;
-  }
+body {
+  background: #fafafa;
+}
 </style>
