@@ -33,7 +33,7 @@ class Word:
         morph_analysis = morph.analyse(main_text)
         if len(morph_analysis) == 0:
         	return main_text
-        return morph_analysis[0][2][1]
+        return morph_analysis[0][2][1].split(':')[0]
 
 
     def is_stop(self):

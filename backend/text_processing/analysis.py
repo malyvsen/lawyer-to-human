@@ -1,4 +1,6 @@
+import re
 from text_processing.document import Document
+from text_processing.difficult import definitions
 
 
 def analysis(text):
@@ -16,6 +18,14 @@ def analysis(text):
         end = start + len(underlined_sentence.text)
         selection = {'type': 'underline', 'position': (start, end)}
         selections.append(selection)
+    for difficult_word in definitions:
+        for occurence in re.finditer(difficult_word, doc.text):
+            selection = {
+            'type': 'definition',
+            'position': (occurence.start(), occurence.end()),
+            'description': definitions[difficult_word]
+            }
+            selections.append(selection)
     metadata = [{'type': 'summary', 'text': doc.summary.text}]
     return {
         'text': doc.text,
