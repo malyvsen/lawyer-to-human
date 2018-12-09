@@ -14,7 +14,15 @@ class Document:
 
     @classmethod
     def from_text(cls, text):
-        sentences = [Sentence.from_text(sentence_text) for sentence_text in text.split('.')]
+        sentences = []
+        remaining_text = text
+        while True:
+            next_ending = Sentence.find_ending(remaining_text)
+            if next_ending < 0:
+                break
+            sentence = Sentence.from_text(remaining_text[:next_ending], remaining_text[next_ending])
+            sentences.append(sentence)
+            remaining_text = remaining_text[next_ending + 1:]
         sentences = [sentence for sentence in sentences if sentence is not None]
         if len(sentences) == 0:
             return None
@@ -30,7 +38,7 @@ class Document:
         if num_underlines is None:
             num_underlines = len(self.sentences) // 4
 
-        score = lambda sentence: self.lemma_count.dot(sentence.lemma_count)
+        score = lambda sentence: self.lemma_count.cosine(sentence.lemma_count)
         sorted_sentences = sorted(self.sentences, key=score, reverse=True)
 
         order = lambda sentence: self.sentences.index(sentence)
