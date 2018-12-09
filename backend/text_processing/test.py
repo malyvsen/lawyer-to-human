@@ -1,10 +1,12 @@
 from pprint import PrettyPrinter
-from text_processing.document import Document
 from text_processing.analysis import analysis
+from text_processing.document import Document
+from text_processing.sentence import Sentence
+from text_processing.word import Word
 
 
-def test_doc():
-    result = Document.from_text(test_text)
+def test_doc(text=None):
+    result = Document.from_text(test_text if text is None else text)
 
     current_doc = result
     while current_doc is not None:
@@ -15,8 +17,8 @@ def test_doc():
     return result
 
 
-def test_analysis():
-    result = analysis(test_text)
+def test_analysis(text=None):
+    result = analysis(test_text if text is None else text)
     printer = PrettyPrinter()
     printer.pprint(result)
     return result

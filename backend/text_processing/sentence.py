@@ -32,11 +32,9 @@ class Sentence:
 
     def find_ending(text):
         endings = '.?!\n'
-        for ending in endings:
-            pos = text.find(ending)
-            if pos > -1:
-                return pos
-        return -1
+        positions = [text.find(ending) for ending in endings]
+        positions = [position for position in positions if position > -1]
+        return min(positions) if len(positions) > 0 else -1
 
 
     def __str__(self):
