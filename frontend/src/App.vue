@@ -17,17 +17,6 @@
         :sentenceIndex="sentenceIndex"
         :document="currentDocument"
       ></paper-document>
-      <v-btn
-        color="info"
-        fab
-        large
-        dark
-        v-if="currentDocument.tts !== null"
-        v-bind:id="currentDocument.tts"
-        v-on:click="playTTS"
-      >
-        <v-icon>hearing</v-icon>
-      </v-btn>
 
       <SelectionDetails :definitionList="currentDefinitions" v-bind:class="{hidden: !uploadStatus || currentDefinitions.length === 0}"></SelectionDetails>
 
@@ -141,11 +130,6 @@ export default {
       if (newFontSize >= 25 && newFontSize <= 300) {
         this.fontSize = newFontSize;
       }
-    },
-    playTTS: function(event) {
-      const src = "//localhost:10080/audio/" + event.originalTarget.id;
-      const audio = new Audio(src);
-      audio.play();
     }
   },
   mounted () {
