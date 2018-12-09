@@ -12,11 +12,29 @@ class Sentence:
 
     @classmethod
     def from_text(cls, text, ending='.'):
-        words = [Word.from_text(word_text) for word_text in text.split(' ')]
-        words = [word for word in words if word is not None] # remove parsing failures
+        words = list(Word.generator(text))
         if len(words) == 0:
             return None
         return cls(words, ending)
+
+
+    @classmethod
+    def generator(cls, text):
+        separators = '.?!'
+        while len(text) > 0:
+            positions = {separator: text.find(separator) for separator in separators}
+            positions = {separator: positions[separator] for separator in separators if positions[separator] > -1}
+            position_extractor = lambda separator: positions[separator]
+            next_separator = min(positions, key=position_extractor) if len(positions) > 0 else None
+            if next_separator is None:
+                result = cls.from_text(text)
+                if result is not None:
+                    yield result
+                return
+            result = cls.from_text(text[:positions[next_separator]], next_separator)
+            if result is not None:
+                yield result
+            text = text[positions[next_separator] + 1:]
 
 
     def lemma_count(self):
@@ -30,13 +48,5 @@ class Sentence:
         return ' '.join(word.text for word in self.words) + self.ending
 
 
-    def find_ending(text):
-        endings = '.?!\n'
-        positions = [text.find(ending) for ending in endings]
-        positions = [position for position in positions if position > -1]
-        return min(positions) if len(positions) > 0 else -1
-
-
     def __str__(self):
-        return f'''Sentence with {len(self.words)} words, {len(self.lemma_count.count)} unique words:
-        {self.text}'''
+        return f'Sentence with {len(self.words)} words, {len(self.lemma_count.count)} unique words:\n{self.text}'
