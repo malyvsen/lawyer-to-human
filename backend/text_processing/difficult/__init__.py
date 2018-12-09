@@ -11,18 +11,18 @@ definitions = {
 'wyelminowanie': 'pozbycie się',
 'izolować': 'unikać, trzymać w odosobnieniu',
 'zadośćuczynienia': 'odszkodowanie',
-'normy prawne':'obowiązujące zasady prawidłowego postępowania',
-'układów zbiorowych':'umów o warunkach pracy',
-'ustawie':'zasadzie prawnej',
-'porozumień zbiorowych':'umowów o warunkach pracy',
-'art.':'artykuł, część dokumentu prawnego',
-'akt':'dokument',
-'stosunek pracy':'obowiązki pracownika i pracodawcy związane z zatrudnieniem',
-'stosunku pracy':'obowiązki pracownika i pracodawcy związane z zatrudnieniem'
-'awansowania':'dostania lepszej pracy',
-'awansowaniu':'dostaniu lepszej pracy',
-'kwalifikacji zawodowych':'umiejętności przydantych w pracy',
-'pozornie':'nieprawdziwie, ale takie się wydaje',
-'dysproporcje':'nierówności',
-'obiektywnie':'zawsze prawdziwie'
+'normy prawne': 'obowiązujące zasady prawidłowego postępowania',
+'układów zbiorowych': 'umów o warunkach pracy',
+'ustawie': 'zasadzie prawnej',
+'porozumień zbiorowych': 'umowów o warunkach pracy',
+'art.': 'artykuł, część dokumentu prawnego',
+'akt': 'dokument',
+'stosunek pracy': 'obowiązki pracownika i pracodawcy związane z zatrudnieniem',
+'stosunku pracy': 'obowiązki pracownika i pracodawcy związane z zatrudnieniem'
+'awansowania': 'dostania lepszej pracy',
+'awansowaniu': 'dostaniu lepszej pracy',
+'kwalifikacji zawodowych': 'umiejętności przydantych w pracy',
+'pozornie': 'nieprawdziwie, ale takie się wydaje',
+'dysproporcje': 'nierówności',
+'obiektywnie': 'zawsze prawdziwie'
 }
