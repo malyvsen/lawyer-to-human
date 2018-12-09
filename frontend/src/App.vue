@@ -1,7 +1,6 @@
 <template>
   <v-app>
     <SentenceNav @decreaseFontSize="changeFontSize(-25)" @increaseFontSize="changeFontSize(25)"></SentenceNav>
-
     <v-content :style="fontSizeStyle">
       <paper-document
         v-if="currentDocument.text !== null"
@@ -25,34 +24,53 @@
 
       <SelectionDetails></SelectionDetails>
 
-      <div class="upload-btn text-xs-center">
-        <file-upload
-          class="btn btn-primary v-btn white--text info v-btn--floating v-btn--outline"
-          post-action="//localhost:10080/"
-          :drop="true"
-          :drop-directory="true"
-          v-model="file"
-          ref="upload"
-          v-show="!$refs.upload || !$refs.upload.active"
-          @input-file="fileUpload"
+      <v-layout
+        align-center
+        align-content-center
+        justify-center
+        column
         >
-          <v-icon right dark>list</v-icon>
-        </file-upload>
-        <v-progress-circular
-          :size="50"
-          color="primary"
-          indeterminate
-          v-show="$refs.upload && $refs.upload.active"
-        ></v-progress-circular>
-        <v-btn
-          color="blue-grey"
-          type="button"
-          class="btn btn-success white--text"
-          @click.prevent="$refs.upload.active = true"
-        >Start Upload
-          <v-icon right dark>cloud_upload</v-icon>
-        </v-btn>
-      </div>
+        <v-flex>
+          <file-upload
+            class="file-upload"
+            post-action="//localhost:10080/"
+            :drop="true"
+            :drop-directory="true"
+            v-model="file"
+            ref="upload"
+            v-show="!$refs.upload || !$refs.upload.active"
+            @input-file="fileUpload"
+          >
+            <v-layout align-center justify-center style="height: 100%;" column>
+              <v-icon size="5em">
+                present_to_all
+              </v-icon>
+              <span v-if="file.length == 0">
+                Click here to upload
+              </span>
+              <span v-else>
+                File selected! Press button below to upload.
+              </span>
+            </v-layout>
+          </file-upload>
+          <v-progress-circular
+            indeterminate
+            size="50"
+            color="blue"
+            v-show="$refs.upload && $refs.upload.active"
+          ></v-progress-circular>
+        </v-flex>
+        <v-flex>
+          <v-btn
+            color="blue-grey"
+            type="button"
+            class="btn btn-success white--text"
+            @click.prevent="$refs.upload.active = true"
+          >Start Upload
+            <v-icon right dark>cloud_upload</v-icon>
+          </v-btn>
+        </v-flex>
+      </v-layout>
     </v-content>
   </v-app>
 </template>
@@ -114,7 +132,6 @@ export default {
   },
   computed: {
     processingDataPositions: function() {
-      console.log("currentDocument", this.currentDocument);
       const selections = Array.from(this.currentDocument.selections);
       const sortedSelections = selections.sort((a, b) => a[0] > b[0]);
       return sortedSelections.map(selection => selection.position);
@@ -134,5 +151,11 @@ body {
 
 .theme--light.v-divider {
   height: 1em;
+}
+
+.file-upload {
+  margin-top: 30px;
+  width: 200px;
+  height: 200px;
 }
 </style>

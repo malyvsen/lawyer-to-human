@@ -42,11 +42,7 @@ export default {
   //   props: ['quote'],
   components: {},
   computed: {},
-  methods: {
-    changeFont(delta) {
-      this.$emit('myEvent')
-    }
-  }
+  methods: {}
 };
 </script>
 
