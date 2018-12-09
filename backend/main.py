@@ -1,8 +1,11 @@
 import binascii
 import random
+import textract
+import text_processing
 import os
 import string
-from flask import Flask, flash, request, redirect, url_for, send_from_directory
+from flask import (Flask, flash, request, redirect, url_for, jsonify,
+                   send_from_directory)
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 from gtts import gTTS
@@ -59,14 +62,8 @@ def index():
             save_filename = f"{filename}.{random_hash}.{extension}"
         uploaded_file.save(os.path.join(app.config['UPLOAD_FOLDER'], save_filename))
 
-        ### USE FILE FOR OCR
+        text = textract.process(UPLOAD_FOLDER + '/' + save_filename, language="pol")
 
-        # if not plain_text:
-        #   plain_text OCR(UPLOAD_FOLDER + '/' + save_filename)
+        analysis = text_processing.analysis(text.decode('utf-8'))
 
-        ### USE FILE FOR AI
-
-        # summary = AI(plain_text)
-        # return summary
-
-        return save_filename
+        return jsonify(analysis)

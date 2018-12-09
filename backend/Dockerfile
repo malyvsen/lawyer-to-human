@@ -1,7 +1,11 @@
 FROM python:latest
 ENV PYTHONUNBUFFERED 1
 
-RUN pip install pipenv gunicorn
+RUN apt-get update
+RUN apt-get install -y python-dev libxml2-dev libxslt1-dev antiword unrtf poppler-utils pstotext tesseract-ocr flac \
+    ffmpeg lame libmad0 libsox-fmt-mp3 sox libjpeg-dev swig zlib1g-dev libpulse-dev tesseract-ocr-pol
+
+RUN pip install pipenv gunicorn textract
 
 COPY Pipfile Pipfile.lock /deploy/
 WORKDIR /deploy
