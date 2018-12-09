@@ -1,12 +1,16 @@
 <template>
   <v-app>
-    <v-content>
+    <SentenceNav @decreaseFontSize="changeFontSize(-25)" @increaseFontSize="changeFontSize(25)"></SentenceNav>
+
+    <v-content :style="fontSizeStyle">
       <paper-document v-if="currentDocument.text !== null" :content="currentDocument.text" :positions="processingDataPositions"></paper-document>
        <div v-show="$refs.upload && $refs.upload.dropActive" class="drop-active">
          <h3>Drop files to upload</h3>
        </div>
 
-       <div class="example-btn">
+       <SelectionDetails></SelectionDetails>
+
+       <div class="upload-btn text-xs-center">
          <file-upload
             class="btn btn-primary v-btn white--text info v-btn--floating v-btn--outline"
             post-action="//localhost:10080/"
@@ -39,16 +43,21 @@
 <script>
 import PaperDocument from "./components/PaperDocument";
 import FileUpload from "vue-upload-component";
+import SelectionDetails from "./components/SelectionDetails"
+import SentenceNav from "./components/SentenceNav"
 
 export default {
   name: "App",
   components: {
     PaperDocument,
-    FileUpload
+    FileUpload,
+    SelectionDetails,
+    SentenceNav
   },
   data() {
     return {
       file: [],
+      fontSize: 100,
       uploadStatus: null,
       currentDocument: {
         text: null,
@@ -72,13 +81,23 @@ export default {
           }
         }
       }
+    },
+    changeFontSize: function (delta) {
+      const newFontSize =this.fontSize + delta;
+      if (newFontSize >= 25 && newFontSize <= 300) {
+        this.fontSize = newFontSize;
+      }
     }
   },
   computed: {
     processingDataPositions: function() {
+      console.log('currentDocument', this.currentDocument);
       const selections = Array.from(this.currentDocument.selections);
       const sortedSelections = selections.sort((a, b) => (a[0] > b[0]));
       return sortedSelections.map(selection => (selection.position));
+    },
+    fontSizeStyle: function() {
+      return {fontSize: this.fontSize + '%'};
     }
   }
 };
@@ -87,5 +106,10 @@ export default {
 <style>
 body {
   background: #fafafa;
+  padding-top: 6rem;
+}
+
+.theme--light.v-divider {
+  height: 1em;
 }
 </style>
