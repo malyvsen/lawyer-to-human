@@ -14,7 +14,15 @@ class Document:
 
     @classmethod
     def from_text(cls, text):
-        sentences = [Sentence.from_text(sentence_text) for sentence_text in text.split('.')]
+        sentences = []
+        remaining_text = text
+        while True:
+            next_ending = Sentence.find_ending(remaining_text)
+            if next_ending < 0:
+                break
+            sentence = Sentence.from_text(remaining_text[:next_ending], remaining_text[next_ending])
+            sentences.append(sentence)
+            remaining_text = remaining_text[next_ending + 1:]
         sentences = [sentence for sentence in sentences if sentence is not None]
         if len(sentences) == 0:
             return None
