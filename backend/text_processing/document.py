@@ -30,7 +30,7 @@ class Document:
         if num_underlines is None:
             num_underlines = len(self.sentences) // 4
 
-        score = lambda sentence: self.lemma_count.dot(sentence.lemma_count)
+        score = lambda sentence: self.lemma_count.cosine(sentence.lemma_count)
         sorted_sentences = sorted(self.sentences, key=score, reverse=True)
 
         order = lambda sentence: self.sentences.index(sentence)
