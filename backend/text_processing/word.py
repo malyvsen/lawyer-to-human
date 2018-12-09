@@ -24,6 +24,25 @@ class Word:
         return cls(text)
 
 
+    @classmethod
+    def generator(cls, text):
+        separators = string.whitespace
+        while len(text) > 0:
+            positions = {separator: text.find(separator) for separator in separators}
+            positions = {separator: positions[separator] for separator in separators if positions[separator] > -1}
+            position_extractor = lambda separator: positions[separator]
+            next_separator = min(positions, key=position_extractor) if len(positions) > 0 else None
+            if next_separator is None:
+                result = cls.from_text(text)
+                if result is not None:
+                    yield result
+                return
+            result = cls.from_text(text[:positions[next_separator] + 1])
+            if result is not None:
+                yield result
+            text = text[positions[next_separator] + 1:]
+
+
     def lemma(self):
         if self.text.find(string.digits) > -1:
             return '#NUMERIC'
