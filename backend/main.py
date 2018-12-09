@@ -1,6 +1,7 @@
 import binascii
 import random
 import textract
+import text_processing
 import os
 from flask import Flask, flash, request, redirect, url_for, jsonify
 from flask_cors import CORS
@@ -42,11 +43,6 @@ def index():
 
         text = textract.process(UPLOAD_FOLDER + '/' + save_filename, language="pol")
 
-        ### USE FILE FOR AI
+        analysis = text_processing.analysis(text.decode('utf-8'))
 
-        # summary = AI(text)
-
-        return jsonify({
-            'text': text.decode('utf-8')
-            # 'summary': summary
-        })
+        return jsonify(analysis)
