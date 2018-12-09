@@ -18,7 +18,7 @@ definitions = {
 'art.': 'artykuł, część dokumentu prawnego',
 'akt': 'dokument',
 'stosunek pracy': 'obowiązki pracownika i pracodawcy związane z zatrudnieniem',
-'stosunku pracy': 'obowiązki pracownika i pracodawcy związane z zatrudnieniem'
+'stosunku pracy': 'obowiązki pracownika i pracodawcy związane z zatrudnieniem',
 'awansowania': 'dostania lepszej pracy',
 'awansowaniu': 'dostaniu lepszej pracy',
 'kwalifikacji zawodowych': 'umiejętności przydantych w pracy',
