@@ -23,7 +23,10 @@ class LemmaCount:
 
 
     def cosine(self, other):
-        return self.dot(other) / self.norm() / other.norm()
+        norm_product = self.norm() * other.norm()
+        if norm_product == 0:
+            return 0
+        return self.dot(other) / norm_product
 
 
     def norm(self):

@@ -29,13 +29,22 @@ def gen_tts(txt):
     directory = app.config['TTS_FOLDER']
     if not os.path.exists(directory):
         os.makedirs(directory)
-    tts.save(os.path.join(directory, filename))
-    return filename
+    try:
+        tts.save(os.path.join(directory, filename))
+        return filename, True
+    except:
+        return '', False
 
 
 @app.route('/audio/<path:path>')
 def serve_audio(path):
     return send_from_directory(app.config['TTS_FOLDER'], path)
+
+
+@app.route('/newaudio', methods=['POST'])
+def create_audio():
+    # probably should check if plain text
+    return gen_tts(request.data)
 
 
 @app.route('/', methods=['POST'])
@@ -66,6 +75,6 @@ def index():
 
         analysis = text_processing.analysis(text.decode('utf-8'))
 
-        analysis['tts'] = gen_tts(analysis['text'])
+        # analysis['tts'] = gen_tts(analysis['text'])
 
         return jsonify(analysis)

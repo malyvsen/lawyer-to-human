@@ -14,16 +14,7 @@ class Document:
 
     @classmethod
     def from_text(cls, text):
-        sentences = []
-        remaining_text = text
-        while True:
-            next_ending = Sentence.find_ending(remaining_text)
-            if next_ending < 0:
-                break
-            sentence = Sentence.from_text(remaining_text[:next_ending], remaining_text[next_ending])
-            sentences.append(sentence)
-            remaining_text = remaining_text[next_ending + 1:]
-        sentences = [sentence for sentence in sentences if sentence is not None]
+        sentences = list(Sentence.generator(text))
         if len(sentences) == 0:
             return None
         return cls(sentences)
@@ -35,11 +26,12 @@ class Document:
 
 
     def underlined_sentences(self, num_underlines=None):
+        longer_sentences = [sentence for sentence in self.sentences if len(sentence.words) > 5]
         if num_underlines is None:
-            num_underlines = int(len(self.sentences) ** .5)
+            num_underlines = int(len(longer_sentences) ** .5)
 
         score = lambda sentence: self.lemma_count.cosine(sentence.lemma_count)
-        sorted_sentences = sorted(self.sentences, key=score, reverse=True)
+        sorted_sentences = sorted(longer_sentences, key=score, reverse=True)
 
         order = lambda sentence: self.sentences.index(sentence)
         result = sorted(sorted_sentences[:num_underlines], key=order)
@@ -57,5 +49,4 @@ class Document:
 
 
     def __str__(self):
-        return f'''Document with {len(self.sentences)} sentences, {len(self.lemma_count.count)} unique words:
-        {self.text}'''
+        return f'Document with {len(self.sentences)} sentences, {len(self.lemma_count.count)} unique words:\n{self.text}'
